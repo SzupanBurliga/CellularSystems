@@ -363,7 +363,34 @@
  <BestLOSBuildings ignore_building_edge_shadow="true" use_building_vector_database="false" percent_building_service_objective="99.0" required_fresnel_zone_clearance="1.0" maximum_of_hub_locations_to_be_found="10" cpe_type_index="0">
   <availiable_buildings no_of_avail="0"/>
  </BestLOSBuildings>
- <GraphicObjectList number="0"/>
+ <GraphicObjectList number="1">
+  <GraphicObject graphic_type="14">
+   <ServiceAreaBoundaryObject Level_Type="2" GUID="70e01998-4642-4a2f-bab1-6b8b751d270e" ParentGUID="">
+    <PolygonObject UseFillPattern="false">
+     <PolygonObjectFill>
+      <FillDesc fill_style="solid">
+       <Color r="0" g="0" b="0"/>
+      </FillDesc>
+     </PolygonObjectFill>
+     <PolylineObject>
+      <PenDesc width="0.0" style="solid">
+       <Color r="0" g="0" b="0"/>
+      </PenDesc>
+      <GraphicalObject Id="" IndexForLabel="11010080" width="0.0">
+       <Color r="0" g="255" b="0"/>
+       <LatLongTypeList number="5">
+        <LatLongPair latitude="44.8020467608305" longitude="-123.6481544816"/>
+        <LatLongPair latitude="44.35194801894186" longitude="-123.6464550373614"/>
+        <LatLongPair latitude="44.35142190123723" longitude="-123.0172875560494"/>
+        <LatLongPair latitude="44.80218610694998" longitude="-123.0159598435016"/>
+        <LatLongPair latitude="44.80204208079762" longitude="-123.6490773951928"/>
+       </LatLongTypeList>
+      </GraphicalObject>
+     </PolylineObject>
+    </PolygonObject>
+   </ServiceAreaBoundaryObject>
+  </GraphicObject>
+ </GraphicObjectList>
  <RFLabelObjectList number="0"/>
  <CPEDisplays size="1">
   <cpe_label_font>

@@ -13,7 +13,7 @@
     </BaseStation>
     <Antennas no_of_antennas="3">
      <Tx frequency="900.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="ABAA0001" UserSectorID="" guid="6c2cd96e-cefb-46d9-8966-167b4066e8a0" system="0" focus="false" most_likely_server_symbol="SOLID">
+      <BaseTx tx_id="ABAA0001" UserSectorID="" guid="6c2cd96e-cefb-46d9-8966-167b4066e8a0" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
         <Color r="255" g="0" b="0"/>
        </most_likely_server_color>
