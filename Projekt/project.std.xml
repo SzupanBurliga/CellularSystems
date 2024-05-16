@@ -405,7 +405,7 @@
  </BestLOSBuildings>
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="14">
-   <ServiceAreaBoundaryObject Level_Type="2" GUID="70e01998-4642-4a2f-bab1-6b8b751d270e" ParentGUID="">
+   <ServiceAreaBoundaryObject Level_Type="2" GUID="dd2ca67f-cd8e-4492-aa37-6b05d3a6946f" ParentGUID="">
     <PolygonObject UseFillPattern="false">
      <PolygonObjectFill>
       <FillDesc fill_style="solid">
@@ -419,11 +419,11 @@
       <GraphicalObject Id="" IndexForLabel="11010080" width="0.0">
        <Color r="0" g="255" b="0"/>
        <LatLongTypeList number="5">
-        <LatLongPair latitude="44.8020467608305" longitude="-123.6481544816"/>
-        <LatLongPair latitude="44.35194801894186" longitude="-123.6464550373614"/>
-        <LatLongPair latitude="44.35142190123723" longitude="-123.0172875560494"/>
-        <LatLongPair latitude="44.80218610694998" longitude="-123.0159598435016"/>
-        <LatLongPair latitude="44.80204208079762" longitude="-123.6490773951928"/>
+        <LatLongPair latitude="44.80025328257139" longitude="-123.6457413075028"/>
+        <LatLongPair latitude="44.35373429958506" longitude="-123.6430592893892"/>
+        <LatLongPair latitude="44.3539374384582" longitude="-123.0198671367096"/>
+        <LatLongPair latitude="44.79868302580808" longitude="-123.0177667627483"/>
+        <LatLongPair latitude="44.79966624617136" longitude="-123.6440686581906"/>
        </LatLongTypeList>
       </GraphicalObject>
      </PolylineObject>
@@ -2070,8 +2070,8 @@
   </Transmitter_Template>
  </Transmitter_Templates>
  <FirstGenSystem>
-  <SystemTypeList last_selected_index="1" service_area_boundary_filename="&lt;PROJECT_PATH&gt;\SERVICEAREA.BNA">
-   <SystemType system_name="Placeholder" system_type="GSM" frequency_band="935 MHz" custom_lower_band_edge1="1000.0" custom_upper_band_edge1="1000.0" custom_lower_band_edge2="1000.0" custom_upper_band_edge2="1000.0" custom_lower_band_edge3="1000.0" custom_upper_band_edge3="1000.0" custom_lower_band_edge4="1000.0" custom_upper_band_edge4="1000.0" forward_link_lower_band_edge="935.0" forward_link_upper_band_edge="960.0" system_carrier_spacing="200.0" voice_channels_per_RF_channel="8" signal_level_minimum="1.0" track_traffic="false" track_traffic_type="1" track_traffic_cap="0.0">
+  <SystemTypeList last_selected_index="1" service_area_boundary_filename="&lt;PROJECT_PATH&gt;\TEST.BNA">
+   <SystemType system_name="system group 1" system_type="GSM" frequency_band="935 MHz" custom_lower_band_edge1="1000.0" custom_upper_band_edge1="1000.0" custom_lower_band_edge2="1000.0" custom_upper_band_edge2="1000.0" custom_lower_band_edge3="1000.0" custom_upper_band_edge3="1000.0" custom_lower_band_edge4="1000.0" custom_upper_band_edge4="1000.0" forward_link_lower_band_edge="935.0" forward_link_upper_band_edge="960.0" system_carrier_spacing="200.0" voice_channels_per_RF_channel="8" signal_level_minimum="1.0" track_traffic="false" track_traffic_type="1" track_traffic_cap="0.0">
     <ChannelPlanTemplate channel_plan_template_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\CPT\GSM4.CPT" no_of_channel_group_colors="24" downlink_fade_margin_objective="10.0" uplink_fade_margin_objective="10.0" maximum_channel_overbooking_pc="10.0" assign_multiple_access_channels="false" assign_frequency_hopping_sequences="false" frequency_hopping_sequency_filename="" random_seed="0" assignment_mode="find_and_set_all_servers" channel_assignment_mode="assign_any_uplink_non_interfering_to_CT">
      <group>
       <Color r="5" g="223" b="163"/>
@@ -2156,7 +2156,7 @@
     </Gen3>
     <OtherSystemParameters handoff_type="power ratio" handoff_threshold="-100.0" minimum_useable_level="-100.0" power_ratio="6.0" adj_channel_attenuation="0.0" measured_intrf_filename=""/>
    </SystemType>
-   <SystemType system_name="system group 2" system_type="amps" frequency_band="870 MHz" custom_lower_band_edge1="1000.0" custom_upper_band_edge1="1000.0" custom_lower_band_edge2="1000.0" custom_upper_band_edge2="1000.0" custom_lower_band_edge3="1000.0" custom_upper_band_edge3="1000.0" custom_lower_band_edge4="1000.0" custom_upper_band_edge4="1000.0" forward_link_lower_band_edge="869.0" forward_link_upper_band_edge="894.0" system_carrier_spacing="30.0" voice_channels_per_RF_channel="1" signal_level_minimum="1.0" track_traffic="false" track_traffic_type="0" track_traffic_cap="0.0">
+   <SystemType system_name="system group 2" system_type="AMPS" frequency_band="870 MHz" custom_lower_band_edge1="1000.0" custom_upper_band_edge1="1000.0" custom_lower_band_edge2="1000.0" custom_upper_band_edge2="1000.0" custom_lower_band_edge3="1000.0" custom_upper_band_edge3="1000.0" custom_lower_band_edge4="1000.0" custom_upper_band_edge4="1000.0" forward_link_lower_band_edge="869.0" forward_link_upper_band_edge="894.0" system_carrier_spacing="30.0" voice_channels_per_RF_channel="1" signal_level_minimum="1.0" track_traffic="false" track_traffic_type="1" track_traffic_cap="0.0">
     <ChannelPlanTemplate channel_plan_template_filename="" no_of_channel_group_colors="0" downlink_fade_margin_objective="10.0" uplink_fade_margin_objective="10.0" maximum_channel_overbooking_pc="10.0" assign_multiple_access_channels="false" assign_frequency_hopping_sequences="false" frequency_hopping_sequency_filename="" random_seed="0" assignment_mode="find_and_set_all_servers" channel_assignment_mode="assign_any_uplink_non_interfering_to_CT"/>
     <Gen1>
      <CdmaSystemParameters soft_handoff_gain="0.0" cdma_chip_rate="1.2288" base_station_noise="5.0" mobile_station_noise="8.0" total_pilot_code_offsets="1" total_channel_codes="64" mobile_station_erp="0.0" max_base_station_tce_erp="1.0" frequency_reuse_factor="0.45" percent_power_for_pilot_channel="20.0" percent_power_for_traffic_channel="75.0" percent_power_for_sync_channel="2.0" percent_power_for_paging_channel="3.0" handoff_initiate_threshold="-12.0" handoff_drop_threshold="-16.0" orthogonality_factor="1.0" imperfect_apc_factor="0.1" traffic_data_rate="1200.0" n_srch_win_a="1" group_identifier="master group" pn_c_over_i_ratio="0.5" cdma_target_eb_over_no="0.5" pn_reserved_offsets_size="0"/>
@@ -2449,10 +2449,13 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="3">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="6">
    <TX_ID id="ABAA0001" active="true"/>
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAA0003" active="true"/>
+   <TX_ID id="ABAB0001" active="true"/>
+   <TX_ID id="ABAB0002" active="true"/>
+   <TX_ID id="ABAB0003" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
