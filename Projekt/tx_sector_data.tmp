@@ -1,8 +1,8 @@
 
 SITEID = ABAA0001
-Latitude(dd) =    44.506431
-Longitude(dd) =  -123.221093
-Site elevation(m) =    70.90
+Latitude(dd) =    44.588400
+Longitude(dd) =  -123.245048
+Site elevation(m) =    67.22
 Transmit antenna height AGL (m) =    30.00
 Frequency(MHz) =   900.000000
 Transmitter power(dBW) =    13.00
@@ -42,9 +42,9 @@ Receive antenna type = Directional
 Receiver antenna polarization = V
 
 SITEID = ABAA0002
-Latitude(dd) =    44.506431
-Longitude(dd) =  -123.221093
-Site elevation(m) =    70.90
+Latitude(dd) =    44.588400
+Longitude(dd) =  -123.245048
+Site elevation(m) =    67.22
 Transmit antenna height AGL (m) =    30.00
 Frequency(MHz) =   900.000000
 Transmitter power(dBW) =    13.00
@@ -84,9 +84,9 @@ Receive antenna type = Directional
 Receiver antenna polarization = V
 
 SITEID = ABAA0003
-Latitude(dd) =    44.506431
-Longitude(dd) =  -123.221093
-Site elevation(m) =    70.90
+Latitude(dd) =    44.588400
+Longitude(dd) =  -123.245048
+Site elevation(m) =    67.22
 Transmit antenna height AGL (m) =    30.00
 Frequency(MHz) =   900.000000
 Transmitter power(dBW) =    13.00
@@ -126,9 +126,9 @@ Receive antenna type = Directional
 Receiver antenna polarization = V
 
 SITEID = ABAB0001
-Latitude(dd) =    44.468837
-Longitude(dd) =  -123.310119
-Site elevation(m) =    74.74
+Latitude(dd) =    44.558704
+Longitude(dd) =  -123.299133
+Site elevation(m) =    90.79
 Transmit antenna height AGL (m) =    30.00
 Frequency(MHz) =   900.000000
 Transmitter power(dBW) =    13.00
@@ -168,9 +168,9 @@ Receive antenna type = Directional
 Receiver antenna polarization = V
 
 SITEID = ABAB0002
-Latitude(dd) =    44.468837
-Longitude(dd) =  -123.310119
-Site elevation(m) =    74.74
+Latitude(dd) =    44.558704
+Longitude(dd) =  -123.299133
+Site elevation(m) =    90.79
 Transmit antenna height AGL (m) =    30.00
 Frequency(MHz) =   900.000000
 Transmitter power(dBW) =    13.00
@@ -210,9 +210,9 @@ Receive antenna type = Directional
 Receiver antenna polarization = V
 
 SITEID = ABAB0003
-Latitude(dd) =    44.468837
-Longitude(dd) =  -123.310119
-Site elevation(m) =    74.74
+Latitude(dd) =    44.558704
+Longitude(dd) =  -123.299133
+Site elevation(m) =    90.79
 Transmit antenna height AGL (m) =    30.00
 Frequency(MHz) =   900.000000
 Transmitter power(dBW) =    13.00

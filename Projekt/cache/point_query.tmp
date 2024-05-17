@@ -1,0 +1,41 @@
+Point Query
+-----------
+
+Latitude:    44 28 11.31 North      44.469807
+Longitude:  123  1 49.77 West     -123.030492
+
+Terrain elevation:    82.8 meters
+Terrain database type index:  6
+
+Land use (clutter) type number:  17
+
+Land use (clutter) category: Pasture/Hay                     
+Clutter height:     0.0 meters
+
+Building ID:            0     Building height:     0.0 meters
+      No supplemental data for this building
+
+Raw signal data for 'Shadow map'                                                
+
+ Sector   Downlink Power  Uplink Power    Distance    Bearing     Transit time  Transit+TX_offset
+--------  --------------  ------------  ----------  ------------  ------------  -----------------
+ABAA0002   -108.6 dBmW    -134.7 dBmW     15.7 km     285.1 deg       51.7 uS       51.7 uS
+ABAB0002   -114.0 dBmW    -137.4 dBmW     22.2 km     269.8 deg       73.2 uS       73.2 uS
+ABAA0001   -124.6 dBmW    -134.7 dBmW     15.7 km     285.1 deg       51.7 uS       51.7 uS
+ABAB0001   -127.4 dBmW    -137.4 dBmW     22.2 km     269.8 deg       73.2 uS       73.2 uS
+ABAA0003   -129.9 dBmW    -134.7 dBmW     15.7 km     285.1 deg       51.7 uS       51.7 uS
+ABAB0003   -133.9 dBmW    -137.4 dBmW     22.2 km     269.8 deg       73.2 uS       73.2 uS
+Shadowed: No 
+Minimum RMS delay spread:             0.0 nSec
+Minimum pathloss:                   154.1 dB
+Maximum field strength at remote:    30.7 dBuV/m
+Maximum field strength at base:      12.2 dBuV/m
+Power flux density:                -113.8 dBW/m2
+
+Raw signal study grid array coordinates (x,y):   238 -118
+
+--- mxx_file: view.0.1.mxx  
+Received power at best base from remote:  No value*        - server = ABAA0002
+
+--- mxx_file: view.0.2.mxx  
+Strongest (most likely) Server:  No value*        - server = ABAA0002

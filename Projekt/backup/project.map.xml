@@ -2,8 +2,8 @@
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
  <Views size="1" last_active="0">
-  <View name="initial view" top="-23" left="-4" width="1509" height="932" show="true" maximized="true">
-   <ProjectedCoordinateSystem map_center_latitude="44.58088947023767" map_center_longitude="-123.1853883950229" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
+  <View name="initial view" top="-23" left="-4" width="1525" height="941" show="true" maximized="true">
+   <ProjectedCoordinateSystem map_center_latitude="44.52986228873605" map_center_longitude="-123.1489252125222" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
     <PenDesc>
@@ -68,7 +68,7 @@
     <note text=""/>
     <note text=""/>
    </LegendOptions>
-   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:249289" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
+   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:146386" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
     <BorderPenDesc>
      <PenDesc width="0.7" style="solid">
       <Color r="0" g="0" b="0"/>
@@ -168,7 +168,7 @@
     <RouteStudyParms study_route_filename="&lt;INSTALL_PATH&gt;\SAMPLE DATA\BIG_EUGENE_DRIVE_TEST.BNA" route_point_spacing="0.1" interpolate_points_along_route="true" use_remote="true" use_study_limit="false"/>
    </RouteStudies>
    <MultipointStudies last_selected_index="1" ui_track_index="-1" use_assigned_server="true" size="0"/>
-   <MapLayers no_of_layers="6">
+   <MapLayers no_of_layers="7">
     <StudyGrid latitude="44.57583333333334" longitude="-123.3302777777778" width="50.0" height="50.0" point_spacing="0.1" auto_grid="false" show_grid_boundary_on_map="true">
      <study_grid_boundary_pen>
       <PenDesc width="0.0" style="solid">
@@ -437,13 +437,18 @@
       </ColorMapIndexTable>
      </link_colors>
     </LinkSiteStyle>
+    <MapLayerTypeAndLayer layer_type="signal levels: 1">
+     <MapLayer description="Strongest (most likely) Server" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+      <MaplayerInfo area_study_index="1"/>
+     </MapLayer>
+    </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 0">
-     <MapLayer description="Received power at best base from remote" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Received power at best base from remote" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="0"/>
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="EDX graphic objects">
-     <MapLayer description="" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo/>
      </MapLayer>
     </MapLayerTypeAndLayer>
@@ -453,7 +458,7 @@
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="terrain">
-     <MapLayer description="" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo/>
      </MapLayer>
     </MapLayerTypeAndLayer>
