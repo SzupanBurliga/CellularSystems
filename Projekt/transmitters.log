@@ -1,15 +1,4 @@
 study index0
 Site ID   Ant. Elev. AMSL (m )  Frequency (MHz)  ERPi(dbW) Orient./Pol.  Group  Coordinates
 --------  --------------------  ---------------  ----------  ------------  -----  ---------------------------
-ABAA0001                 105.9        900.00000       24.45    Use file-vertical      1  N44°30'50.89" W123°08'09.07"
-ABAA0002                 105.9        900.00000       19.40    Use file-vertical      1  N44°30'50.89" W123°08'09.07"
-ABAB0001                 118.2        900.00000       24.45    Use file-vertical      1  N44°23'13.30" W123°04'14.70"
-ABAC0001                 102.2        900.00000       19.40    Use file-vertical      1  N44°34'40.35" W123°16'26.44"
-ABAC0002                 102.2        900.00000       19.40    Use file-vertical      1  N44°34'40.35" W123°16'26.44"
-ABAC0003                 102.2        900.00000       19.40    Use file-vertical      1  N44°34'40.35" W123°16'26.44"
-ABAD0001                 104.9        900.00000       27.00    Use file-vertical      1  N44°40'56.76" W123°04'31.14"
-ABAE0001                  93.1        900.00000       24.45    Use file-vertical      1  N44°46'38.76" W123°03'36.90"
-ABAF0001                 849.5        900.00000       24.45    Use file-vertical      1  N44°44'21.59" W123°35'12.84"
-ABAG0001                1146.0        900.00000       27.00    Use file-vertical      1  N44°30'26.64" W123°34'22.44"
-ABAI0003                 103.8        900.00000       24.45    Use file-vertical      1  N44°28'43.25" W123°17'55.69"
-ABAI0004                 103.8        900.00000       19.40    Use file-vertical      1  N44°28'43.25" W123°17'55.69"
+ABAA0002                 100.5        900.00000       19.40    Use file-vertical      1  N44°38'28.89" W123°02'22.73"
