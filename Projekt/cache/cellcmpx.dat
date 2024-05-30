@@ -1,901 +1,2117 @@
 EDX cell sector AFP compatibility matrix
-   29   13.00    5.00    1.76    1.00
-ABAA0002    68.91   433.81    12.73    3    4    0    1
-   49   68   73   82
+   45   13.00    5.00    1.76    1.00
+ABAA0002    57.87   411.31    12.06    3    3    0    2
+   58   80   97
      ABAA0002   0.0
-     ABAA0003  26.0
-     ABAA0004  22.5
-     ABAB0001  22.1
+     ABAA0003  31.5
+     ABAA0004  13.8
+     ABAB0001  16.8
      ABAB0002   0.0
      ABAB0003   0.0
-     ABAC0001   4.0
+     ABAC0001   3.5
      ABAC0002   0.0
-     ABAC0003   1.5
-     ABAD0001  32.3
+     ABAC0003   0.8
+     ABAD0001  29.8
      ABAD0003   0.0
      ABAE0001   0.0
-     ABAF0002   5.9
-     ABAG0003   0.8
-     ABAH0001   1.8
+     ABAF0002   2.4
+     ABAG0003   0.3
+     ABAH0001   1.4
      ABAH0002   0.0
      ABAH0003   0.0
-     ABAI0002  35.7
-     ABAI0003  43.8
-     ABAJ0002   2.1
-     ABAK0002   5.8
-     ABAL0001  15.8
-     ABAL0002   1.9
-     ABAL0003   0.0
-     ABAM0001  15.9
-     ABAM0002   0.2
-     ABAM0003   0.0
-     ABAN0001   7.2
-     ABAO0001  35.0
-ABAA0003    99.94   221.80     6.51    2    4    0    0
-    5   10   56  120
-     ABAA0002  23.7
-     ABAA0003   0.0
-     ABAA0004  11.2
-     ABAB0001  46.1
-     ABAB0002   1.7
-     ABAB0003   0.0
-     ABAC0001   5.0
-     ABAC0002   0.4
-     ABAC0003   9.3
-     ABAD0001  66.1
-     ABAD0003   3.5
-     ABAE0001   3.3
-     ABAF0002  41.5
-     ABAG0003   4.2
-     ABAH0001   0.6
-     ABAH0002   1.5
-     ABAH0003   0.0
-     ABAI0002  30.5
-     ABAI0003   2.8
-     ABAJ0002   5.5
-     ABAK0002   7.0
-     ABAL0001   0.1
-     ABAL0002  29.5
+     ABAI0002  36.2
+     ABAI0003  28.2
+     ABAJ0002   0.8
+     ABAK0002   4.1
+     ABAL0001   8.8
+     ABAL0002  22.3
      ABAL0003   0.0
      ABAM0001   0.8
-     ABAM0002  38.2
+     ABAM0002   0.7
      ABAM0003   0.0
-     ABAN0001  14.5
-     ABAO0001   4.6
-ABAA0004    53.15   388.30    11.39    3    4    0    2
-   39   80   97  117
-     ABAA0002  18.9
-     ABAA0003  17.2
+     ABAN0001   5.9
+     ABAO0001  38.6
+     ABAP0001   0.7
+     ABAQ0001  11.8
+     ABAQ0002   0.0
+     ABAQ0003   0.2
+     ABAR0001  26.1
+     ABAS0001   5.2
+     ABAS0002   0.2
+     ABAT0001   0.1
+     ABAT0002   0.1
+     ABAU0001   3.1
+     ABAU0002  17.1
+     ABAU0003   0.1
+     ABAV0002  25.1
+     ABAV0003   0.2
+     ABAV0004   0.0
+     ABAW0001   6.5
+ABAA0003   102.65   193.98     5.69    2    2    0    0
+   20   82
+     ABAA0002  21.8
+     ABAA0003   0.0
+     ABAA0004  11.4
+     ABAB0001  44.4
+     ABAB0002   1.5
+     ABAB0003   0.0
+     ABAC0001   4.6
+     ABAC0002   0.3
+     ABAC0003   8.4
+     ABAD0001  65.7
+     ABAD0003   3.4
+     ABAE0001   2.6
+     ABAF0002  31.5
+     ABAG0003   3.9
+     ABAH0001   0.3
+     ABAH0002   1.1
+     ABAH0003   0.0
+     ABAI0002  24.2
+     ABAI0003   0.6
+     ABAJ0002   4.2
+     ABAK0002   3.2
+     ABAL0001   0.0
+     ABAL0002  52.0
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002  35.3
+     ABAM0003   0.0
+     ABAN0001  19.1
+     ABAO0001   4.3
+     ABAP0001   1.4
+     ABAQ0001   3.7
+     ABAQ0002   0.0
+     ABAQ0003   0.1
+     ABAR0001  11.3
+     ABAS0001   3.7
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.0
+     ABAU0001   0.4
+     ABAU0002   3.1
+     ABAU0003   0.0
+     ABAV0002   5.9
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   2.0
+ABAA0004    54.47   362.42    10.63    3    3    0    2
+   24   48   53
+     ABAA0002  11.4
+     ABAA0003  17.8
      ABAA0004   0.0
-     ABAB0001  23.3
+     ABAB0001  19.1
      ABAB0002   0.0
-     ABAB0003   2.8
-     ABAC0001   0.5
+     ABAB0003   1.9
+     ABAC0001   0.1
      ABAC0002   0.0
-     ABAC0003  12.2
-     ABAD0001   7.6
-     ABAD0003  25.1
+     ABAC0003   7.5
+     ABAD0001   8.1
+     ABAD0003  23.0
      ABAE0001   0.0
-     ABAF0002  18.2
-     ABAG0003   4.8
-     ABAH0001  25.5
-     ABAH0002   0.5
-     ABAH0003   1.3
-     ABAI0002   0.8
-     ABAI0003  21.1
-     ABAJ0002   6.3
-     ABAK0002   3.5
-     ABAL0001   7.6
-     ABAL0002  26.0
-     ABAL0003  18.8
-     ABAM0001  16.0
-     ABAM0002  28.7
-     ABAM0003  37.1
-     ABAN0001  27.8
-     ABAO0001  18.9
-ABAB0001    67.89   229.67     6.74    2    4    0    2
-   15   25   77  101
-     ABAA0002   2.8
-     ABAA0003  15.0
-     ABAA0004   5.9
+     ABAF0002   5.6
+     ABAG0003   3.8
+     ABAH0001  21.9
+     ABAH0002   0.4
+     ABAH0003   1.0
+     ABAI0002   0.3
+     ABAI0003   9.0
+     ABAJ0002   1.9
+     ABAK0002   1.6
+     ABAL0001   0.2
+     ABAL0002  58.9
+     ABAL0003  20.5
+     ABAM0001   9.9
+     ABAM0002  37.9
+     ABAM0003  38.4
+     ABAN0001  35.2
+     ABAO0001  11.2
+     ABAP0001   0.0
+     ABAQ0001   0.8
+     ABAQ0002   0.0
+     ABAQ0003   1.2
+     ABAR0001  10.8
+     ABAS0001   0.1
+     ABAS0002   0.2
+     ABAT0001   0.2
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   3.5
+     ABAU0003   0.0
+     ABAV0002   5.9
+     ABAV0003   0.0
+     ABAV0004   0.1
+     ABAW0001   0.2
+ABAB0001    67.52   227.32     6.67    2    2    0    1
+   29   92
+     ABAA0002   1.9
+     ABAA0003  14.0
+     ABAA0004   5.1
      ABAB0001   0.0
      ABAB0002  33.3
-     ABAB0003  21.5
-     ABAC0001   5.2
+     ABAB0003  21.0
+     ABAC0001   5.5
      ABAC0002   0.0
      ABAC0003  19.3
      ABAD0001  29.4
-     ABAD0003  30.2
-     ABAE0001  14.2
-     ABAF0002  11.0
-     ABAG0003  18.7
-     ABAH0001   8.7
-     ABAH0002  11.7
+     ABAD0003  30.6
+     ABAE0001  12.9
+     ABAF0002   7.7
+     ABAG0003  19.1
+     ABAH0001   8.0
+     ABAH0002  11.6
      ABAH0003   0.0
-     ABAI0002   4.8
-     ABAI0003   1.4
-     ABAJ0002  18.2
-     ABAK0002   2.9
-     ABAL0001   0.6
-     ABAL0002   4.6
-     ABAL0003   0.5
-     ABAM0001   0.6
-     ABAM0002   9.9
+     ABAI0002   3.7
+     ABAI0003   0.4
+     ABAJ0002  15.5
+     ABAK0002   2.2
+     ABAL0001   0.1
+     ABAL0002  10.2
+     ABAL0003   0.6
+     ABAM0001   0.0
+     ABAM0002   9.4
      ABAM0003   1.4
-     ABAN0001   2.8
-     ABAO0001   4.0
-ABAB0002    68.11   374.69    10.99    3    4    0    2
-   72   82   87   92
+     ABAN0001   3.1
+     ABAO0001   3.6
+     ABAP0001   0.1
+     ABAQ0001   0.9
+     ABAQ0002   0.0
+     ABAQ0003   0.2
+     ABAR0001   2.3
+     ABAS0001   1.1
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.0
+     ABAU0001   0.1
+     ABAU0002   0.6
+     ABAU0003   0.0
+     ABAV0002   2.3
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.9
+ABAB0002    69.58   374.69    10.99    3    3    0    1
+   15   32  101
      ABAA0002   0.0
-     ABAA0003   3.9
+     ABAA0003   3.4
      ABAA0004   0.0
-     ABAB0001  34.7
+     ABAB0001  34.3
      ABAB0002   0.0
-     ABAB0003   5.7
+     ABAB0003   5.6
      ABAC0001   0.0
      ABAC0002   0.2
      ABAC0003  11.5
-     ABAD0001   3.7
-     ABAD0003   5.1
-     ABAE0001   4.2
-     ABAF0002   2.4
-     ABAG0003  11.4
+     ABAD0001   3.5
+     ABAD0003   5.0
+     ABAE0001   3.6
+     ABAF0002   2.2
+     ABAG0003  11.6
      ABAH0001   0.0
-     ABAH0002   3.0
+     ABAH0002   2.9
      ABAH0003   0.0
-     ABAI0002   1.5
+     ABAI0002   1.0
      ABAI0003   0.0
-     ABAJ0002  29.2
-     ABAK0002   0.6
+     ABAJ0002  27.0
+     ABAK0002   0.5
      ABAL0001   0.0
-     ABAL0002   2.9
+     ABAL0002   3.4
      ABAL0003   0.0
      ABAM0001   0.0
-     ABAM0002   2.7
+     ABAM0002   2.6
      ABAM0003   0.0
-     ABAN0001   1.5
+     ABAN0001   1.4
      ABAO0001   0.0
-ABAB0003    45.07    36.92     1.08    1    4    0    2
-   10   49   68  106
+     ABAP0001   0.6
+     ABAQ0001   1.1
+     ABAQ0002   0.0
+     ABAQ0003   0.2
+     ABAR0001   1.1
+     ABAS0001   0.8
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   0.7
+     ABAU0003   0.0
+     ABAV0002   1.6
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.5
+ABAB0003    45.02    36.92     1.08    1    1    0    2
+   34
      ABAA0002   0.0
-     ABAA0003   0.8
-     ABAA0004  20.9
-     ABAB0001  20.2
+     ABAA0003   0.6
+     ABAA0004  23.2
+     ABAB0001  19.8
      ABAB0002   9.1
      ABAB0003   0.0
      ABAC0001   0.0
      ABAC0002   0.0
      ABAC0003  17.7
      ABAD0001   0.0
-     ABAD0003  40.1
-     ABAE0001   0.2
-     ABAF0002   1.7
+     ABAD0003  40.0
+     ABAE0001   0.1
+     ABAF0002   0.9
      ABAG0003   2.5
      ABAH0001   0.3
-     ABAH0002  43.4
-     ABAH0003  30.4
-     ABAI0002   1.0
-     ABAI0003   1.7
-     ABAJ0002   6.8
-     ABAK0002   1.3
+     ABAH0002  43.3
+     ABAH0003  30.3
+     ABAI0002   0.7
+     ABAI0003   1.2
+     ABAJ0002   4.3
+     ABAK0002   0.3
      ABAL0001   0.0
-     ABAL0002   0.7
-     ABAL0003   0.1
+     ABAL0002   2.3
+     ABAL0003   0.8
      ABAM0001   0.0
-     ABAM0002   1.0
-     ABAM0003   0.5
-     ABAN0001   0.2
+     ABAM0002   1.1
+     ABAM0003   0.3
+     ABAN0001   0.1
      ABAO0001   0.2
-ABAC0001    52.37    52.47     1.54    1    4    0    1
-   34   82   97  121
+     ABAP0001   0.0
+     ABAQ0001   0.0
+     ABAQ0002   0.0
+     ABAQ0003   0.1
+     ABAR0001   6.5
+     ABAS0001   0.1
+     ABAS0002   0.0
+     ABAT0001   0.2
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   1.0
+     ABAU0003   0.0
+     ABAV0002   0.7
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.3
+ABAC0001    52.00    57.89     1.70    1    1    0    2
+  116
      ABAA0002   1.2
-     ABAA0003  12.9
+     ABAA0003  11.8
      ABAA0004   0.0
-     ABAB0001  15.3
-     ABAB0002   2.7
+     ABAB0001  14.8
+     ABAB0002   2.6
      ABAB0003   0.0
      ABAC0001   0.0
-     ABAC0002  17.5
-     ABAC0003  31.0
-     ABAD0001  13.9
+     ABAC0002  17.7
+     ABAC0003  30.4
+     ABAD0001  13.6
      ABAD0003   0.1
-     ABAE0001   5.3
-     ABAF0002  11.6
-     ABAG0003   4.6
-     ABAH0001   1.6
-     ABAH0002   2.4
+     ABAE0001   5.5
+     ABAF0002  12.1
+     ABAG0003   4.5
+     ABAH0001   1.4
+     ABAH0002   2.1
      ABAH0003   0.0
-     ABAI0002  12.3
-     ABAI0003   0.1
-     ABAJ0002   9.3
-     ABAK0002   5.3
+     ABAI0002  10.2
+     ABAI0003   0.0
+     ABAJ0002   7.2
+     ABAK0002   5.0
      ABAL0001   0.0
-     ABAL0002   6.9
+     ABAL0002   5.8
      ABAL0003   0.0
-     ABAM0001   0.2
-     ABAM0002   7.6
+     ABAM0001   0.0
+     ABAM0002   6.2
      ABAM0003   0.0
      ABAN0001   6.2
-     ABAO0001   5.2
-ABAC0002    20.46    52.47     1.54    0    4    0    1
-   10   45   63  106
+     ABAO0001   5.9
+     ABAP0001   1.5
+     ABAQ0001   2.7
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001   3.8
+     ABAS0001   3.5
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.0
+     ABAU0001   0.8
+     ABAU0002   1.2
+     ABAU0003   0.0
+     ABAV0002   4.4
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   1.8
+ABAC0002    20.71    57.89     1.70    0    0    0    1
+
      ABAA0002   0.0
-     ABAA0003   4.7
+     ABAA0003   4.2
      ABAA0004   0.0
      ABAB0001   0.1
      ABAB0002   0.3
      ABAB0003   0.0
-     ABAC0001  30.6
+     ABAC0001  30.3
      ABAC0002   0.0
-     ABAC0003   8.3
+     ABAC0003   8.5
      ABAD0001   0.2
      ABAD0003   0.0
-     ABAE0001   0.0
-     ABAF0002   2.0
-     ABAG0003  22.3
+     ABAE0001   1.5
+     ABAF0002   3.0
+     ABAG0003  22.2
      ABAH0001   0.0
      ABAH0002   0.1
      ABAH0003   0.0
-     ABAI0002   4.3
+     ABAI0002   3.2
      ABAI0003   0.0
-     ABAJ0002  17.4
+     ABAJ0002  16.1
      ABAK0002   0.1
      ABAL0001   0.0
-     ABAL0002   1.9
+     ABAL0002   2.1
      ABAL0003   0.0
      ABAM0001   0.0
-     ABAM0002   2.1
+     ABAM0002   2.6
      ABAM0003   0.0
-     ABAN0001   0.7
+     ABAN0001   0.6
      ABAO0001   0.0
-ABAC0003    76.86   133.57     3.92    2    4    0    0
-   20   53   80   93
+     ABAP0001   3.6
+     ABAQ0001   2.4
+     ABAQ0002   0.0
+     ABAQ0003   0.1
+     ABAR0001   2.6
+     ABAS0001   2.0
+     ABAS0002   0.0
+     ABAT0001   0.2
+     ABAT0002   0.0
+     ABAU0001   0.3
+     ABAU0002   1.4
+     ABAU0003   0.0
+     ABAV0002   1.0
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   1.0
+ABAC0003    78.26    97.36     2.86    1    2    0    2
+    5   44
      ABAA0002   0.0
-     ABAA0003  15.0
-     ABAA0004   1.8
-     ABAB0001  20.2
-     ABAB0002   9.0
+     ABAA0003  14.6
+     ABAA0004   1.4
+     ABAB0001  19.8
+     ABAB0002   9.3
      ABAB0003   0.6
-     ABAC0001  31.5
+     ABAC0001  30.3
      ABAC0002   4.8
      ABAC0003   0.0
-     ABAD0001  16.1
-     ABAD0003   6.0
-     ABAE0001   2.1
-     ABAF0002  14.8
-     ABAG0003  61.0
-     ABAH0001   0.7
+     ABAD0001  15.8
+     ABAD0003   6.1
+     ABAE0001   2.2
+     ABAF0002  14.9
+     ABAG0003  61.9
+     ABAH0001   0.6
      ABAH0002   0.7
-     ABAH0003   0.5
-     ABAI0002   5.2
-     ABAI0003   0.4
-     ABAJ0002  43.7
-     ABAK0002   0.6
+     ABAH0003   0.4
+     ABAI0002   3.6
+     ABAI0003   0.2
+     ABAJ0002  40.5
+     ABAK0002   0.4
      ABAL0001   0.0
-     ABAL0002   4.0
-     ABAL0003   0.3
+     ABAL0002   5.2
+     ABAL0003   0.4
      ABAM0001   0.0
-     ABAM0002   5.1
-     ABAM0003   0.9
-     ABAN0001   2.0
-     ABAO0001   1.0
-ABAD0001    95.16   320.39     9.40    3    4    0    2
-   48   58   73  104
-     ABAA0002   4.0
-     ABAA0003  57.3
+     ABAM0002   4.4
+     ABAM0003   0.5
+     ABAN0001   1.4
+     ABAO0001   0.9
+     ABAP0001   0.6
+     ABAQ0001   1.4
+     ABAQ0002   0.0
+     ABAQ0003   0.1
+     ABAR0001   3.1
+     ABAS0001   1.1
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.1
+     ABAU0002   1.1
+     ABAU0003   0.0
+     ABAV0002   2.7
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.1
+ABAD0001    97.97   306.27     8.98    3    3    0    0
+    8   34   77
+     ABAA0002   3.2
+     ABAA0003  59.0
      ABAA0004   0.4
-     ABAB0001  63.2
-     ABAB0002   1.1
+     ABAB0001  63.1
+     ABAB0002   1.0
      ABAB0003   0.0
-     ABAC0001  11.7
+     ABAC0001  13.4
      ABAC0002   0.0
-     ABAC0003  38.2
+     ABAC0003  38.3
      ABAD0001   0.0
-     ABAD0003  19.2
-     ABAE0001  17.1
-     ABAF0002  53.6
-     ABAG0003  12.5
-     ABAH0001   1.8
-     ABAH0002   1.1
+     ABAD0003  16.5
+     ABAE0001  20.0
+     ABAF0002  49.1
+     ABAG0003  13.3
+     ABAH0001   1.5
+     ABAH0002   1.0
      ABAH0003   0.0
-     ABAI0002  12.2
-     ABAI0003   1.6
-     ABAJ0002  12.6
-     ABAK0002   4.4
-     ABAL0001   0.5
-     ABAL0002   8.2
+     ABAI0002   9.3
+     ABAI0003   0.6
+     ABAJ0002   8.0
+     ABAK0002   3.4
+     ABAL0001   0.2
+     ABAL0002  18.7
      ABAL0003   0.0
-     ABAM0001   0.8
-     ABAM0002  18.0
-     ABAM0003   0.0
-     ABAN0001   3.6
-     ABAO0001   7.8
-ABAD0003    85.20   618.41    18.14    4    4    0    1
-   63   69   87   92
+     ABAM0001   0.1
+     ABAM0002  16.2
+     ABAM0003   0.1
+     ABAN0001   3.8
+     ABAO0001   8.2
+     ABAP0001   0.2
+     ABAQ0001   0.9
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001   3.9
+     ABAS0001   1.6
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.2
+     ABAU0002   1.0
+     ABAU0003   0.0
+     ABAV0002   2.2
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.3
+ABAD0003    85.87   618.41    18.14    4    4    0    1
+   56   93  106  120
      ABAA0002   0.0
-     ABAA0003  23.5
-     ABAA0004  20.2
-     ABAB0001  42.1
-     ABAB0002   0.4
-     ABAB0003   6.6
+     ABAA0003  22.2
+     ABAA0004  18.5
+     ABAB0001  42.2
+     ABAB0002   0.5
+     ABAB0003   6.5
      ABAC0001   0.0
      ABAC0002   0.0
-     ABAC0003  31.8
-     ABAD0001  22.7
+     ABAC0003  28.9
+     ABAD0001  21.4
      ABAD0003   0.0
-     ABAE0001  31.7
-     ABAF0002  28.6
-     ABAG0003  12.5
-     ABAH0001  16.8
-     ABAH0002  20.9
+     ABAE0001  31.1
+     ABAF0002  11.2
+     ABAG0003  11.8
+     ABAH0001  16.2
+     ABAH0002  20.1
      ABAH0003   1.8
-     ABAI0002   2.2
-     ABAI0003   1.6
-     ABAJ0002   8.8
-     ABAK0002   3.3
-     ABAL0001   0.0
-     ABAL0002   5.1
-     ABAL0003   0.2
-     ABAM0001   0.0
-     ABAM0002  23.8
-     ABAM0003   1.6
-     ABAN0001   1.1
-     ABAO0001   1.3
-ABAE0001    18.26   895.64    26.27    5    4    0    0
-    8   32   49  111
-     ABAA0002   0.0
-     ABAA0003  19.2
-     ABAA0004   0.4
-     ABAB0001  46.1
-     ABAB0002  10.1
-     ABAB0003   0.2
-     ABAC0001   3.0
-     ABAC0002   0.5
-     ABAC0003  11.0
-     ABAD0001  37.1
-     ABAD0003  62.1
-     ABAE0001   0.0
-     ABAF0002   8.9
-     ABAG0003   9.2
-     ABAH0001   0.9
-     ABAH0002   2.2
-     ABAH0003   0.0
-     ABAI0002   5.4
-     ABAI0003   0.1
-     ABAJ0002   8.5
-     ABAK0002   1.8
-     ABAL0001   0.0
-     ABAL0002   9.4
-     ABAL0003   0.0
-     ABAM0001   0.0
-     ABAM0002  15.4
-     ABAM0003   0.1
-     ABAN0001   3.3
-     ABAO0001   0.5
-ABAF0002   101.02     9.92     0.29    1    4    0    1
-   49   58   69   97
-     ABAA0002   0.9
-     ABAA0003  33.7
-     ABAA0004   1.5
-     ABAB0001  24.8
-     ABAB0002   0.6
-     ABAB0003   0.3
-     ABAC0001  22.1
-     ABAC0002   0.0
-     ABAC0003  24.1
-     ABAD0001  42.7
-     ABAD0003   2.4
-     ABAE0001   1.5
-     ABAF0002   0.0
-     ABAG0003  10.8
-     ABAH0001   1.0
-     ABAH0002   0.6
-     ABAH0003   0.1
-     ABAI0002  14.5
+     ABAI0002   1.2
      ABAI0003   0.8
-     ABAJ0002   9.3
-     ABAK0002   3.1
+     ABAJ0002   6.4
+     ABAK0002   2.2
      ABAL0001   0.0
-     ABAL0002   3.6
-     ABAL0003   0.2
-     ABAM0001   0.1
-     ABAM0002   5.8
-     ABAM0003   0.5
-     ABAN0001   2.2
-     ABAO0001   5.7
-ABAG0003    50.99    32.32     0.95    1    4    0    1
-   25   29   49   96
+     ABAL0002  28.6
+     ABAL0003   1.0
+     ABAM0001   0.0
+     ABAM0002  25.0
+     ABAM0003   1.3
+     ABAN0001   1.0
+     ABAO0001   1.1
+     ABAP0001   0.0
+     ABAQ0001   0.5
+     ABAQ0002   0.0
+     ABAQ0003   0.4
+     ABAR0001   5.1
+     ABAS0001   0.3
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   1.7
+     ABAU0003   0.0
+     ABAV0002   2.4
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.3
+ABAE0001    18.78   895.64    26.27    5    5    0    1
+   49   58   68   87   97
      ABAA0002   0.0
-     ABAA0003   7.2
-     ABAA0004   1.1
-     ABAB0001  12.9
-     ABAB0002  12.5
-     ABAB0003   0.3
-     ABAC0001   1.7
-     ABAC0002   6.8
-     ABAC0003  58.0
-     ABAD0001   6.1
-     ABAD0003   6.6
-     ABAE0001   2.5
-     ABAF0002   7.7
-     ABAG0003   0.0
-     ABAH0001   0.4
-     ABAH0002   1.8
-     ABAH0003   0.2
+     ABAA0003  22.7
+     ABAA0004   0.6
+     ABAB0001  45.2
+     ABAB0002   8.1
+     ABAB0003   0.2
+     ABAC0001   3.7
+     ABAC0002   0.7
+     ABAC0003  10.3
+     ABAD0001  41.9
+     ABAD0003  58.2
+     ABAE0001   0.0
+     ABAF0002   7.6
+     ABAG0003   7.7
+     ABAH0001   1.1
+     ABAH0002   2.8
+     ABAH0003   0.0
      ABAI0002   3.8
      ABAI0003   0.2
-     ABAJ0002  54.1
-     ABAK0002   1.0
+     ABAJ0002   5.5
+     ABAK0002   1.9
      ABAL0001   0.0
-     ABAL0002   3.2
+     ABAL0002  10.5
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002  15.7
+     ABAM0003   0.0
+     ABAN0001   4.3
+     ABAO0001   0.4
+     ABAP0001   0.5
+     ABAQ0001   1.5
+     ABAQ0002   0.0
+     ABAQ0003   0.3
+     ABAR0001   5.1
+     ABAS0001   2.0
+     ABAS0002   0.0
+     ABAT0001   0.3
+     ABAT0002   0.0
+     ABAU0001   0.1
+     ABAU0002   1.8
+     ABAU0003   0.0
+     ABAV0002   3.0
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   1.0
+ABAF0002    92.37   133.74     3.92    2    1    0    0
+   72
+     ABAA0002   0.1
+     ABAA0003  33.1
+     ABAA0004   0.6
+     ABAB0001  24.9
+     ABAB0002   0.6
+     ABAB0003   0.1
+     ABAC0001  26.8
+     ABAC0002   0.1
+     ABAC0003  25.1
+     ABAD0001  41.8
+     ABAD0003   1.5
+     ABAE0001   1.7
+     ABAF0002   0.0
+     ABAG0003  11.0
+     ABAH0001   0.6
+     ABAH0002   0.4
+     ABAH0003   0.0
+     ABAI0002  10.0
+     ABAI0003   0.3
+     ABAJ0002   6.4
+     ABAK0002   1.8
+     ABAL0001   0.0
+     ABAL0002   5.7
      ABAL0003   0.1
      ABAM0001   0.0
-     ABAM0002   3.8
-     ABAM0003   0.3
-     ABAN0001   1.1
-     ABAO0001   0.7
-ABAH0001    62.84    97.47     2.86    1    4    0    2
-   32   45   53   87
-     ABAA0002   0.5
-     ABAA0003   0.5
-     ABAA0004  64.3
-     ABAB0001  38.3
-     ABAB0002   0.0
-     ABAB0003  12.0
-     ABAC0001   0.3
-     ABAC0002   0.0
-     ABAC0003  16.5
-     ABAD0001   1.4
-     ABAD0003  62.5
-     ABAE0001   0.1
-     ABAF0002  19.6
-     ABAG0003   4.9
-     ABAH0001   0.0
-     ABAH0002  17.1
-     ABAH0003  22.9
-     ABAI0002   0.4
-     ABAI0003   5.0
-     ABAJ0002   4.1
-     ABAK0002   1.9
-     ABAL0001   0.6
-     ABAL0002   1.7
-     ABAL0003   4.4
-     ABAM0001   1.2
-     ABAM0002  16.0
-     ABAM0003  27.1
-     ABAN0001   3.4
-     ABAO0001   2.2
-ABAH0002    74.32    62.69     1.84    1    4    0    0
-    8   20   63   73
+     ABAM0002   5.6
+     ABAM0003   0.2
+     ABAN0001   2.6
+     ABAO0001   4.8
+     ABAP0001   0.4
+     ABAQ0001   1.2
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001   3.0
+     ABAS0001   1.0
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.2
+     ABAU0002   1.1
+     ABAU0003   0.0
+     ABAV0002   1.9
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.1
+ABAG0003    54.64    41.32     1.21    1    1    0    2
+   21
      ABAA0002   0.0
-     ABAA0003   5.5
-     ABAA0004  19.0
-     ABAB0001  26.1
-     ABAB0002   1.0
-     ABAB0003  38.6
+     ABAA0003   6.4
+     ABAA0004   0.8
+     ABAB0001  12.6
+     ABAB0002  12.9
+     ABAB0003   0.3
+     ABAC0001   1.7
+     ABAC0002   6.4
+     ABAC0003  59.0
+     ABAD0001   6.0
+     ABAD0003   6.7
+     ABAE0001   2.5
+     ABAF0002   8.0
+     ABAG0003   0.0
+     ABAH0001   0.4
+     ABAH0002   1.5
+     ABAH0003   0.1
+     ABAI0002   2.5
+     ABAI0003   0.0
+     ABAJ0002  54.1
+     ABAK0002   0.8
+     ABAL0001   0.0
+     ABAL0002   3.4
+     ABAL0003   0.1
+     ABAM0001   0.0
+     ABAM0002   4.0
+     ABAM0003   0.3
+     ABAN0001   0.9
+     ABAO0001   0.5
+     ABAP0001   1.5
+     ABAQ0001   1.1
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001   2.3
+     ABAS0001   0.8
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.0
+     ABAU0001   0.1
+     ABAU0002   1.0
+     ABAU0003   0.0
+     ABAV0002   2.1
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.4
+ABAH0001    62.29   110.25     3.23    2    1    0    1
+    8
+     ABAA0002   0.2
+     ABAA0003   0.5
+     ABAA0004  63.8
+     ABAB0001  35.1
+     ABAB0002   0.0
+     ABAB0003  10.7
+     ABAC0001   0.2
+     ABAC0002   0.0
+     ABAC0003  12.6
+     ABAD0001   1.1
+     ABAD0003  61.6
+     ABAE0001   0.0
+     ABAF0002   4.8
+     ABAG0003   4.1
+     ABAH0001   0.0
+     ABAH0002  16.2
+     ABAH0003  22.1
+     ABAI0002   0.2
+     ABAI0003   2.0
+     ABAJ0002   1.6
+     ABAK0002   1.0
+     ABAL0001   0.1
+     ABAL0002  25.3
+     ABAL0003  15.6
+     ABAM0001   0.2
+     ABAM0002  17.0
+     ABAM0003  26.3
+     ABAN0001   1.4
+     ABAO0001   1.8
+     ABAP0001   0.0
+     ABAQ0001   0.0
+     ABAQ0002   0.0
+     ABAQ0003   0.2
+     ABAR0001   6.0
+     ABAS0001   0.1
+     ABAS0002   0.1
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   0.9
+     ABAU0003   0.0
+     ABAV0002   0.0
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.1
+ABAH0002    73.92    62.69     1.84    1    1    0    1
+   15
+     ABAA0002   0.0
+     ABAA0003   3.2
+     ABAA0004  17.6
+     ABAB0001  25.8
+     ABAB0002   0.8
+     ABAB0003  38.3
      ABAC0001   0.1
      ABAC0002   0.1
-     ABAC0003  12.0
-     ABAD0001   0.5
-     ABAD0003  28.3
+     ABAC0003  12.1
+     ABAD0001   0.4
+     ABAD0003  28.2
      ABAE0001   0.6
-     ABAF0002   8.8
-     ABAG0003   8.1
-     ABAH0001  32.0
+     ABAF0002   4.2
+     ABAG0003   7.9
+     ABAH0001  31.2
      ABAH0002   0.0
-     ABAH0003  13.8
-     ABAI0002   0.7
-     ABAI0003   0.3
-     ABAJ0002  13.6
-     ABAK0002   1.7
+     ABAH0003  13.9
+     ABAI0002   0.4
+     ABAI0003   0.2
+     ABAJ0002   8.1
+     ABAK0002   1.0
      ABAL0001   0.0
-     ABAL0002   3.2
+     ABAL0002  17.1
      ABAL0003   0.2
      ABAM0001   0.0
-     ABAM0002   8.9
-     ABAM0003   0.5
-     ABAN0001   1.2
+     ABAM0002   9.4
+     ABAM0003   0.6
+     ABAN0001   0.8
      ABAO0001   0.1
-ABAH0003    63.43    39.68     1.16    1    4    0    0
-    5   29   34   56
+     ABAP0001   0.1
+     ABAQ0001   0.5
+     ABAQ0002   0.0
+     ABAQ0003   0.4
+     ABAR0001   4.4
+     ABAS0001   0.2
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   1.9
+     ABAU0003   0.0
+     ABAV0002   2.0
+     ABAV0003   0.0
+     ABAV0004   0.2
+     ABAW0001   0.7
+ABAH0003    63.49    39.68     1.16    1    1    0    1
+   45
      ABAA0002   0.0
-     ABAA0003   0.1
-     ABAA0004  39.8
-     ABAB0001   1.1
+     ABAA0003   0.0
+     ABAA0004  41.9
+     ABAB0001   0.9
      ABAB0002   0.0
-     ABAB0003  53.6
+     ABAB0003  53.5
      ABAC0001   0.0
      ABAC0002   0.0
-     ABAC0003  34.4
+     ABAC0003  33.9
      ABAD0001   0.0
-     ABAD0003  30.6
+     ABAD0003  30.5
      ABAE0001   0.0
-     ABAF0002   5.8
-     ABAG0003  20.5
-     ABAH0001  15.9
-     ABAH0002  23.9
+     ABAF0002   1.8
+     ABAG0003  20.7
+     ABAH0001  15.7
+     ABAH0002  24.0
      ABAH0003   0.0
      ABAI0002   0.0
-     ABAI0003   1.3
-     ABAJ0002  20.8
-     ABAK0002   1.4
+     ABAI0003   0.5
+     ABAJ0002  10.5
+     ABAK0002   0.8
      ABAL0001   0.0
-     ABAL0002   0.0
-     ABAL0003   0.0
+     ABAL0002   1.0
+     ABAL0003   7.3
      ABAM0001   0.0
      ABAM0002   0.0
-     ABAM0003   1.3
+     ABAM0003   3.3
      ABAN0001   0.0
      ABAO0001   0.2
-ABAI0002   180.12   784.98    23.03    5    4    0    0
-   39   63   80  116
-     ABAA0002  32.7
-     ABAA0003  16.5
+     ABAP0001   0.0
+     ABAQ0001   0.0
+     ABAQ0002   0.0
+     ABAQ0003   0.5
+     ABAR0001   4.9
+     ABAS0001   0.0
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   0.0
+     ABAU0003   0.0
+     ABAV0002   0.0
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.0
+ABAI0002   142.25   695.80    20.41    5    5    0    2
+   21   29   49   73   93
+     ABAA0002  30.9
+     ABAA0003  13.3
      ABAA0004   0.0
-     ABAB0001  11.9
-     ABAB0002   0.3
+     ABAB0001  10.5
+     ABAB0002   0.2
      ABAB0003   0.0
-     ABAC0001  22.0
-     ABAC0002   0.1
-     ABAC0003   1.3
-     ABAD0001  21.9
+     ABAC0001  19.9
+     ABAC0002   0.0
+     ABAC0003   0.9
+     ABAD0001  22.8
      ABAD0003   0.0
-     ABAE0001   0.3
-     ABAF0002   4.2
-     ABAG0003   0.7
-     ABAH0001   0.4
-     ABAH0002   0.3
-     ABAH0003   0.0
-     ABAI0002   0.0
-     ABAI0003  15.9
-     ABAJ0002   1.5
-     ABAK0002  47.7
-     ABAL0001   0.2
-     ABAL0002   2.4
-     ABAL0003   0.0
-     ABAM0001   0.9
-     ABAM0002   2.2
-     ABAM0003   0.0
-     ABAN0001   4.5
-     ABAO0001  65.8
-ABAI0003   196.25   397.19    11.65    3    4    0    1
-   21   56  104  121
-     ABAA0002  54.0
-     ABAA0003   0.0
-     ABAA0004  12.2
-     ABAB0001  11.2
-     ABAB0002   0.0
-     ABAB0003   0.0
-     ABAC0001   3.0
-     ABAC0002   0.0
-     ABAC0003   2.2
-     ABAD0001  11.2
-     ABAD0003   0.4
-     ABAE0001   0.0
-     ABAF0002   0.8
-     ABAG0003   1.6
-     ABAH0001   0.7
-     ABAH0002   0.0
-     ABAH0003   0.0
-     ABAI0002  16.6
-     ABAI0003   0.0
-     ABAJ0002   3.3
-     ABAK0002   1.7
-     ABAL0001  12.0
-     ABAL0002   0.0
-     ABAL0003   0.3
-     ABAM0001   8.9
-     ABAM0002   0.0
-     ABAM0003   0.4
-     ABAN0001   1.4
-     ABAO0001  33.7
-ABAJ0002    86.35   431.35    12.65    3    4    0    0
-   15   24   87  117
-     ABAA0002   0.1
-     ABAA0003   4.7
-     ABAA0004   0.9
-     ABAB0001   7.6
-     ABAB0002  23.0
-     ABAB0003   0.6
-     ABAC0001   1.1
-     ABAC0002   3.2
-     ABAC0003  24.6
-     ABAD0001   3.7
-     ABAD0003   5.5
-     ABAE0001   2.5
-     ABAF0002   4.1
-     ABAG0003  32.6
-     ABAH0001   0.7
-     ABAH0002   1.8
-     ABAH0003   0.4
-     ABAI0002   2.4
-     ABAI0003   0.2
-     ABAJ0002   0.0
-     ABAK0002   0.6
-     ABAL0001   0.0
-     ABAL0002   2.1
-     ABAL0003   0.1
-     ABAM0001   0.0
-     ABAM0002   2.9
-     ABAM0003   0.2
-     ABAN0001   1.1
-     ABAO0001   0.3
-ABAK0002   117.69   446.08    13.09    3    4    0    1
-    5   24   73   77
-     ABAA0002   4.5
-     ABAA0003   5.8
-     ABAA0004   0.3
-     ABAB0001   3.1
-     ABAB0002   0.0
-     ABAB0003   0.1
-     ABAC0001   8.1
-     ABAC0002   0.0
-     ABAC0003   0.3
-     ABAD0001   3.5
-     ABAD0003   0.3
-     ABAE0001   0.3
-     ABAF0002   0.8
-     ABAG0003   0.1
+     ABAE0001   0.2
+     ABAF0002   2.5
+     ABAG0003   0.5
      ABAH0001   0.3
      ABAH0002   0.2
      ABAH0003   0.0
-     ABAI0002  38.1
-     ABAI0003   0.5
-     ABAJ0002   0.4
-     ABAK0002   0.0
-     ABAL0001   0.4
-     ABAL0002   1.8
-     ABAL0003   0.1
-     ABAM0001   0.5
-     ABAM0002   1.0
-     ABAM0003   0.1
-     ABAN0001   2.2
-     ABAO0001  22.3
-ABAL0001    25.01   261.20     7.66    2    4    0    0
-    5   25   49   69
-     ABAA0002  60.5
-     ABAA0003   0.0
-     ABAA0004  66.4
-     ABAB0001  12.1
-     ABAB0002   0.0
-     ABAB0003   0.0
-     ABAC0001   0.6
-     ABAC0002   0.0
-     ABAC0003   0.7
-     ABAD0001  10.9
-     ABAD0003   0.3
-     ABAE0001   0.0
-     ABAF0002   2.2
-     ABAG0003   0.6
-     ABAH0001   3.7
-     ABAH0002   0.0
-     ABAH0003   0.0
-     ABAI0002   0.7
-     ABAI0003  53.5
-     ABAJ0002   1.6
-     ABAK0002   0.4
-     ABAL0001   0.0
-     ABAL0002  12.0
-     ABAL0003   8.4
-     ABAM0001  80.2
-     ABAM0002   0.0
-     ABAM0003   0.0
-     ABAN0001  30.0
-     ABAO0001  11.1
-ABAL0002    13.83   390.34    11.45    3    4    0    1
-    8   15   56  106
-     ABAA0002   1.1
-     ABAA0003  35.4
-     ABAA0004  36.2
-     ABAB0001  12.7
-     ABAB0002   6.4
-     ABAB0003   0.5
-     ABAC0001   6.1
-     ABAC0002   1.4
-     ABAC0003   7.9
-     ABAD0001  14.9
-     ABAD0003   6.2
-     ABAE0001   7.7
-     ABAF0002  10.7
-     ABAG0003   4.5
-     ABAH0001   3.1
-     ABAH0002   9.5
-     ABAH0003   0.0
-     ABAI0002  13.2
-     ABAI0003   2.1
-     ABAJ0002   5.6
-     ABAK0002   4.5
-     ABAL0001  15.6
-     ABAL0002   0.0
-     ABAL0003  11.1
-     ABAM0001  29.2
-     ABAM0002  43.2
-     ABAM0003   1.2
-     ABAN0001  32.4
-     ABAO0001   1.6
-ABAL0003    15.76   504.17    14.79    4    4    0    1
-   21   63   93  101
-     ABAA0002   0.0
-     ABAA0003   0.0
-     ABAA0004  75.4
-     ABAB0001  10.2
-     ABAB0002   0.0
-     ABAB0003   0.6
-     ABAC0001   0.3
-     ABAC0002   0.0
-     ABAC0003   5.1
-     ABAD0001   4.2
-     ABAD0003   7.2
-     ABAE0001   0.0
-     ABAF0002   5.5
-     ABAG0003   3.4
-     ABAH0001   9.2
-     ABAH0002   0.0
-     ABAH0003   0.1
-     ABAI0002   0.3
-     ABAI0003  16.1
-     ABAJ0002   3.2
-     ABAK0002   1.6
-     ABAL0001  12.0
-     ABAL0002   6.7
+     ABAI0002   0.0
+     ABAI0003  16.0
+     ABAJ0002   0.9
+     ABAK0002  40.4
+     ABAL0001   0.7
+     ABAL0002   8.9
      ABAL0003   0.0
-     ABAM0001  41.2
-     ABAM0002   0.1
-     ABAM0003  60.5
-     ABAN0001  44.2
-     ABAO0001  16.6
-ABAM0001     9.59   592.84    17.39    4    4    0    0
-   10   53   72   77
-     ABAA0002  37.6
+     ABAM0001   0.0
+     ABAM0002   1.1
+     ABAM0003   0.0
+     ABAN0001   3.0
+     ABAO0001  67.1
+     ABAP0001   1.0
+     ABAQ0001   5.6
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001  23.4
+     ABAS0001  37.5
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   2.7
+     ABAU0002   2.6
+     ABAU0003   0.0
+     ABAV0002  10.1
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   3.9
+ABAI0003    41.66   306.58     8.99    3    3    0    2
+   69  111  116
+     ABAA0002  37.3
      ABAA0003   0.0
-     ABAA0004  46.7
-     ABAB0001   8.2
+     ABAA0004   2.2
+     ABAB0001   2.2
      ABAB0002   0.0
      ABAB0003   0.0
-     ABAC0001   1.5
+     ABAC0001   1.0
      ABAC0002   0.0
-     ABAC0003   0.8
-     ABAD0001   7.7
+     ABAC0003   0.5
+     ABAD0001   3.1
      ABAD0003   0.3
      ABAE0001   0.0
-     ABAF0002   1.4
-     ABAG0003   0.4
-     ABAH0001  10.2
+     ABAF0002   0.3
+     ABAG0003   0.2
+     ABAH0001   0.5
      ABAH0002   0.0
      ABAH0003   0.0
-     ABAI0002   1.3
-     ABAI0003  24.7
-     ABAJ0002   1.4
-     ABAK0002   0.2
-     ABAL0001  49.2
-     ABAL0002  30.4
-     ABAL0003  19.0
-     ABAM0001   0.0
-     ABAM0002  11.6
-     ABAM0003  15.5
-     ABAN0001  37.2
-     ABAO0001   9.3
-ABAM0002    51.10   738.07    21.65    5    4    0    1
-   82   96  104  116
-     ABAA0002   0.1
-     ABAA0003  48.9
-     ABAA0004  70.2
-     ABAB0001  40.7
-     ABAB0002   1.8
-     ABAB0003   0.5
-     ABAC0001   3.1
-     ABAC0002   0.3
-     ABAC0003   6.3
-     ABAD0001  26.4
-     ABAD0003  23.3
-     ABAE0001   2.7
-     ABAF0002  25.8
-     ABAG0003   3.4
-     ABAH0001  16.2
-     ABAH0002   3.5
-     ABAH0003   0.0
-     ABAI0002   4.6
-     ABAI0003   1.4
-     ABAJ0002   2.9
-     ABAK0002   2.1
-     ABAL0001   0.1
-     ABAL0002  62.7
-     ABAL0003   0.9
-     ABAM0001   7.9
+     ABAI0002  37.0
+     ABAI0003   0.0
+     ABAJ0002   0.4
+     ABAK0002   0.9
+     ABAL0001  12.6
+     ABAL0002   4.8
+     ABAL0003   0.8
+     ABAM0001   0.6
      ABAM0002   0.0
-     ABAM0003  14.8
-     ABAN0001  47.6
-     ABAO0001   1.5
-ABAM0003    41.43   764.05    22.41    5    4    0    2
-    8   34   48  116
+     ABAM0003   1.1
+     ABAN0001   1.6
+     ABAO0001  11.7
+     ABAP0001   3.1
+     ABAQ0001  22.3
+     ABAQ0002   0.3
+     ABAQ0003   0.3
+     ABAR0001  44.2
+     ABAS0001  27.0
+     ABAS0002   3.0
+     ABAT0001   0.1
+     ABAT0002   0.2
+     ABAU0001  36.8
+     ABAU0002  28.8
+     ABAU0003   1.3
+     ABAV0002  30.8
+     ABAV0003   1.3
+     ABAV0004   0.3
+     ABAW0001   8.7
+ABAJ0002    71.92   431.35    12.65    3    3    0    1
+   25   73  111
      ABAA0002   0.0
-     ABAA0003   0.0
-     ABAA0004  89.1
-     ABAB0001  20.6
+     ABAA0003   4.3
+     ABAA0004   0.4
+     ABAB0001   6.8
+     ABAB0002  23.9
+     ABAB0003   0.4
+     ABAC0001   0.8
+     ABAC0002   3.4
+     ABAC0003  22.1
+     ABAD0001   3.6
+     ABAD0003   5.1
+     ABAE0001   1.9
+     ABAF0002   3.4
+     ABAG0003  30.5
+     ABAH0001   0.5
+     ABAH0002   2.1
+     ABAH0003   0.3
+     ABAI0002   1.7
+     ABAI0003   0.1
+     ABAJ0002   0.0
+     ABAK0002   0.3
+     ABAL0001   0.0
+     ABAL0002   2.5
+     ABAL0003   0.1
+     ABAM0001   0.0
+     ABAM0002   3.2
+     ABAM0003   0.1
+     ABAN0001   0.8
+     ABAO0001   0.3
+     ABAP0001   1.0
+     ABAQ0001   0.7
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001   1.4
+     ABAS0001   1.5
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.0
+     ABAU0001   0.1
+     ABAU0002   1.1
+     ABAU0003   0.0
+     ABAV0002   2.3
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.4
+ABAK0002   105.32   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   3.7
+     ABAA0003   4.8
+     ABAA0004   0.0
+     ABAB0001   2.4
      ABAB0002   0.0
-     ABAB0003   2.8
+     ABAB0003   0.0
+     ABAC0001   7.5
+     ABAC0002   0.0
+     ABAC0003   0.1
+     ABAD0001   2.7
+     ABAD0003   0.1
+     ABAE0001   0.2
+     ABAF0002   0.5
+     ABAG0003   0.1
+     ABAH0001   0.1
+     ABAH0002   0.2
+     ABAH0003   0.0
+     ABAI0002  35.2
+     ABAI0003   0.2
+     ABAJ0002   0.2
+     ABAK0002   0.0
+     ABAL0001   0.7
+     ABAL0002   4.9
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002   0.8
+     ABAM0003   0.0
+     ABAN0001   1.9
+     ABAO0001  21.4
+     ABAP0001   0.2
+     ABAQ0001   1.4
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001  11.4
+     ABAS0001  22.9
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.6
+     ABAU0002   0.5
+     ABAU0003   0.0
+     ABAV0002   2.4
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   3.3
+ABAL0001    18.11   127.53     3.74    2    2    0    2
+   87  101
+     ABAA0002  22.0
+     ABAA0003   0.0
+     ABAA0004   4.5
+     ABAB0001   1.0
+     ABAB0002   0.0
+     ABAB0003   0.0
      ABAC0001   0.1
      ABAC0002   0.0
-     ABAC0003   9.5
-     ABAD0001   3.3
-     ABAD0003  27.6
+     ABAC0003   0.1
+     ABAD0001   1.2
+     ABAD0003   0.0
      ABAE0001   0.0
-     ABAF0002  17.8
-     ABAG0003   4.3
-     ABAH0001  39.7
+     ABAF0002   0.1
+     ABAG0003   0.0
+     ABAH0001   0.4
      ABAH0002   0.0
-     ABAH0003   0.4
-     ABAI0002   0.4
-     ABAI0003  23.9
-     ABAJ0002   5.9
-     ABAK0002   2.0
-     ABAL0001   0.0
-     ABAL0002   3.3
-     ABAL0003  57.2
-     ABAM0001  12.8
-     ABAM0002  19.8
-     ABAM0003   0.0
-     ABAN0001  52.1
-     ABAO0001  18.1
-ABAN0001    18.14   271.64     7.97    2    4    0    1
-   29   44  111  117
-     ABAA0002   4.8
-     ABAA0003  15.1
-     ABAA0004  42.0
-     ABAB0001  13.8
-     ABAB0002   1.8
-     ABAB0003   0.4
-     ABAC0001   5.5
-     ABAC0002   0.1
-     ABAC0003   3.8
-     ABAD0001  10.2
-     ABAD0003   4.0
-     ABAE0001   3.9
-     ABAF0002   5.5
-     ABAG0003   2.3
-     ABAH0001  11.0
-     ABAH0002   5.0
      ABAH0003   0.0
-     ABAI0002   6.9
-     ABAI0003   7.0
-     ABAJ0002   1.5
-     ABAK0002   3.1
+     ABAI0002   0.3
+     ABAI0003  24.7
+     ABAJ0002   0.1
+     ABAK0002   0.0
+     ABAL0001   0.0
+     ABAL0002  28.8
+     ABAL0003   8.1
+     ABAM0001   1.3
+     ABAM0002   0.0
+     ABAM0003   0.0
+     ABAN0001   1.6
+     ABAO0001   4.8
+     ABAP0001   0.5
+     ABAQ0001   4.6
+     ABAQ0002   0.1
+     ABAQ0003   8.4
+     ABAR0001  27.1
+     ABAS0001   0.2
+     ABAS0002   1.2
+     ABAT0001   6.9
+     ABAT0002   0.3
+     ABAU0001   2.4
+     ABAU0002  46.0
+     ABAU0003   0.8
+     ABAV0002  57.1
+     ABAV0003   1.4
+     ABAV0004  26.5
+     ABAW0001  51.3
+ABAL0002    36.70   355.06    10.41    3    3    0    1
+    5   69   96
+     ABAA0002  23.8
+     ABAA0003  17.1
+     ABAA0004  41.9
+     ABAB0001  11.0
+     ABAB0002   3.6
+     ABAB0003   0.7
+     ABAC0001   2.6
+     ABAC0002   0.3
+     ABAC0003   4.2
+     ABAD0001  10.5
+     ABAD0003   5.1
+     ABAE0001   2.6
+     ABAF0002   4.7
+     ABAG0003   2.1
+     ABAH0001   3.5
+     ABAH0002   3.5
+     ABAH0003   0.0
+     ABAI0002   8.0
+     ABAI0003   9.3
+     ABAJ0002   2.7
+     ABAK0002   4.2
+     ABAL0001  21.0
+     ABAL0002   0.0
+     ABAL0003   9.7
+     ABAM0001  13.0
+     ABAM0002  16.3
+     ABAM0003   4.9
+     ABAN0001  25.9
+     ABAO0001   6.7
+     ABAP0001   2.9
+     ABAQ0001   8.4
+     ABAQ0002   0.0
+     ABAQ0003   2.1
+     ABAR0001  12.8
+     ABAS0001   3.7
+     ABAS0002   0.2
+     ABAT0001   0.9
+     ABAT0002   0.0
+     ABAU0001   1.6
+     ABAU0002  17.8
+     ABAU0003   0.0
+     ABAV0002  32.5
+     ABAV0003   0.0
+     ABAV0004   0.4
+     ABAW0001   7.8
+ABAL0003    38.23   160.57     4.71    2    4    0    0
+   10   21   39   77
+     ABAA0002   0.1
+     ABAA0003   0.0
+     ABAA0004  48.6
+     ABAB0001   8.0
+     ABAB0002   0.0
+     ABAB0003   1.0
+     ABAC0001   0.2
+     ABAC0002   0.0
+     ABAC0003   6.6
+     ABAD0001   1.9
+     ABAD0003   7.1
+     ABAE0001   0.0
+     ABAF0002   1.8
+     ABAG0003   3.3
+     ABAH0001  10.2
+     ABAH0002   0.0
+     ABAH0003   0.2
+     ABAI0002   0.1
+     ABAI0003  12.4
+     ABAJ0002   3.4
+     ABAK0002   1.0
      ABAL0001   5.2
-     ABAL0002  12.7
-     ABAL0003  27.7
-     ABAM0001  12.7
-     ABAM0002  16.4
-     ABAM0003  47.9
-     ABAN0001   0.0
-     ABAO0001   7.5
-ABAO0001   155.69     9.92     0.29    1    4    0    1
-   49   58   69   97
-     ABAA0002  21.6
-     ABAA0003  13.9
-     ABAA0004   2.1
-     ABAB0001  13.1
+     ABAL0002  23.4
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003  41.5
+     ABAN0001   0.7
+     ABAO0001  13.1
+     ABAP0001   0.0
+     ABAQ0001   0.1
+     ABAQ0002   0.0
+     ABAQ0003   4.7
+     ABAR0001  16.8
+     ABAS0001   0.0
+     ABAS0002   0.4
+     ABAT0001   2.3
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   1.5
+     ABAU0003   0.0
+     ABAV0002   0.1
+     ABAV0003   0.0
+     ABAV0004   3.7
+     ABAW0001   8.2
+ABAM0001     2.19  1205.69    35.37    7    4    0    1
+   34   45   73   93
+     ABAA0002   1.8
+     ABAA0003   0.0
+     ABAA0004  88.1
+     ABAB0001   1.4
      ABAB0002   0.0
      ABAB0003   0.0
-     ABAC0001  27.0
+     ABAC0001   0.0
      ABAC0002   0.0
-     ABAC0003   1.4
-     ABAD0001  17.3
+     ABAC0003   0.0
+     ABAD0001   2.7
+     ABAD0003   0.5
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   1.4
+     ABAH0001   0.9
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003   2.7
+     ABAJ0002   0.9
+     ABAK0002   0.5
+     ABAL0001   0.0
+     ABAL0002  77.2
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002  84.0
+     ABAM0003  96.8
+     ABAN0001  86.8
+     ABAO0001   3.7
+     ABAP0001   0.0
+     ABAQ0001   0.0
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001   3.2
+     ABAS0001   0.0
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   3.7
+     ABAU0003   0.0
+     ABAV0002   7.3
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   0.0
+ABAM0002    50.47   740.52    21.72    5    5    0    2
+   10   25   32   39  101
+     ABAA0002   0.4
+     ABAA0003  44.0
+     ABAA0004  71.2
+     ABAB0001  38.6
+     ABAB0002   1.7
+     ABAB0003   0.1
+     ABAC0001   2.5
+     ABAC0002   0.3
+     ABAC0003   5.0
+     ABAD0001  22.3
+     ABAD0003  22.2
+     ABAE0001   2.9
+     ABAF0002   7.1
+     ABAG0003   3.1
+     ABAH0001  16.4
+     ABAH0002   3.2
+     ABAH0003   0.0
+     ABAI0002   2.6
+     ABAI0003   0.9
+     ABAJ0002   2.6
+     ABAK0002   1.4
+     ABAL0001   0.0
+     ABAL0002  77.1
+     ABAL0003   0.1
+     ABAM0001   1.7
+     ABAM0002   0.0
+     ABAM0003  13.3
+     ABAN0001  58.2
+     ABAO0001   1.5
+     ABAP0001   1.2
+     ABAQ0001   2.3
+     ABAQ0002   0.0
+     ABAQ0003   0.5
+     ABAR0001   5.1
+     ABAS0001   0.9
+     ABAS0002   0.0
+     ABAT0001   0.4
+     ABAT0002   0.0
+     ABAU0001   0.3
+     ABAU0002   3.5
+     ABAU0003   0.0
+     ABAV0002   8.2
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   2.2
+ABAM0003    43.76   831.34    24.39    5    5    0    2
+   15   20   49   63   82
+     ABAA0002   0.0
+     ABAA0003   0.0
+     ABAA0004  91.0
+     ABAB0001  14.4
+     ABAB0002   0.0
+     ABAB0003   1.7
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   6.6
+     ABAD0001   3.3
+     ABAD0003  21.8
+     ABAE0001   0.0
+     ABAF0002   2.8
+     ABAG0003   3.4
+     ABAH0001  33.2
+     ABAH0002   0.0
+     ABAH0003   0.6
+     ABAI0002   0.3
+     ABAI0003   9.1
+     ABAJ0002   1.5
+     ABAK0002   1.0
+     ABAL0001   0.0
+     ABAL0002  44.5
+     ABAL0003  60.4
+     ABAM0001   6.4
+     ABAM0002  16.9
+     ABAM0003   0.0
+     ABAN0001  33.2
+     ABAO0001  16.0
+     ABAP0001   0.0
+     ABAQ0001   0.0
+     ABAQ0002   0.0
+     ABAQ0003   1.8
+     ABAR0001  16.0
+     ABAS0001   0.1
+     ABAS0002   0.3
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.0
+     ABAU0002   0.8
+     ABAU0003   0.0
+     ABAV0002   0.0
+     ABAV0003   0.0
+     ABAV0004   0.1
+     ABAW0001   0.6
+ABAN0001    13.33   362.32    10.63    3    2    0    0
+   97  104
+     ABAA0002   6.5
+     ABAA0003  17.4
+     ABAA0004  37.5
+     ABAB0001  13.6
+     ABAB0002   1.6
+     ABAB0003   0.2
+     ABAC0001   6.3
+     ABAC0002   0.0
+     ABAC0003   4.4
+     ABAD0001  14.6
+     ABAD0003   3.2
+     ABAE0001   3.7
+     ABAF0002   6.7
+     ABAG0003   1.7
+     ABAH0001  10.6
+     ABAH0002   5.1
+     ABAH0003   0.0
+     ABAI0002   6.7
+     ABAI0003   2.9
+     ABAJ0002   1.1
+     ABAK0002   3.6
+     ABAL0001   1.1
+     ABAL0002  40.0
+     ABAL0003   3.1
+     ABAM0001   8.9
+     ABAM0002  36.8
+     ABAM0003  43.1
+     ABAN0001   0.0
+     ABAO0001   7.5
+     ABAP0001   1.1
+     ABAQ0001   5.8
+     ABAQ0002   0.0
+     ABAQ0003   0.4
+     ABAR0001   5.9
+     ABAS0001   2.6
+     ABAS0002   0.0
+     ABAT0001   0.1
+     ABAT0002   0.1
+     ABAU0001   1.7
+     ABAU0002   3.9
+     ABAU0003   0.0
+     ABAV0002   8.9
+     ABAV0003   0.2
+     ABAV0004   0.0
+     ABAW0001   7.3
+ABAO0001   164.87   477.03    13.99    4    1    0    0
+    5
+     ABAA0002  22.1
+     ABAA0003  15.2
+     ABAA0004   0.5
+     ABAB0001  11.2
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001  28.9
+     ABAC0002   0.0
+     ABAC0003   1.0
+     ABAD0001  18.6
      ABAD0003   0.1
      ABAE0001   0.1
-     ABAF0002   4.6
-     ABAG0003   1.0
+     ABAF0002   2.9
+     ABAG0003   0.8
      ABAH0001   0.5
      ABAH0002   0.1
      ABAH0003   0.0
-     ABAI0002  42.4
-     ABAI0003   6.3
-     ABAJ0002   2.0
-     ABAK0002  40.2
-     ABAL0001   0.9
-     ABAL0002   0.9
-     ABAL0003   0.4
-     ABAM0001   1.1
-     ABAM0002   0.7
+     ABAI0002  46.9
+     ABAI0003   2.0
+     ABAJ0002   1.0
+     ABAK0002  41.0
+     ABAL0001   0.4
+     ABAL0002   4.3
+     ABAL0003   0.3
+     ABAM0001   0.2
+     ABAM0002   0.6
      ABAM0003   0.4
-     ABAN0001   1.9
+     ABAN0001   2.8
      ABAO0001   0.0
+     ABAP0001   0.1
+     ABAQ0001   1.4
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001   7.0
+     ABAS0001  16.3
+     ABAS0002   0.0
+     ABAT0001   0.0
+     ABAT0002   0.0
+     ABAU0001   0.3
+     ABAU0002   0.7
+     ABAU0003   0.0
+     ABAV0002   3.9
+     ABAV0003   0.0
+     ABAV0004   0.0
+     ABAW0001   1.2
+ABAP0001    16.96   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   1.9
+     ABAA0003   2.4
+     ABAA0004   0.0
+     ABAB0001   0.3
+     ABAB0002   0.5
+     ABAB0003   0.0
+     ABAC0001   0.5
+     ABAC0002   0.0
+     ABAC0003   0.2
+     ABAD0001   1.5
+     ABAD0003   0.0
+     ABAE0001   0.0
+     ABAF0002   1.3
+     ABAG0003   0.3
+     ABAH0001   0.4
+     ABAH0002   0.2
+     ABAH0003   0.0
+     ABAI0002   3.6
+     ABAI0003  14.3
+     ABAJ0002   0.5
+     ABAK0002   0.9
+     ABAL0001   1.6
+     ABAL0002   1.8
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002   1.1
+     ABAM0003   0.0
+     ABAN0001   0.7
+     ABAO0001   0.8
+     ABAP0001   0.0
+     ABAQ0001  42.3
+     ABAQ0002  42.2
+     ABAQ0003   0.1
+     ABAR0001  51.9
+     ABAS0001   2.3
+     ABAS0002  39.2
+     ABAT0001   0.1
+     ABAT0002   0.8
+     ABAU0001  12.7
+     ABAU0002   3.4
+     ABAU0003  35.2
+     ABAV0002   3.4
+     ABAV0003   6.0
+     ABAV0004   0.0
+     ABAW0001   1.4
+ABAQ0001    18.32   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   5.6
+     ABAA0003   4.0
+     ABAA0004   0.1
+     ABAB0001   1.6
+     ABAB0002   0.4
+     ABAB0003   0.0
+     ABAC0001   2.5
+     ABAC0002   0.1
+     ABAC0003   1.1
+     ABAD0001   2.2
+     ABAD0003   0.1
+     ABAE0001   0.3
+     ABAF0002   2.5
+     ABAG0003   0.6
+     ABAH0001   0.3
+     ABAH0002   0.3
+     ABAH0003   0.0
+     ABAI0002   8.1
+     ABAI0003  14.2
+     ABAJ0002   0.2
+     ABAK0002   3.1
+     ABAL0001   4.4
+     ABAL0002   4.6
+     ABAL0003   0.0
+     ABAM0001   0.2
+     ABAM0002   1.5
+     ABAM0003   0.0
+     ABAN0001   2.2
+     ABAO0001   3.1
+     ABAP0001  38.1
+     ABAQ0001   0.0
+     ABAQ0002  21.2
+     ABAQ0003  15.3
+     ABAR0001  64.2
+     ABAS0001   5.5
+     ABAS0002  47.9
+     ABAT0001   1.0
+     ABAT0002   4.3
+     ABAU0001  28.0
+     ABAU0002  10.8
+     ABAU0003  53.2
+     ABAV0002  11.0
+     ABAV0003  26.2
+     ABAV0004   0.0
+     ABAW0001   4.9
+ABAQ0002     8.40   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   0.0
+     ABAA0003   0.0
+     ABAA0004   0.0
+     ABAB0001   0.0
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   0.0
+     ABAD0001   0.0
+     ABAD0003   0.0
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.0
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003   8.6
+     ABAJ0002   0.0
+     ABAK0002   0.0
+     ABAL0001   0.7
+     ABAL0002   0.0
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003   0.0
+     ABAN0001   0.0
+     ABAO0001   0.4
+     ABAP0001  19.5
+     ABAQ0001  35.0
+     ABAQ0002   0.0
+     ABAQ0003  30.1
+     ABAR0001  25.6
+     ABAS0001   0.0
+     ABAS0002  22.7
+     ABAT0001   0.4
+     ABAT0002  23.6
+     ABAU0001   0.6
+     ABAU0002   0.0
+     ABAU0003  18.8
+     ABAV0002   0.0
+     ABAV0003   6.1
+     ABAV0004   0.1
+     ABAW0001   2.7
+ABAQ0003     6.88   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   0.1
+     ABAA0003   0.0
+     ABAA0004   1.3
+     ABAB0001   0.7
+     ABAB0002   0.0
+     ABAB0003   1.5
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   0.3
+     ABAD0001   0.0
+     ABAD0003   1.3
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.3
+     ABAH0001   0.1
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003   5.2
+     ABAJ0002   0.0
+     ABAK0002   0.0
+     ABAL0001  12.2
+     ABAL0002   0.7
+     ABAL0003   2.0
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003   0.4
+     ABAN0001   0.0
+     ABAO0001   0.7
+     ABAP0001   0.0
+     ABAQ0001  40.4
+     ABAQ0002  38.1
+     ABAQ0003   0.0
+     ABAR0001  13.8
+     ABAS0001   0.0
+     ABAS0002   2.3
+     ABAT0001  14.4
+     ABAT0002  34.6
+     ABAU0001   0.0
+     ABAU0002   6.5
+     ABAU0003  10.6
+     ABAV0002   2.9
+     ABAV0003  36.8
+     ABAV0004  17.7
+     ABAW0001  11.6
+ABAR0001    27.47   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   9.6
+     ABAA0003   6.0
+     ABAA0004   4.0
+     ABAB0001   4.3
+     ABAB0002   0.7
+     ABAB0003   1.1
+     ABAC0001   2.5
+     ABAC0002   0.4
+     ABAC0003   2.4
+     ABAD0001   3.7
+     ABAD0003   2.8
+     ABAE0001   0.7
+     ABAF0002   2.6
+     ABAG0003   1.1
+     ABAH0001   1.9
+     ABAH0002   1.1
+     ABAH0003   0.5
+     ABAI0002  12.2
+     ABAI0003  30.1
+     ABAJ0002   0.7
+     ABAK0002   4.8
+     ABAL0001   5.6
+     ABAL0002   5.6
+     ABAL0003   2.3
+     ABAM0001   0.1
+     ABAM0002   3.1
+     ABAM0003   1.6
+     ABAN0001   1.8
+     ABAO0001   5.7
+     ABAP0001  30.5
+     ABAQ0001  54.4
+     ABAQ0002   1.9
+     ABAQ0003   1.6
+     ABAR0001   0.0
+     ABAS0001  12.7
+     ABAS0002  43.1
+     ABAT0001   1.0
+     ABAT0002   1.4
+     ABAU0001  46.5
+     ABAU0002  11.8
+     ABAU0003  32.8
+     ABAV0002  11.5
+     ABAV0003  13.1
+     ABAV0004   1.1
+     ABAW0001   4.8
+ABAS0001    24.76   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   6.0
+     ABAA0003   4.5
+     ABAA0004   0.0
+     ABAB0001   5.5
+     ABAB0002   0.4
+     ABAB0003   0.0
+     ABAC0001   9.9
+     ABAC0002   0.2
+     ABAC0003   0.8
+     ABAD0001  10.1
+     ABAD0003   0.0
+     ABAE0001   0.5
+     ABAF0002   0.6
+     ABAG0003   0.4
+     ABAH0001   0.4
+     ABAH0002   0.2
+     ABAH0003   0.0
+     ABAI0002  40.8
+     ABAI0003  21.3
+     ABAJ0002   0.7
+     ABAK0002  25.0
+     ABAL0001   1.7
+     ABAL0002   3.1
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002   0.8
+     ABAM0003   0.0
+     ABAN0001   2.4
+     ABAO0001  27.6
+     ABAP0001   2.1
+     ABAQ0001   6.8
+     ABAQ0002   0.0
+     ABAQ0003   0.1
+     ABAR0001  27.6
+     ABAS0001   0.0
+     ABAS0002   6.1
+     ABAT0001   0.1
+     ABAT0002   0.4
+     ABAU0001   8.6
+     ABAU0002   2.8
+     ABAU0003   0.0
+     ABAV0002   5.4
+     ABAV0003   0.5
+     ABAV0004   0.0
+     ABAW0001   3.2
+ABAS0002     6.36   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   8.0
+     ABAA0003   0.0
+     ABAA0004   0.2
+     ABAB0001   2.0
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001   0.2
+     ABAC0002   0.0
+     ABAC0003   0.2
+     ABAD0001   1.6
+     ABAD0003   0.2
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.8
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003  55.2
+     ABAJ0002   0.0
+     ABAK0002   0.5
+     ABAL0001   4.4
+     ABAL0002   0.0
+     ABAL0003   0.2
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003   0.2
+     ABAN0001   0.0
+     ABAO0001   5.8
+     ABAP0001  19.0
+     ABAQ0001  41.2
+     ABAQ0002   6.0
+     ABAQ0003   0.5
+     ABAR0001  68.9
+     ABAS0001  26.7
+     ABAS0002   0.0
+     ABAT0001   0.3
+     ABAT0002   0.9
+     ABAU0001  50.3
+     ABAU0002   2.5
+     ABAU0003  26.7
+     ABAV0002   0.8
+     ABAV0003   9.6
+     ABAV0004   0.6
+     ABAW0001   1.6
+ABAT0001     7.07   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   0.4
+     ABAA0003   0.1
+     ABAA0004   0.6
+     ABAB0001   0.1
+     ABAB0002   0.0
+     ABAB0003   0.1
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   0.1
+     ABAD0001   0.0
+     ABAD0003   0.1
+     ABAE0001   0.1
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.0
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003   4.2
+     ABAJ0002   0.0
+     ABAK0002   0.0
+     ABAL0001  20.1
+     ABAL0002   0.3
+     ABAL0003   2.3
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003   0.0
+     ABAN0001   0.0
+     ABAO0001   1.6
+     ABAP0001   0.0
+     ABAQ0001   0.6
+     ABAQ0002   0.0
+     ABAQ0003  62.5
+     ABAR0001   7.9
+     ABAS0001   0.0
+     ABAS0002   2.1
+     ABAT0001   0.0
+     ABAT0002  17.7
+     ABAU0001   0.0
+     ABAU0002   7.8
+     ABAU0003   1.1
+     ABAV0002   1.0
+     ABAV0003   6.9
+     ABAV0004  70.2
+     ABAW0001  34.4
+ABAT0002     5.06   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   0.2
+     ABAA0003   0.0
+     ABAA0004   0.0
+     ABAB0001   0.0
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   0.0
+     ABAD0001   0.0
+     ABAD0003   0.0
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.0
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003   2.2
+     ABAJ0002   0.0
+     ABAK0002   0.0
+     ABAL0001  11.5
+     ABAL0002   0.0
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003   0.0
+     ABAN0001   0.0
+     ABAO0001   0.4
+     ABAP0001   0.6
+     ABAQ0001   3.2
+     ABAQ0002  15.0
+     ABAQ0003  40.5
+     ABAR0001   6.1
+     ABAS0001   0.0
+     ABAS0002   0.8
+     ABAT0001  44.1
+     ABAT0002   0.0
+     ABAU0001   0.6
+     ABAU0002   0.8
+     ABAU0003   1.6
+     ABAV0002   0.2
+     ABAV0003  41.9
+     ABAV0004  17.0
+     ABAW0001   5.9
+ABAU0001    21.90   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002  14.4
+     ABAA0003   0.2
+     ABAA0004   0.0
+     ABAB0001   1.6
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001   0.1
+     ABAC0002   0.0
+     ABAC0003   0.0
+     ABAD0001   1.5
+     ABAD0003   0.0
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.5
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   1.1
+     ABAI0003  56.8
+     ABAJ0002   0.0
+     ABAK0002   0.6
+     ABAL0001  16.1
+     ABAL0002   0.6
+     ABAL0003   0.0
+     ABAM0001   0.1
+     ABAM0002   0.0
+     ABAM0003   0.0
+     ABAN0001   1.5
+     ABAO0001   0.4
+     ABAP0001  12.4
+     ABAQ0001  61.6
+     ABAQ0002   0.0
+     ABAQ0003   0.0
+     ABAR0001  70.4
+     ABAS0001  20.5
+     ABAS0002  31.2
+     ABAT0001   0.0
+     ABAT0002   2.1
+     ABAU0001   0.0
+     ABAU0002  27.9
+     ABAU0003  26.9
+     ABAV0002  12.4
+     ABAV0003  13.0
+     ABAV0004   0.0
+     ABAW0001   8.3
+ABAU0002    20.58   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002  14.7
+     ABAA0003   3.8
+     ABAA0004   2.8
+     ABAB0001   1.8
+     ABAB0002   0.3
+     ABAB0003   0.2
+     ABAC0001   0.4
+     ABAC0002   0.1
+     ABAC0003   1.0
+     ABAD0001   1.3
+     ABAD0003   2.0
+     ABAE0001   0.3
+     ABAF0002   1.1
+     ABAG0003   0.7
+     ABAH0001   0.3
+     ABAH0002   2.3
+     ABAH0003   0.0
+     ABAI0002   2.7
+     ABAI0003  52.5
+     ABAJ0002   0.4
+     ABAK0002   1.2
+     ABAL0001  26.5
+     ABAL0002   7.8
+     ABAL0003   0.2
+     ABAM0001   0.4
+     ABAM0002   2.9
+     ABAM0003   0.2
+     ABAN0001   1.9
+     ABAO0001   6.8
+     ABAP0001   2.2
+     ABAQ0001  45.5
+     ABAQ0002   0.0
+     ABAQ0003   2.9
+     ABAR0001  60.3
+     ABAS0001   4.0
+     ABAS0002   4.3
+     ABAT0001   1.0
+     ABAT0002   0.0
+     ABAU0001  32.8
+     ABAU0002   0.0
+     ABAU0003  15.6
+     ABAV0002  63.3
+     ABAV0003  10.7
+     ABAV0004   2.0
+     ABAW0001   7.7
+ABAU0003     9.88   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   1.0
+     ABAA0003   0.0
+     ABAA0004   0.0
+     ABAB0001   0.0
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   0.0
+     ABAD0001   0.1
+     ABAD0003   0.0
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.0
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003  25.0
+     ABAJ0002   0.0
+     ABAK0002   0.0
+     ABAL0001   6.3
+     ABAL0002   0.0
+     ABAL0003   0.0
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003   0.0
+     ABAN0001   0.0
+     ABAO0001   1.0
+     ABAP0001  19.0
+     ABAQ0001  67.3
+     ABAQ0002   2.0
+     ABAQ0003   0.1
+     ABAR0001  72.4
+     ABAS0001   0.0
+     ABAS0002  54.0
+     ABAT0001   0.0
+     ABAT0002   0.2
+     ABAU0001  76.2
+     ABAU0002  50.3
+     ABAU0003   0.0
+     ABAV0002   0.2
+     ABAV0003  40.7
+     ABAV0004   0.0
+     ABAW0001   0.3
+ABAV0002    36.30   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002  26.0
+     ABAA0003   6.3
+     ABAA0004   3.6
+     ABAB0001   3.6
+     ABAB0002   1.5
+     ABAB0003   0.0
+     ABAC0001   2.4
+     ABAC0002   0.3
+     ABAC0003   1.9
+     ABAD0001   3.8
+     ABAD0003   0.7
+     ABAE0001   0.7
+     ABAF0002   1.8
+     ABAG0003   1.4
+     ABAH0001   0.3
+     ABAH0002   1.2
+     ABAH0003   0.0
+     ABAI0002   8.5
+     ABAI0003  42.5
+     ABAJ0002   1.3
+     ABAK0002   2.4
+     ABAL0001  54.1
+     ABAL0002  20.3
+     ABAL0003   0.0
+     ABAM0001   0.6
+     ABAM0002   3.4
+     ABAM0003   0.0
+     ABAN0001   4.4
+     ABAO0001   5.1
+     ABAP0001   3.7
+     ABAQ0001  32.9
+     ABAQ0002   0.0
+     ABAQ0003   2.3
+     ABAR0001  41.2
+     ABAS0001   4.7
+     ABAS0002   0.9
+     ABAT0001   1.6
+     ABAT0002   0.4
+     ABAU0001   4.9
+     ABAU0002  66.4
+     ABAU0003   0.4
+     ABAV0002   0.0
+     ABAV0003   4.8
+     ABAV0004   9.1
+     ABAW0001  33.3
+ABAV0003     9.04   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   3.3
+     ABAA0003   0.0
+     ABAA0004   0.0
+     ABAB0001   0.3
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   0.0
+     ABAD0001   1.1
+     ABAD0003   0.0
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.1
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003   8.1
+     ABAJ0002   0.0
+     ABAK0002   0.0
+     ABAL0001  26.3
+     ABAL0002   0.0
+     ABAL0003   0.0
+     ABAM0001   0.2
+     ABAM0002   0.0
+     ABAM0003   0.0
+     ABAN0001   0.3
+     ABAO0001   2.1
+     ABAP0001   2.8
+     ABAQ0001  48.3
+     ABAQ0002   0.4
+     ABAQ0003  32.9
+     ABAR0001  21.8
+     ABAS0001   0.0
+     ABAS0002   7.7
+     ABAT0001   0.4
+     ABAT0002  23.0
+     ABAU0001   7.5
+     ABAU0002  36.0
+     ABAU0003  37.4
+     ABAV0002  11.9
+     ABAV0003   0.0
+     ABAV0004  22.3
+     ABAW0001  12.8
+ABAV0004    14.14   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   1.1
+     ABAA0003   0.0
+     ABAA0004   0.5
+     ABAB0001   0.1
+     ABAB0002   0.0
+     ABAB0003   0.0
+     ABAC0001   0.0
+     ABAC0002   0.0
+     ABAC0003   0.0
+     ABAD0001   0.0
+     ABAD0003   0.0
+     ABAE0001   0.0
+     ABAF0002   0.0
+     ABAG0003   0.0
+     ABAH0001   0.0
+     ABAH0002   0.0
+     ABAH0003   0.0
+     ABAI0002   0.0
+     ABAI0003  11.4
+     ABAJ0002   0.0
+     ABAK0002   0.0
+     ABAL0001  55.8
+     ABAL0002   0.0
+     ABAL0003   4.2
+     ABAM0001   0.0
+     ABAM0002   0.0
+     ABAM0003   0.1
+     ABAN0001   0.0
+     ABAO0001   2.0
+     ABAP0001   0.0
+     ABAQ0001   3.3
+     ABAQ0002   0.0
+     ABAQ0003  66.1
+     ABAR0001  18.5
+     ABAS0001   0.0
+     ABAS0002   3.7
+     ABAT0001  53.0
+     ABAT0002   0.9
+     ABAU0001   0.0
+     ABAU0002  34.7
+     ABAU0003   0.9
+     ABAV0002  25.6
+     ABAV0003  11.2
+     ABAV0004   0.0
+     ABAW0001  58.7
+ABAW0001    24.28   405.37    11.89    3    3    0    1
+   48  104  111
+     ABAA0002   4.0
+     ABAA0003   2.4
+     ABAA0004   0.7
+     ABAB0001   1.0
+     ABAB0002   0.0
+     ABAB0003   0.1
+     ABAC0001   1.3
+     ABAC0002   0.0
+     ABAC0003   0.1
+     ABAD0001   0.7
+     ABAD0003   0.1
+     ABAE0001   0.2
+     ABAF0002   0.3
+     ABAG0003   0.0
+     ABAH0001   0.8
+     ABAH0002   0.2
+     ABAH0003   0.0
+     ABAI0002   3.5
+     ABAI0003   8.0
+     ABAJ0002   0.1
+     ABAK0002   2.8
+     ABAL0001  32.0
+     ABAL0002   5.5
+     ABAL0003  12.9
+     ABAM0001   0.1
+     ABAM0002   0.7
+     ABAM0003   0.1
+     ABAN0001   2.9
+     ABAO0001   3.4
+     ABAP0001   0.7
+     ABAQ0001   3.3
+     ABAQ0002   0.1
+     ABAQ0003  32.2
+     ABAR0001  15.5
+     ABAS0001   2.3
+     ABAS0002   1.2
+     ABAT0001  34.1
+     ABAT0002   0.2
+     ABAU0001   2.2
+     ABAU0002  18.7
+     ABAU0003   0.1
+     ABAV0002  12.2
+     ABAV0003   0.4
+     ABAV0004  49.1
+     ABAW0001   0.0
