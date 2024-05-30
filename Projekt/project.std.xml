@@ -406,7 +406,7 @@
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="7">
    <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="2010360128" width="0.0">
+    <GraphicalObject Id="" IndexForLabel="744193360" width="0.0">
      <Color r="0" g="0" b="0"/>
      <LatLongTypeList number="2">
       <LatLongPair latitude="44.84118458667511" longitude="-123.2155908922376"/>
@@ -2057,7 +2057,7 @@
  <FirstGenSystem>
   <SystemTypeList last_selected_index="1" service_area_boundary_filename="&lt;PROJECT_PATH&gt;\TEST.BNA">
    <SystemType system_name="system group 1" system_type="GSM" frequency_band="935 MHz" custom_lower_band_edge1="1000.0" custom_upper_band_edge1="1000.0" custom_lower_band_edge2="1000.0" custom_upper_band_edge2="1000.0" custom_lower_band_edge3="1000.0" custom_upper_band_edge3="1000.0" custom_lower_band_edge4="1000.0" custom_upper_band_edge4="1000.0" forward_link_lower_band_edge="935.0" forward_link_upper_band_edge="960.0" system_carrier_spacing="200.0" voice_channels_per_RF_channel="8" signal_level_minimum="1.0" track_traffic="false" track_traffic_type="1" track_traffic_cap="0.0">
-    <ChannelPlanTemplate channel_plan_template_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\CPT\GSM4_NASZ.CPT" no_of_channel_group_colors="24" downlink_fade_margin_objective="10.0" uplink_fade_margin_objective="10.0" maximum_channel_overbooking_pc="10.0" assign_multiple_access_channels="false" assign_frequency_hopping_sequences="false" frequency_hopping_sequency_filename="" random_seed="0" assignment_mode="find_and_set_all_servers" channel_assignment_mode="assign_any_uplink_non_interfering_to_CT">
+    <ChannelPlanTemplate channel_plan_template_filename="&lt;PROJECT_PATH&gt;\GSM4_NASZ.CPT" no_of_channel_group_colors="24" downlink_fade_margin_objective="10.0" uplink_fade_margin_objective="10.0" maximum_channel_overbooking_pc="10.0" assign_multiple_access_channels="false" assign_frequency_hopping_sequences="false" frequency_hopping_sequency_filename="" random_seed="0" assignment_mode="find_and_set_all_servers" channel_assignment_mode="assign_any_uplink_non_interfering_to_CT">
      <group>
       <Color r="5" g="223" b="163"/>
      </group>
@@ -2434,7 +2434,7 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="31">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="36">
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAA0003" active="true"/>
    <TX_ID id="ABAA0004" active="true"/>
@@ -2449,17 +2449,22 @@
    <TX_ID id="ABAE0001" active="true"/>
    <TX_ID id="ABAF0002" active="true"/>
    <TX_ID id="ABAG0003" active="true"/>
+   <TX_ID id="ABAH0001" active="true"/>
    <TX_ID id="ABAI0002" active="true"/>
    <TX_ID id="ABAI0003" active="true"/>
    <TX_ID id="ABAJ0002" active="true"/>
    <TX_ID id="ABAK0002" active="true"/>
+   <TX_ID id="ABAL0001" active="true"/>
    <TX_ID id="ABAM0001" active="true"/>
    <TX_ID id="ABAM0002" active="true"/>
    <TX_ID id="ABAM0003" active="true"/>
    <TX_ID id="ABAN0001" active="true"/>
    <TX_ID id="ABAO0001" active="true"/>
    <TX_ID id="ABAP0001" active="true"/>
+   <TX_ID id="ABAQ0001" active="true"/>
+   <TX_ID id="ABAR0001" active="true"/>
    <TX_ID id="ABAS0001" active="true"/>
+   <TX_ID id="ABAT0001" active="true"/>
    <TX_ID id="ABAV0002" active="true"/>
    <TX_ID id="ABAV0003" active="true"/>
    <TX_ID id="ABAV0004" active="true"/>
