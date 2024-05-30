@@ -3,7 +3,7 @@
  <PropModels size="5">
   <MeasAnalysis data_file_name="" selected_sector="" meas_data_file_type="EDX" limit_by_distance="false" limit_by_azimuth="false" limit_by_boundary_file="false" limit_by_measurement="false" limit_by_avg_data="false" distance_min="0.1" distance_max="1000.0" azimuth_start="0.0" azimuth_end="0.0" measurement_min="0.0" measurement_max="0.0" average_data="1.0" boundary_file=""/>
   <ModelSuggestionData system_type_index="0" freq_range_index="0" service_area_type_index="0" remote_unit_type_index="0" calc_type_index="0"/>
-  <PropModel prop_method_index="0" gcattn_file="&lt;INSTALL_PATH&gt;\DATA\GCATTN_USGS2011.DAT" use_db_land_use_file="false" method_name="Anderson 2D, terrain and clutter" model_type="Anderson-2D v1.00" percentage_of_time="60.0" percentage_of_location="90.0" margin="0.0" k_factor="1.333" conductivity="8.0" dielectric_const="15.0" clutter_height_distance="0.001" hata_range="15.0" use_land_use_clutter_data="true" use_building_data="false" incl_ground_reflection="false" incl_fresnel_zone_loss="true" incl_clutter_height="false" use_clutter_pass_through_loss="false" use_RMD="false" show_on_legend="true" okumura_hata_environment="open" atmospheric_absorption="none" climate_type="Continental Temperate" ITUR_curve_type="Land curves with delta H" tropospheric_scatter="false" LongleyRiceVariabilityMode="Broadcast" LR_situation_var="50.0" LR_exclude_situation_var="true" LR_exclude_location_var="false" fcc_edx_override="0" fcc_edx_extra_loss="0.0" empirical_fiveg_model_type="Rural Macro" empirical_fiveg_avg_bld_height="5.0" empirical_fiveg_avg_st_width="20.0">
+  <PropModel prop_method_index="0" gcattn_file="&lt;INSTALL_PATH&gt;\DATA\GCATTN_USGS2011.DAT" use_db_land_use_file="false" method_name="Anderson 2D, terrain and clutter" model_type="Anderson-2D v1.00" percentage_of_time="50.0" percentage_of_location="50.0" margin="0.0" k_factor="1.333" conductivity="8.0" dielectric_const="15.0" clutter_height_distance="0.001" hata_range="15.0" use_land_use_clutter_data="true" use_building_data="false" incl_ground_reflection="false" incl_fresnel_zone_loss="true" incl_clutter_height="false" use_clutter_pass_through_loss="false" use_RMD="false" show_on_legend="true" okumura_hata_environment="open" atmospheric_absorption="none" climate_type="Continental Temperate" ITUR_curve_type="Land curves with delta H" tropospheric_scatter="false" LongleyRiceVariabilityMode="Broadcast" LR_situation_var="50.0" LR_exclude_situation_var="true" LR_exclude_location_var="false" fcc_edx_override="0" fcc_edx_extra_loss="0.0" empirical_fiveg_model_type="Rural Macro" empirical_fiveg_avg_bld_height="5.0" empirical_fiveg_avg_st_width="20.0">
    <coeffs size="10"><double>46.2999999999999970</double><double>33.8999999999999990</double><double>13.8200000000000000</double><double>44.8999999999999990</double><double>6.5499999999999998</double><double>3.0000000000000000</double><double>1.1000000000000001</double><double>0.7000000000000000</double><double>1.5600000000000001</double><double>0.8000000000000000</double></coeffs>
    <COST231SimplifiedIndoorModel average_building_height="15.0" average_road_width="15.0" average_building_separation="30.0" average_road_orientation_relative_to_radio_path="90.0" system_urban_environment="medium sized cities" simplified_indoor_attenuation_exponent_1="2.0" simplified_indoor_attenuation_exponent_2="3.5" floor_to_ceiling_height_for_simplified_indoor_model="4.0" use_diffraction_path_for_simplified_indoor_model="true"/>
    <RayTracPropModel no_of_reflection_generations="7" no_of_diffraction_generations="1" spatial_averaging_distance="10.0" use_wall_scattering="false" use_wall_transmission="false" use_rooftop_diffraction="false" create_impulse_file_for_route_study="false" create_impulse_file_for_grid_study="false" study_radius="1000.0" ray_amplitude_threshold="-120.0"/>
@@ -406,7 +406,7 @@
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="7">
    <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="-1049697600" width="0.0">
+    <GraphicalObject Id="" IndexForLabel="1988301568" width="0.0">
      <Color r="0" g="0" b="0"/>
      <LatLongTypeList number="2">
       <LatLongPair latitude="44.84118458667511" longitude="-123.2155908922376"/>
@@ -2434,7 +2434,7 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="29">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="53">
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAA0003" active="true"/>
    <TX_ID id="ABAA0004" active="true"/>
@@ -2464,6 +2464,30 @@
    <TX_ID id="ABAM0003" active="true"/>
    <TX_ID id="ABAN0001" active="true"/>
    <TX_ID id="ABAO0001" active="true"/>
+   <TX_ID id="ABAP0001" active="true"/>
+   <TX_ID id="ABAQ0001" active="true"/>
+   <TX_ID id="ABAQ0002" active="true"/>
+   <TX_ID id="ABAQ0003" active="true"/>
+   <TX_ID id="ABAR0001" active="true"/>
+   <TX_ID id="ABAS0001" active="true"/>
+   <TX_ID id="ABAS0002" active="true"/>
+   <TX_ID id="ABAT0001" active="true"/>
+   <TX_ID id="ABAT0002" active="true"/>
+   <TX_ID id="ABAU0001" active="true"/>
+   <TX_ID id="ABAU0002" active="true"/>
+   <TX_ID id="ABAU0003" active="true"/>
+   <TX_ID id="ABAV0002" active="true"/>
+   <TX_ID id="ABAV0003" active="true"/>
+   <TX_ID id="ABAV0004" active="true"/>
+   <TX_ID id="ABAW0001" active="true"/>
+   <TX_ID id="ABAW0002" active="true"/>
+   <TX_ID id="ABAW0003" active="true"/>
+   <TX_ID id="ABAX0001" active="true"/>
+   <TX_ID id="ABAX0003" active="true"/>
+   <TX_ID id="ABAY0002" active="true"/>
+   <TX_ID id="ABAY0003" active="true"/>
+   <TX_ID id="ABAY0004" active="true"/>
+   <TX_ID id="ABAZ0003" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
