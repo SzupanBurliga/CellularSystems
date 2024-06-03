@@ -12,9 +12,6 @@ Percent of total traffic carried by group: 100.00 %
           Circuit Traffic  Circuit Traffic   Number of    Channel  Current Blocking Packet Traffic
 Sector ID   (mErlangs)    Required Channels Channels Set Shortfall Probability (%)  (average mbps)
 --------- --------------- ----------------- ------------ --------- ---------------- --------------
-ABAA0001      5141.59             12             16          -4          0.01          5.1416
-ABAA0002      7208.50             15             16          -1          0.34          7.2085
-ABAB0001     10481.32             20             24          -4          0.02         10.4813
 Albany11     13309.97             24             24           0          0.57         13.3100
 Albany12     11432.59             21             24          -3          0.08         11.4326
 Albany13      7853.75             16             16           0          0.76          7.8538
@@ -25,13 +22,16 @@ Albany31     11096.52             21             24          -3          0.06   
 Albany32     11033.52             21             24          -3          0.05         11.0335
 Albany41      7787.29             16             16           0          0.71          7.7873
 Albany42      6371.47             14             16          -2          0.10          6.3715
-Albany51      2489.91              8              8           0          0.44          2.4899
+Albany51      2210.92              7              8          -1          0.21          2.2109
 BaldPete       839.95              5              8          -3          0.00          0.8400
 BarnetKn     13787.24             24             24           0          0.87         13.7872
 Brownsvi      2456.69              8              8           0          0.41          2.4567
 CedarB1       6617.44             14             16          -2          0.15          6.6174
 CedarB2       1088.86              5              8          -3          0.00          1.0889
 FernRidg      4778.47             12             16          -4          0.00          4.7785
+Granger1      5141.59             12             16          -4          0.01          5.1416
+Granger2      7487.49             16             16           0          0.49          7.4875
+Gravel1      10481.32             20             24          -4          0.02         10.4813
 GravelP1      2774.68              8              8           0          0.83          2.7747
 GravelP2      5540.46             13             16          -3          0.02          5.5405
 GravelP3      1586.84              6              8          -2          0.03          1.5868
