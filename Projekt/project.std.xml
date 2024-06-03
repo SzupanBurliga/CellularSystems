@@ -406,7 +406,7 @@
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="7">
    <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="1777033248" width="0.0">
+    <GraphicalObject Id="" IndexForLabel="0" width="0.0">
      <Color r="0" g="0" b="0"/>
      <LatLongTypeList number="2">
       <LatLongPair latitude="44.84118458667511" longitude="-123.2155908922376"/>
@@ -2434,62 +2434,65 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="55">
-   <TX_ID id="ABAA0004" active="true"/>
-   <TX_ID id="ABAB0002" active="true"/>
-   <TX_ID id="ABAB0003" active="true"/>
-   <TX_ID id="ABAC0001" active="true"/>
-   <TX_ID id="ABAC0002" active="true"/>
-   <TX_ID id="ABAC0003" active="true"/>
-   <TX_ID id="ABAD0001" active="true"/>
-   <TX_ID id="ABAD0003" active="true"/>
-   <TX_ID id="ABAE0001" active="true"/>
-   <TX_ID id="ABAF0002" active="true"/>
-   <TX_ID id="ABAF0003" active="true"/>
-   <TX_ID id="ABAG0003" active="true"/>
-   <TX_ID id="ABAH0001" active="true"/>
-   <TX_ID id="ABAH0002" active="true"/>
-   <TX_ID id="ABAI0001" active="true"/>
-   <TX_ID id="ABAJ0002" active="true"/>
-   <TX_ID id="ABAK0002" active="true"/>
-   <TX_ID id="ABAL0001" active="true"/>
-   <TX_ID id="ABAL0002" active="true"/>
-   <TX_ID id="ABAL0003" active="true"/>
-   <TX_ID id="ABAM0001" active="true"/>
-   <TX_ID id="ABAM0002" active="true"/>
-   <TX_ID id="ABAM0003" active="true"/>
-   <TX_ID id="ABAN0001" active="true"/>
-   <TX_ID id="ABAO0001" active="true"/>
-   <TX_ID id="ABAP0001" active="true"/>
-   <TX_ID id="ABAQ0001" active="true"/>
-   <TX_ID id="ABAQ0002" active="true"/>
-   <TX_ID id="ABAR0001" active="true"/>
-   <TX_ID id="ABAS0001" active="true"/>
-   <TX_ID id="ABAT0001" active="true"/>
-   <TX_ID id="ABAT0002" active="true"/>
-   <TX_ID id="ABAT0003" active="true"/>
-   <TX_ID id="ABAU0001" active="true"/>
-   <TX_ID id="ABAV0001" active="true"/>
-   <TX_ID id="ABAV0002" active="true"/>
-   <TX_ID id="ABAV0003" active="true"/>
-   <TX_ID id="ABAV0004" active="true"/>
-   <TX_ID id="ABAW0001" active="true"/>
-   <TX_ID id="ABAW0002" active="true"/>
-   <TX_ID id="ABAX0001" active="true"/>
-   <TX_ID id="ABAX0003" active="true"/>
-   <TX_ID id="ABAY0001" active="true"/>
-   <TX_ID id="ABAZ0001" active="true"/>
-   <TX_ID id="ABAZ0002" active="true"/>
-   <TX_ID id="ABAZ0003" active="true"/>
-   <TX_ID id="ABBA0001" active="true"/>
-   <TX_ID id="ABBB0001" active="true"/>
-   <TX_ID id="ABBB0002" active="true"/>
-   <TX_ID id="ABBB0003" active="true"/>
-   <TX_ID id="ABBC0001" active="true"/>
-   <TX_ID id="ABBD0001" active="true"/>
-   <TX_ID id="ABBE0001" active="true"/>
-   <TX_ID id="ABBF0001" active="true"/>
-   <TX_ID id="ABBG0001" active="true"/>
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="58">
+   <TX_ID id="Albany11" active="true"/>
+   <TX_ID id="Albany12" active="true"/>
+   <TX_ID id="Albany13" active="true"/>
+   <TX_ID id="Albany21" active="true"/>
+   <TX_ID id="Albany22" active="true"/>
+   <TX_ID id="Albany23" active="true"/>
+   <TX_ID id="Albany31" active="true"/>
+   <TX_ID id="Albany32" active="true"/>
+   <TX_ID id="Albany41" active="true"/>
+   <TX_ID id="Albany42" active="true"/>
+   <TX_ID id="Albany51" active="true"/>
+   <TX_ID id="Albany61" active="true"/>
+   <TX_ID id="Albany62" active="true"/>
+   <TX_ID id="BaldPete" active="true"/>
+   <TX_ID id="BarnetKn" active="true"/>
+   <TX_ID id="Brownsvi" active="true"/>
+   <TX_ID id="CedarB1" active="true"/>
+   <TX_ID id="CedarB2" active="true"/>
+   <TX_ID id="FernRidg" active="true"/>
+   <TX_ID id="GravelP1" active="true"/>
+   <TX_ID id="GravelP2" active="true"/>
+   <TX_ID id="GravelP3" active="true"/>
+   <TX_ID id="Greenhor" active="true"/>
+   <TX_ID id="Hatch1" active="true"/>
+   <TX_ID id="Hatch2" active="true"/>
+   <TX_ID id="IndianLa" active="true"/>
+   <TX_ID id="JohnsonH" active="true"/>
+   <TX_ID id="KeelMTN" active="true"/>
+   <TX_ID id="Leban11" active="true"/>
+   <TX_ID id="Leban12" active="true"/>
+   <TX_ID id="Leban21" active="true"/>
+   <TX_ID id="Leban31" active="true"/>
+   <TX_ID id="Microwav" active="true"/>
+   <TX_ID id="Neal" active="true"/>
+   <TX_ID id="RadioTow" active="true"/>
+   <TX_ID id="Rodgers1" active="true"/>
+   <TX_ID id="RogersM1" active="true"/>
+   <TX_ID id="RogersM2" active="true"/>
+   <TX_ID id="RoundMT1" active="true"/>
+   <TX_ID id="RoundMT2" active="true"/>
+   <TX_ID id="RoundMT3" active="true"/>
+   <TX_ID id="SnakeHil" active="true"/>
+   <TX_ID id="StatePar" active="true"/>
+   <TX_ID id="Stayton1" active="true"/>
+   <TX_ID id="Stayton2" active="true"/>
+   <TX_ID id="Stayton3" active="true"/>
+   <TX_ID id="SweetHom" active="true"/>
+   <TX_ID id="Talbot1" active="true"/>
+   <TX_ID id="Talbot2" active="true"/>
+   <TX_ID id="Talbot3" active="true"/>
+   <TX_ID id="Talbot4" active="true"/>
+   <TX_ID id="Tangent1" active="true"/>
+   <TX_ID id="Tangent2" active="true"/>
+   <TX_ID id="Tangent3" active="true"/>
+   <TX_ID id="Tuisa" active="true"/>
+   <TX_ID id="WardB1" active="true"/>
+   <TX_ID id="WardB2" active="true"/>
+   <TX_ID id="WardB3" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
