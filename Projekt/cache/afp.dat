@@ -1,152 +1,146 @@
-Temp. level:    1.000     Acceptance ratio:    0.880     Current cost:       19.460
-Temp. level:    0.850     Acceptance ratio:    0.830     Current cost:       20.410
-Temp. level:    0.722     Acceptance ratio:    0.750     Current cost:       13.628
-Temp. level:    0.614     Acceptance ratio:    0.710     Current cost:       24.567
-Temp. level:    0.522     Acceptance ratio:    0.620     Current cost:       16.111
-Temp. level:    0.444     Acceptance ratio:    0.520     Current cost:       17.943
-Temp. level:    0.377     Acceptance ratio:    0.290     Current cost:       19.516
-Temp. level:    0.321     Acceptance ratio:    0.220     Current cost:       17.591
-Temp. level:    0.272     Acceptance ratio:    0.170     Current cost:       11.622
-Temp. level:    0.232     Acceptance ratio:    0.070     Current cost:       11.783
-Temp. level:    0.197     Acceptance ratio:    0.040     Current cost:        8.628
-Temp. level:    0.167     Acceptance ratio:    0.010     Current cost:        7.445
-Temp. level:    0.142     Acceptance ratio:    0.030     Current cost:        7.778
-Temp. level:    0.121     Acceptance ratio:    0.040     Current cost:        6.641
-Temp. level:    0.103     Acceptance ratio:    0.000     Current cost:        6.641
-Temp. level:    0.087     Acceptance ratio:    0.000     Current cost:        6.641
-Temp. level:    0.074     Acceptance ratio:    0.070     Current cost:        5.861
-Temp. level:    0.063     Acceptance ratio:    0.040     Current cost:        4.816
-Temp. level:    0.054     Acceptance ratio:    0.000     Current cost:        4.816
-Temp. level:    0.046     Acceptance ratio:    0.060     Current cost:        3.877
-Temp. level:    0.039     Acceptance ratio:    0.000     Current cost:        3.877
-Temp. level:    0.033     Acceptance ratio:    0.050     Current cost:        3.343
-Temp. level:    0.028     Acceptance ratio:    0.070     Current cost:        3.002
-Temp. level:    0.024     Acceptance ratio:    0.030     Current cost:        2.732
-Temp. level:    0.020     Acceptance ratio:    0.020     Current cost:        2.725
-Temp. level:    0.017     Acceptance ratio:    0.020     Current cost:        2.725
-Temp. level:    0.015     Acceptance ratio:    0.000     Current cost:        2.725
-Temp. level:    0.012     Acceptance ratio:    0.000     Current cost:        2.725
-Temp. level:    0.011     Acceptance ratio:    0.000     Current cost:        2.725
-Temp. level:    0.009     Acceptance ratio:    0.010     Current cost:        2.669
-sectors Albany11 on ch 58,Albany42 on ch 58, cost =0.010
-sectors Albany11 on ch **,BarnetKn on ch **, cost =0.091
-sectors Albany11 on ch 25,Talbot2  on ch 25, cost =0.003
-sectors Albany12 on ch 73,Albany23 on ch 72, cost =0.002
-sectors Albany12 on ch 32,Albany41 on ch 32, cost =0.008
-sectors Albany12 on ch 48,Leban21  on ch 48, cost =0.021
-sectors Albany12 on ch 69,Leban21  on ch 69, cost =0.021
-sectors Albany12 on ch 69,Rodgers1 on ch 69, cost =0.021
-sectors Albany12 on ch 73,RogersM1 on ch 73, cost =0.164
-sectors Albany12 on ch 32,StatePar on ch 32, cost =0.021
-sectors Albany12 on ch 73,Talbot3  on ch 73, cost =0.170
-sectors Albany12 on ch 69,Talbot3  on ch 68, cost =0.002
-sectors Albany12 on ch 48,Tangent1 on ch 49, cost =0.001
-sectors Albany13 on ch **,Albany23 on ch **, cost =0.002
-sectors Albany13 on ch 97,Albany31 on ch 97, cost =0.058
-sectors Albany13 on ch **,RogersM2 on ch **, cost =0.080
-sectors Albany21 on ch 93,FernRidg on ch 93, cost =0.016
-sectors Albany22 on ch 10,Albany61 on ch 10, cost =0.014
-sectors Albany23 on ch 72,Leban11  on ch 72, cost =0.024
-sectors Albany23 on ch **,StatePar on ch **, cost =0.034
-sectors Albany23 on ch 72,Talbot3  on ch 73, cost =0.004
-sectors Albany31 on ch 45,Albany62 on ch 44, cost =0.008
-sectors Albany31 on ch 97,Tuisa    on ch 97, cost =0.005
-sectors Albany32 on ch 20,Albany62 on ch 21, cost =0.008
-sectors Albany41 on ch 80,Rodgers1 on ch 80, cost =0.040
-sectors Albany41 on ch 80,RoundMT3 on ch 80, cost =0.053
-sectors Albany41 on ch 32,StatePar on ch 32, cost =0.080
-sectors Albany42 on ch 58,Albany11 on ch 58, cost =0.012
-sectors Albany42 on ch 56,Leban11  on ch 56, cost =0.012
-sectors Albany42 on ch 58,Leban12  on ch 58, cost =0.012
-sectors Albany51 on ch 82,FernRidg on ch 82, cost =0.006
-sectors Albany51 on ch **,RogersM1 on ch **, cost =0.063
-sectors Albany51 on ch **,Tangent1 on ch **, cost =0.003
-sectors Albany51 on ch **,WardB1   on ch **, cost =0.192
-sectors Albany62 on ch 21,GravelP1 on ch 21, cost =0.006
-sectors Albany62 on ch **,IndianLa on ch **, cost =0.005
-sectors Albany62 on ch 21,Microwav on ch 21, cost =0.080
-sectors BaldPete on ch 45,CedarB2  on ch 45, cost =0.024
-sectors BarnetKn on ch **,Albany11 on ch **, cost =0.014
-sectors BarnetKn on ch **,Hatch1   on ch **, cost =0.018
-sectors BarnetKn on ch 53,Neal     on ch 53, cost =0.180
-sectors Brownsvi on ch 80,RoundMT3 on ch 80, cost =0.012
-sectors CedarB1  on ch 15,RoundMT1 on ch 15, cost =0.009
-sectors CedarB1  on ch **,Tangent1 on ch **, cost =0.002
-sectors CedarB2  on ch 45,BaldPete on ch 45, cost =0.042
-sectors FernRidg on ch 82,Albany51 on ch 82, cost =0.002
-sectors GravelP1 on ch 21,Albany62 on ch 21, cost =0.015
-sectors GravelP1 on ch 21,Microwav on ch 21, cost =0.006
-sectors GravelP2 on ch  5,Hatch2   on ch  5, cost =0.012
-sectors GravelP2 on ch  5,Tangent2 on ch  5, cost =0.010
-sectors GravelP3 on ch 97,Leban21  on ch 97, cost =0.002
-sectors GravelP3 on ch 97,Tuisa    on ch 97, cost =0.014
-sectors Hatch1   on ch **,BarnetKn on ch **, cost =0.028
-sectors Hatch2   on ch  5,Tangent2 on ch  5, cost =0.009
-sectors IndianLa on ch **,Albany62 on ch **, cost =0.063
-sectors Leban11  on ch 72,RogersM1 on ch 73, cost =0.006
-sectors Leban11  on ch 56,Talbot2  on ch 56, cost =0.005
-sectors Leban12  on ch 58,Albany42 on ch 58, cost =0.004
-sectors Leban12  on ch 93,FernRidg on ch 93, cost =0.014
-sectors Leban12  on ch 49,Leban21  on ch 48, cost =0.005
-sectors Leban12  on ch 25,SweetHom on ch 25, cost =0.003
-sectors Leban12  on ch 25,Talbot2  on ch 25, cost =0.004
-sectors Leban12  on ch 25,WardB2   on ch 24, cost =0.002
-sectors Leban21  on ch 48,Albany12 on ch 48, cost =0.039
-sectors Leban21  on ch 69,Albany12 on ch 69, cost =0.039
-sectors Leban21  on ch 97,Albany31 on ch 97, cost =0.002
-sectors Leban21  on ch 97,GravelP3 on ch 97, cost =0.030
-sectors Leban21  on ch 48,Leban12  on ch 49, cost =0.005
-sectors Leban21  on ch 69,Leban31  on ch 68, cost =0.007
-sectors Leban21  on ch 69,Rodgers1 on ch 69, cost =0.002
-sectors Leban21  on ch **,RogersM2 on ch **, cost =0.006
-sectors Leban21  on ch 97,RoundMT3 on ch 96, cost =0.002
-sectors Leban21  on ch 97,Tuisa    on ch 97, cost =0.009
-sectors Leban31  on ch 68,Leban21  on ch 69, cost =0.003
-sectors Leban31  on ch 68,Talbot3  on ch 68, cost =0.044
-sectors Microwav on ch 21,Albany62 on ch 21, cost =0.048
-sectors Microwav on ch 21,GravelP1 on ch 21, cost =0.016
-sectors Neal     on ch 53,BarnetKn on ch 53, cost =0.040
-sectors Rodgers1 on ch 69,Albany12 on ch 69, cost =0.003
-sectors Rodgers1 on ch 80,Albany41 on ch 80, cost =0.004
-sectors Rodgers1 on ch 80,RoundMT3 on ch 80, cost =0.024
-sectors Rodgers1 on ch 49,Tangent1 on ch 49, cost =0.017
-sectors RogersM1 on ch 73,Albany12 on ch 73, cost =0.012
-sectors RogersM1 on ch **,Albany51 on ch **, cost =0.002
-sectors RogersM1 on ch 73,Leban11  on ch 72, cost =0.004
-sectors RogersM1 on ch 73,SweetHom on ch 73, cost =0.004
-sectors RogersM1 on ch 73,Talbot3  on ch 73, cost =0.008
-sectors RogersM1 on ch **,WardB1   on ch **, cost =0.002
-sectors RogersM2 on ch **,Albany13 on ch **, cost =0.002
-sectors RoundMT1 on ch 15,CedarB1  on ch 15, cost =0.054
-sectors RoundMT3 on ch 80,Rodgers1 on ch 80, cost =0.060
-sectors SnakeHil on ch 97,Tuisa    on ch 97, cost =0.025
-sectors StatePar on ch 32,Albany41 on ch 32, cost =0.004
-sectors Stayton1 on ch 21,GravelP1 on ch 21, cost =0.006
-sectors Stayton3 on ch 48,Rodgers1 on ch 49, cost =0.003
-sectors SweetHom on ch 73,Albany12 on ch 73, cost =0.004
-sectors SweetHom on ch 25,Leban12  on ch 25, cost =0.020
-sectors SweetHom on ch 73,RogersM1 on ch 73, cost =0.026
-sectors SweetHom on ch **,StatePar on ch **, cost =0.002
-sectors SweetHom on ch 25,Talbot2  on ch 25, cost =0.003
-sectors SweetHom on ch 73,Talbot3  on ch 73, cost =0.002
-sectors Talbot2  on ch 56,Leban11  on ch 56, cost =0.017
-sectors Talbot2  on ch 25,SweetHom on ch 25, cost =0.003
-sectors Talbot3  on ch 73,Albany12 on ch 73, cost =0.008
-sectors Talbot3  on ch 68,Leban31  on ch 68, cost =0.012
-sectors Talbot3  on ch 68,Rodgers1 on ch 69, cost =0.001
-sectors Talbot3  on ch 73,RogersM1 on ch 73, cost =0.019
-sectors Talbot4  on ch 63,KeelMTN  on ch 63, cost =0.008
-sectors Tangent1 on ch 49,Leban12  on ch 49, cost =0.007
-sectors Tangent1 on ch 49,Rodgers1 on ch 49, cost =0.016
-sectors Tangent1 on ch **,WardB1   on ch **, cost =0.007
-sectors Tangent2 on ch  5,GravelP2 on ch  5, cost =0.040
-sectors Tangent2 on ch  5,Hatch2   on ch  5, cost =0.002
-sectors Tangent3 on ch 15,Albany32 on ch 15, cost =0.008
-sectors Tuisa    on ch 97,Albany31 on ch 97, cost =0.002
-sectors Tuisa    on ch 97,GravelP3 on ch 97, cost =0.005
-sectors Tuisa    on ch 97,Leban21  on ch 97, cost =0.004
-sectors Tuisa    on ch 97,SnakeHil on ch 97, cost =0.002
-sectors WardB1   on ch **,Albany51 on ch **, cost =0.006
-sectors WardB1   on ch **,RogersM1 on ch **, cost =0.037
-sectors WardB1   on ch **,Tangent1 on ch **, cost =0.001
-  total cost =   2.668601    
+Temp. level:    1.000     Acceptance ratio:    0.880     Current cost:       15.180
+Temp. level:    0.850     Acceptance ratio:    0.710     Current cost:       16.690
+Temp. level:    0.722     Acceptance ratio:    0.710     Current cost:       14.533
+Temp. level:    0.614     Acceptance ratio:    0.710     Current cost:        9.604
+Temp. level:    0.522     Acceptance ratio:    0.610     Current cost:       12.920
+Temp. level:    0.444     Acceptance ratio:    0.410     Current cost:       13.646
+Temp. level:    0.377     Acceptance ratio:    0.360     Current cost:       10.868
+Temp. level:    0.321     Acceptance ratio:    0.130     Current cost:        6.403
+Temp. level:    0.272     Acceptance ratio:    0.040     Current cost:        8.291
+Temp. level:    0.232     Acceptance ratio:    0.060     Current cost:        7.684
+Temp. level:    0.197     Acceptance ratio:    0.030     Current cost:        5.980
+Temp. level:    0.167     Acceptance ratio:    0.040     Current cost:        4.590
+Temp. level:    0.142     Acceptance ratio:    0.010     Current cost:        4.279
+Temp. level:    0.121     Acceptance ratio:    0.030     Current cost:        4.140
+Temp. level:    0.103     Acceptance ratio:    0.010     Current cost:        4.107
+Temp. level:    0.087     Acceptance ratio:    0.000     Current cost:        4.107
+Temp. level:    0.074     Acceptance ratio:    0.040     Current cost:        3.484
+Temp. level:    0.063     Acceptance ratio:    0.020     Current cost:        3.300
+Temp. level:    0.054     Acceptance ratio:    0.050     Current cost:        3.243
+Temp. level:    0.046     Acceptance ratio:    0.000     Current cost:        3.243
+Temp. level:    0.039     Acceptance ratio:    0.010     Current cost:        3.218
+Temp. level:    0.033     Acceptance ratio:    0.030     Current cost:        2.885
+Temp. level:    0.028     Acceptance ratio:    0.020     Current cost:        2.325
+Temp. level:    0.024     Acceptance ratio:    0.000     Current cost:        2.325
+Temp. level:    0.020     Acceptance ratio:    0.000     Current cost:        2.325
+Temp. level:    0.017     Acceptance ratio:    0.000     Current cost:        2.325
+Temp. level:    0.015     Acceptance ratio:    0.000     Current cost:        2.325
+Temp. level:    0.012     Acceptance ratio:    0.000     Current cost:        2.325
+Temp. level:    0.011     Acceptance ratio:    0.000     Current cost:        2.325
+Temp. level:    0.009     Acceptance ratio:    0.000     Current cost:        2.325
+sectors ABAA0002 on ch 21,Leban21  on ch 21, cost =0.020
+sectors ABAA0002 on ch 21,Rodgers1 on ch 21, cost =0.035
+sectors ABAA0002 on ch **,Talbot3  on ch **, cost =0.044
+sectors ABAA0002 on ch 21,WardB1   on ch 20, cost =0.003
+sectors ABAB0001 on ch 53,Albany12 on ch 53, cost =0.005
+sectors ABAB0001 on ch 53,CedarB1  on ch 53, cost =0.006
+sectors ABAB0001 on ch **,Hatch1   on ch **, cost =0.010
+sectors ABAB0001 on ch 15,Tuisa    on ch 15, cost =0.046
+sectors Albany11 on ch 25,RadioTow on ch 25, cost =0.009
+sectors Albany11 on ch 58,RogersM2 on ch 58, cost =0.048
+sectors Albany11 on ch 25,StatePar on ch 25, cost =0.006
+sectors Albany12 on ch 73,ABAA0001 on ch 73, cost =0.010
+sectors Albany12 on ch 53,ABAB0001 on ch 53, cost =0.036
+sectors Albany12 on ch 53,Albany42 on ch 53, cost =0.041
+sectors Albany12 on ch 53,CedarB1  on ch 53, cost =0.032
+sectors Albany12 on ch 10,Leban11  on ch 10, cost =0.041
+sectors Albany12 on ch 10,Rodgers1 on ch 10, cost =0.045
+sectors Albany13 on ch **,GravelP2 on ch **, cost =0.015
+sectors Albany13 on ch 80,StatePar on ch 80, cost =0.010
+sectors Albany13 on ch **,Tangent1 on ch **, cost =0.004
+sectors Albany21 on ch **,GravelP1 on ch **, cost =0.005
+sectors Albany23 on ch 20,ABAA0002 on ch 21, cost =0.003
+sectors Albany23 on ch  5,Leban11  on ch  5, cost =0.018
+sectors Albany23 on ch 20,Neal     on ch 20, cost =0.034
+sectors Albany23 on ch 20,WardB1   on ch 20, cost =0.037
+sectors Albany31 on ch 29,Albany42 on ch 29, cost =0.005
+sectors Albany31 on ch **,Rodgers1 on ch **, cost =0.010
+sectors Albany32 on ch **,ABAB0001 on ch **, cost =0.002
+sectors Albany32 on ch 34,FernRidg on ch 34, cost =0.020
+sectors Albany32 on ch **,GravelP1 on ch **, cost =0.002
+sectors Albany32 on ch **,Leban12  on ch **, cost =0.013
+sectors Albany41 on ch 97,Albany51 on ch 97, cost =0.040
+sectors Albany41 on ch  8,FernRidg on ch  8, cost =0.038
+sectors Albany41 on ch 97,ABAC0001 on ch 97, cost =0.061
+sectors Albany41 on ch  8,RoundMT3 on ch  8, cost =0.059
+sectors Albany42 on ch 53,ABAB0001 on ch 53, cost =0.005
+sectors Albany42 on ch 53,Albany12 on ch 53, cost =0.011
+sectors Albany42 on ch 29,Albany31 on ch 29, cost =0.013
+sectors Albany42 on ch 29,Leban12  on ch 29, cost =0.005
+sectors Albany51 on ch 97,Albany41 on ch 97, cost =0.048
+sectors Albany51 on ch 97,ABAC0001 on ch 97, cost =0.051
+sectors BaldPete on ch 10,Albany12 on ch 10, cost =0.007
+sectors BaldPete on ch 10,Leban11  on ch 10, cost =0.002
+sectors BaldPete on ch 10,Rodgers1 on ch 10, cost =0.020
+sectors BaldPete on ch 10,WardB2   on ch 10, cost =0.015
+sectors BarnetKn on ch 63,CedarB1  on ch 63, cost =0.023
+sectors CedarB1  on ch 53,ABAB0001 on ch 53, cost =0.012
+sectors CedarB1  on ch 53,Albany12 on ch 53, cost =0.006
+sectors CedarB1  on ch 53,Albany42 on ch 53, cost =0.004
+sectors CedarB1  on ch 63,BarnetKn on ch 63, cost =0.020
+sectors CedarB2  on ch 87,SweetHom on ch 87, cost =0.004
+sectors FernRidg on ch  8,Albany41 on ch  8, cost =0.002
+sectors FernRidg on ch 34,RoundMT1 on ch 34, cost =0.054
+sectors FernRidg on ch  8,RoundMT3 on ch  8, cost =0.002
+sectors GravelP2 on ch **,Microwav on ch **, cost =0.023
+sectors GravelP3 on ch 24,Hatch1   on ch 24, cost =0.014
+sectors Hatch1   on ch **,ABAB0001 on ch **, cost =0.021
+sectors Hatch1   on ch 24,GravelP3 on ch 24, cost =0.043
+sectors IndianLa on ch 77,Microwav on ch 77, cost =0.004
+sectors IndianLa on ch 77,RogersM1 on ch 77, cost =0.039
+sectors JohnsonH on ch 39,RoundMT3 on ch 39, cost =0.002
+sectors KeelMTN  on ch **,Talbot3  on ch **, cost =0.010
+sectors Leban11  on ch 10,Albany12 on ch 10, cost =0.006
+sectors Leban11  on ch 10,Rodgers1 on ch 10, cost =0.004
+sectors Leban11  on ch 10,WardB2   on ch 10, cost =0.068
+sectors Leban12  on ch 29,Albany42 on ch 29, cost =0.003
+sectors Leban12  on ch 25,RadioTow on ch 25, cost =0.003
+sectors Leban12  on ch 25,StatePar on ch 25, cost =0.050
+sectors Leban21  on ch 21,ABAA0002 on ch 21, cost =0.151
+sectors Leban21  on ch 93,Leban31  on ch 92, cost =0.006
+sectors Leban21  on ch 21,Rodgers1 on ch 21, cost =0.004
+sectors Leban21  on ch 93,Tangent1 on ch 93, cost =0.014
+sectors Leban21  on ch **,Tangent1 on ch **, cost =0.014
+sectors Leban31  on ch 92,Leban21  on ch 93, cost =0.002
+sectors Microwav on ch **,GravelP2 on ch **, cost =0.007
+sectors Microwav on ch 77,IndianLa on ch 77, cost =0.014
+sectors Microwav on ch 77,RogersM1 on ch 77, cost =0.030
+sectors Neal     on ch 20,Albany23 on ch 20, cost =0.002
+sectors Neal     on ch 20,Talbot2  on ch 20, cost =0.013
+sectors Neal     on ch 20,WardB1   on ch 20, cost =0.007
+sectors RadioTow on ch 25,Albany11 on ch 25, cost =0.003
+sectors RadioTow on ch 25,StatePar on ch 25, cost =0.040
+sectors ABAC0001 on ch 45,ABAA0001 on ch 45, cost =0.003
+sectors ABAC0001 on ch 97,Albany51 on ch 97, cost =0.009
+sectors ABAC0001 on ch 45,RogersM1 on ch 44, cost =0.006
+sectors Rodgers1 on ch 21,ABAA0002 on ch 21, cost =0.021
+sectors Rodgers1 on ch 10,Leban11  on ch 10, cost =0.008
+sectors Rodgers1 on ch 21,Neal     on ch 20, cost =0.003
+sectors Rodgers1 on ch 10,WardB2   on ch 10, cost =0.004
+sectors RogersM1 on ch 77,IndianLa on ch 77, cost =0.003
+sectors RogersM1 on ch 77,Microwav on ch 77, cost =0.044
+sectors RogersM1 on ch 69,WardB1   on ch 69, cost =0.009
+sectors RogersM2 on ch 58,Albany11 on ch 58, cost =0.006
+sectors RoundMT1 on ch 34,FernRidg on ch 34, cost =0.026
+sectors RoundMT3 on ch  8,FernRidg on ch  8, cost =0.003
+sectors StatePar on ch 80,Albany13 on ch 80, cost =0.002
+sectors StatePar on ch 25,Leban12  on ch 25, cost =0.022
+sectors StatePar on ch 25,RadioTow on ch 25, cost =0.018
+sectors SweetHom on ch 87,CedarB2  on ch 87, cost =0.017
+sectors SweetHom on ch 45,ABAC0001 on ch 45, cost =0.002
+sectors Talbot2  on ch 20,Neal     on ch 20, cost =0.046
+sectors Talbot2  on ch 20,Rodgers1 on ch 21, cost =0.002
+sectors Talbot2  on ch 20,WardB1   on ch 20, cost =0.004
+sectors Talbot3  on ch **,ABAA0002 on ch **, cost =0.089
+sectors Talbot3  on ch **,KeelMTN  on ch **, cost =0.027
+sectors Talbot3  on ch **,Microwav on ch **, cost =0.005
+sectors Tangent1 on ch 93,Leban21  on ch 93, cost =0.002
+sectors Tangent1 on ch **,Leban21  on ch **, cost =0.002
+sectors Tuisa    on ch 15,ABAB0001 on ch 15, cost =0.008
+sectors WardB1   on ch 20,ABAA0002 on ch 21, cost =0.002
+sectors WardB1   on ch 20,Neal     on ch 20, cost =0.015
+sectors WardB1   on ch 69,RogersM1 on ch 69, cost =0.109
+sectors WardB2   on ch 10,BaldPete on ch 10, cost =0.003
+sectors WardB2   on ch 10,Leban11  on ch 10, cost =0.054
+sectors WardB2   on ch 10,Rodgers1 on ch 10, cost =0.008
+  total cost =   2.324811    
