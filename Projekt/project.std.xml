@@ -406,7 +406,7 @@
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="7">
    <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="-872445008" width="0.0">
+    <GraphicalObject Id="" IndexForLabel="16" width="0.0">
      <Color r="0" g="0" b="0"/>
      <LatLongTypeList number="2">
       <LatLongPair latitude="44.84118458667511" longitude="-123.2155908922376"/>
@@ -2434,11 +2434,10 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="61">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="60">
    <TX_ID id="ABAA0001" active="true"/>
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAB0001" active="true"/>
-   <TX_ID id="ABAB0002" active="true"/>
    <TX_ID id="ABAC0001" active="true"/>
    <TX_ID id="Albany11" active="true"/>
    <TX_ID id="Albany12" active="true"/>
