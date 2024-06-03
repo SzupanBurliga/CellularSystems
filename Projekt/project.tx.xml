@@ -55,7 +55,16 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="8">
+        <Neighbor sector="*Albany23"/>
+        <Neighbor sector="*Granger2"/>
+        <Neighbor sector="Albany41"/>
+        <Neighbor sector="Albany31"/>
+        <Neighbor sector="Albany13"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="Albany12"/>
+        <Neighbor sector="Albany21"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -104,7 +113,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="Albany31"/>
+        <Neighbor sector="Albany11"/>
+        <Neighbor sector="Albany13"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="Albany32"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -152,7 +167,16 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="8">
+        <Neighbor sector="Albany51"/>
+        <Neighbor sector="Albany42"/>
+        <Neighbor sector="*Granger2"/>
+        <Neighbor sector="Albany11"/>
+        <Neighbor sector="*Tangent1"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="Albany12"/>
+        <Neighbor sector="Albany32"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -213,7 +237,18 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="10">
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="*RadioT1"/>
+        <Neighbor sector="*Granger2"/>
+        <Neighbor sector="Albany23"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="Albany11"/>
+        <Neighbor sector="Albany31"/>
+        <Neighbor sector="Albany22"/>
+        <Neighbor sector="Albany41"/>
+        <Neighbor sector="*Gravel1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -260,7 +295,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="Albany21"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="*Albany31"/>
+        <Neighbor sector="Albany23"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -308,7 +349,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="Albany11"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="Albany22"/>
+        <Neighbor sector="Albany21"/>
+        <Neighbor sector="Albany41"/>
+        <Neighbor sector="Albany31"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -371,7 +420,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="Albany12"/>
+        <Neighbor sector="Albany32"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -420,7 +473,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="Tangent1"/>
+        <Neighbor sector="Albany51"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="*Granger2"/>
+        <Neighbor sector="Albany31"/>
+        <Neighbor sector="Albany12"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -482,7 +543,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="*Granger2"/>
+        <Neighbor sector="Albany11"/>
+        <Neighbor sector="*Tangent1"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="Albany23"/>
+        <Neighbor sector="Albany42"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -530,7 +598,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="*Granger2"/>
+        <Neighbor sector="Albany13"/>
+        <Neighbor sector="*Tangent1"/>
+        <Neighbor sector="Albany41"/>
+        <Neighbor sector="Albany51"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -591,7 +665,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="Albany13"/>
+        <Neighbor sector="Albany42"/>
+        <Neighbor sector="*Granger2"/>
+        <Neighbor sector="*Tangent1"/>
+        <Neighbor sector="Albany32"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -652,7 +733,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="KeelMTN"/>
+        <Neighbor sector="CedarB1"/>
+        <Neighbor sector="SweetHom"/>
+        <Neighbor sector="*RoundMT3"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -715,7 +801,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="Gravel1"/>
+        <Neighbor sector="Talbot2"/>
+        <Neighbor sector="RadioT1"/>
+        <Neighbor sector="GravelP1"/>
+        <Neighbor sector="Microwav"/>
+        <Neighbor sector="Talbot3"/>
+        <Neighbor sector="Rodgers1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -749,7 +843,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="240.0" beam_tilt="0.0" beam_tilt_az="240.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H120.PAT" antenna_height="10.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="1.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="8.0" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="180.0" beam_tilt="-1.0" beam_tilt_az="180.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -776,7 +870,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="WardB3"/>
+        <Neighbor sector="CedarB2"/>
+        <Neighbor sector="SnakeHil"/>
+        <Neighbor sector="*Tuisa"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -838,7 +937,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="CedarB2"/>
+        <Neighbor sector="SweetHom"/>
+        <Neighbor sector="KeelMTN"/>
+        <Neighbor sector="RoundMT3"/>
+        <Neighbor sector="BaldPete"/>
+        <Neighbor sector="Greenhor"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -885,7 +991,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="CedarB1"/>
+        <Neighbor sector="WardB3"/>
+        <Neighbor sector="Tuisa"/>
+        <Neighbor sector="Brownsvi"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -947,7 +1058,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="StatePar"/>
+        <Neighbor sector="Hatch2"/>
+        <Neighbor sector="Rodgers1"/>
+        <Neighbor sector="IndianLa"/>
+        <Neighbor sector="Neal"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -970,7 +1087,7 @@
      <Tx frequency="900.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
       <BaseTx tx_id="Granger1" UserSectorID="" guid="75f786c5-cb81-44ca-9f23-d54033bcc9ae" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
-        <Color r="12" g="21" b="57"/>
+        <Color r="37" g="33" b="123"/>
        </most_likely_server_color>
        <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="70.0" study_point_spacing="0.1" approximate_range="50.0"/>
       </BaseTx>
@@ -1009,7 +1126,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="Talbot4"/>
+        <Neighbor sector="Granger2"/>
+        <Neighbor sector="Microwav"/>
+        <Neighbor sector="JohnsonH"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1018,7 +1141,7 @@
      <Tx frequency="900.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
       <BaseTx tx_id="Granger2" UserSectorID="" guid="52fe9d18-2b18-4490-8011-86ba16742fe7" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
-        <Color r="231" g="74" b="234"/>
+        <Color r="206" g="126" b="168"/>
        </most_likely_server_color>
        <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="70.0" study_point_spacing="0.1" approximate_range="50.0"/>
       </BaseTx>
@@ -1057,7 +1180,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="Granger1"/>
+        <Neighbor sector="Tangent1"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1068,7 +1195,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="Gravel Pit" guid="8dc492d6-2832-4835-b132-19edba561855" latitude="44.69105928060607" longitude="-123.0375366085248" elevation="143.3556823730469" info_type="1" elevation_type="2">
+    <BaseStation name="Gravel_Pit" guid="8dc492d6-2832-4835-b132-19edba561855" latitude="44.69105928060607" longitude="-123.0375366085248" elevation="143.3556823730469" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1080,7 +1207,7 @@
      <Tx frequency="900.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
       <BaseTx tx_id="Gravel1" UserSectorID="" guid="c6ee418c-7764-473d-be13-511878e42bb5" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
-        <Color r="116" g="2" b="177"/>
+        <Color r="224" g="240" b="221"/>
        </most_likely_server_color>
        <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="70.0" study_point_spacing="0.1" approximate_range="50.0"/>
       </BaseTx>
@@ -1091,7 +1218,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="20.0" beam_tilt="0.0" beam_tilt_az="20.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="40.0" beam_tilt="-1.0" beam_tilt_az="40.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -1120,7 +1247,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="RadioT1"/>
+        <Neighbor sector="BarnetKn"/>
+        <Neighbor sector="Talbot2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1181,7 +1312,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="RogersM2"/>
+        <Neighbor sector="GravelP2"/>
+        <Neighbor sector="Rodgers1"/>
+        <Neighbor sector="BarnetKn"/>
+        <Neighbor sector="*RadioT1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1229,7 +1366,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="GravelP1"/>
+        <Neighbor sector="RadioT1"/>
+        <Neighbor sector="GravelP3"/>
+        <Neighbor sector="*RogersM2"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1276,7 +1419,16 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="8">
+        <Neighbor sector="RogersM2"/>
+        <Neighbor sector="GravelP2"/>
+        <Neighbor sector="Hatch2"/>
+        <Neighbor sector="*GravelP1"/>
+        <Neighbor sector="*RoundMT1"/>
+        <Neighbor sector="*Rodgers1"/>
+        <Neighbor sector="RogersM1"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1337,7 +1489,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="SweetHom"/>
+        <Neighbor sector="CedarB1"/>
+        <Neighbor sector="*BaldPete"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1399,7 +1555,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="Rodgers1"/>
+        <Neighbor sector="Hatch2"/>
+        <Neighbor sector="Stayton1"/>
+        <Neighbor sector="*GravelP1"/>
+        <Neighbor sector="*RogersM2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1446,7 +1608,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="Hatch1"/>
+        <Neighbor sector="*Rodgers1"/>
+        <Neighbor sector="FernRidg"/>
+        <Neighbor sector="GravelP3"/>
+        <Neighbor sector="Stayton2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1507,7 +1675,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="Neal"/>
+        <Neighbor sector="FernRidg"/>
+        <Neighbor sector="*Hatch2"/>
+        <Neighbor sector="*GravelP3"/>
+        <Neighbor sector="Rodgers1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1568,7 +1742,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="Microwav"/>
+        <Neighbor sector="Granger1"/>
+        <Neighbor sector="*Talbot4"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1630,7 +1809,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="RoundMT3"/>
+        <Neighbor sector="RoundMT2"/>
+        <Neighbor sector="BaldPete"/>
+        <Neighbor sector="CedarB1"/>
+        <Neighbor sector="RogersM1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1693,7 +1878,16 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="8">
+        <Neighbor sector="RogersM1"/>
+        <Neighbor sector="RadioT2"/>
+        <Neighbor sector="Leban21"/>
+        <Neighbor sector="*RoundMT3"/>
+        <Neighbor sector="*RadioT1"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="*KeelMTN"/>
+        <Neighbor sector="Leban31"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1741,7 +1935,16 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="8">
+        <Neighbor sector="Leban31"/>
+        <Neighbor sector="*KeelMTN"/>
+        <Neighbor sector="*RoundMT3"/>
+        <Neighbor sector="*Leban11"/>
+        <Neighbor sector="Leban21"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="*CedarB2"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1805,7 +2008,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="Leban11"/>
+        <Neighbor sector="Leban31"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="Leban12"/>
+        <Neighbor sector="*KeelMTN"/>
+        <Neighbor sector="*RogersM1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1866,7 +2076,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="*RogersM1"/>
+        <Neighbor sector="Leban12"/>
+        <Neighbor sector="*KeelMTN"/>
+        <Neighbor sector="Leban21"/>
+        <Neighbor sector="Leban11"/>
+        <Neighbor sector="*RoundMT3"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1928,7 +2146,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="JohnsonH"/>
+        <Neighbor sector="Talbot1"/>
+        <Neighbor sector="BarnetKn"/>
+        <Neighbor sector="Granger1"/>
+        <Neighbor sector="Talbot4"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -1989,7 +2213,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="IndianLa"/>
+        <Neighbor sector="FernRidg"/>
+        <Neighbor sector="*GravelP3"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2012,7 +2240,7 @@
      <Tx frequency="900.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
       <BaseTx tx_id="RadioT1" UserSectorID="" guid="9fc801f8-7e18-4a8f-b0e5-f3c24bad85b5" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
-        <Color r="20" g="189" b="68"/>
+        <Color r="174" g="60" b="65"/>
        </most_likely_server_color>
        <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="70.0" study_point_spacing="0.1" approximate_range="50.0"/>
       </BaseTx>
@@ -2051,7 +2279,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="RadioT2"/>
+        <Neighbor sector="BarnetKn"/>
+        <Neighbor sector="Gravel1"/>
+        <Neighbor sector="GravelP2"/>
+        <Neighbor sector="RogersM1"/>
+        <Neighbor sector="RogersM2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2060,7 +2295,7 @@
      <Tx frequency="900.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
       <BaseTx tx_id="RadioT2" UserSectorID="" guid="40eefc59-c424-4daa-a8fe-e46417cdd1b4" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
-        <Color r="92" g="15" b="201"/>
+        <Color r="69" g="99" b="146"/>
        </most_likely_server_color>
        <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="70.0" study_point_spacing="0.1" approximate_range="50.0"/>
       </BaseTx>
@@ -2100,7 +2335,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="RadioT1"/>
+        <Neighbor sector="*RogersM1"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="Tangent2"/>
+        <Neighbor sector="*GravelP2"/>
+        <Neighbor sector="Tangent1"/>
+        <Neighbor sector="Leban11"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2163,7 +2406,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="Hatch1"/>
+        <Neighbor sector="GravelP1"/>
+        <Neighbor sector="*RogersM2"/>
+        <Neighbor sector="BarnetKn"/>
+        <Neighbor sector="IndianLa"/>
+        <Neighbor sector="FernRidg"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2226,7 +2476,15 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="7">
+        <Neighbor sector="RadioT1"/>
+        <Neighbor sector="RoundMT3"/>
+        <Neighbor sector="RogersM2"/>
+        <Neighbor sector="RoundMT1"/>
+        <Neighbor sector="Leban11"/>
+        <Neighbor sector="GravelP3"/>
+        <Neighbor sector="KeelMTN"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2273,7 +2531,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="GravelP3"/>
+        <Neighbor sector="RogersM1"/>
+        <Neighbor sector="GravelP1"/>
+        <Neighbor sector="RadioT1"/>
+        <Neighbor sector="*Neal"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2334,7 +2599,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="RoundMT3"/>
+        <Neighbor sector="RoundMT2"/>
+        <Neighbor sector="RogersM1"/>
+        <Neighbor sector="*RadioT1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2379,7 +2649,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="RoundMT1"/>
+        <Neighbor sector="KeelMTN"/>
+        <Neighbor sector="RoundMT3"/>
+        <Neighbor sector="*RogersM1"/>
+        <Neighbor sector="*Rodgers1"/>
+        <Neighbor sector="*RadioT1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2427,7 +2704,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="KeelMTN"/>
+        <Neighbor sector="RoundMT2"/>
+        <Neighbor sector="RoundMT1"/>
+        <Neighbor sector="RogersM1"/>
+        <Neighbor sector="CedarB1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2488,7 +2771,10 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="2">
+        <Neighbor sector="*CedarB2"/>
+        <Neighbor sector="Brownsvi"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2522,7 +2808,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H120.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="8.0" radome_loss="0.0" max_transmit_power_per_channel="2.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="210.0" beam_tilt="-2.0" beam_tilt_az="210.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H120.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="8.0" radome_loss="0.0" max_transmit_power_per_channel="1.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="210.0" beam_tilt="-2.0" beam_tilt_az="210.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2549,7 +2835,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="FernRidg"/>
+        <Neighbor sector="*Rodgers1"/>
+        <Neighbor sector="*IndianLa"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2583,7 +2873,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="0.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="0.0" beam_tilt="0.0" beam_tilt_az="0.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="11.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="0.0" beam_tilt="-1.0" beam_tilt_az="0.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2612,7 +2902,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="Hatch1"/>
+        <Neighbor sector="*Rodgers1"/>
+        <Neighbor sector="*Hatch2"/>
+        <Neighbor sector="*FernRidg"/>
+        <Neighbor sector="*IndianLa"/>
+        <Neighbor sector="Stayton2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2632,7 +2929,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="0.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="120.0" beam_tilt="0.0" beam_tilt_az="120.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="-1.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="120.0" beam_tilt="-1.0" beam_tilt_az="120.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2659,7 +2956,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="Stayton1"/>
+        <Neighbor sector="*FernRidg"/>
+        <Neighbor sector="Hatch2"/>
+        <Neighbor sector="*Rodgers1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2679,7 +2981,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="0.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="240.0" beam_tilt="0.0" beam_tilt_az="240.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="0.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="240.0" beam_tilt="-1.0" beam_tilt_az="240.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2707,7 +3009,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="*Stayton1"/>
+        <Neighbor sector="*Hatch2"/>
+        <Neighbor sector="*Hatch1"/>
+        <Neighbor sector="*FernRidg"/>
+        <Neighbor sector="*Stayton2"/>
+        <Neighbor sector="*IndianLa"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2771,7 +3080,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="CedarB1"/>
+        <Neighbor sector="Greenhor"/>
+        <Neighbor sector="*KeelMTN"/>
+        <Neighbor sector="BaldPete"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2805,7 +3119,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="0.0" beam_tilt="0.0" beam_tilt_az="0.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="0.0" beam_tilt="-1.0" beam_tilt_az="0.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2832,7 +3146,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="Talbot2"/>
+        <Neighbor sector="Microwav"/>
+        <Neighbor sector="Talbot4"/>
+        <Neighbor sector="*Granger1"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="*Gravel1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2852,7 +3173,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="90.0" beam_tilt="0.0" beam_tilt_az="90.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="90.0" beam_tilt="-1.0" beam_tilt_az="90.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2879,7 +3200,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="BarnetKn"/>
+        <Neighbor sector="Talbot1"/>
+        <Neighbor sector="Talbot3"/>
+        <Neighbor sector="Gravel1"/>
+        <Neighbor sector="*RadioT1"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2899,7 +3226,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="7.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="180.0" beam_tilt="-1.0" beam_tilt_az="180.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="5.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="180.0" beam_tilt="-1.0" beam_tilt_az="180.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2926,7 +3253,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="BarnetKn"/>
+        <Neighbor sector="Talbot2"/>
+        <Neighbor sector="Talbot4"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -2946,7 +3277,7 @@
       </TransmitterAntenna>
       <ReceiverAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="270.0" beam_tilt="0.0" beam_tilt_az="270.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="30.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="13.0" min_transmit_power_per_channel="0.0" tx_rx_type="transmitter 1" power_spectral_density_file_code="0" cross_polarization_rejection="25.0" antenna_type="" use_antenna_type="false" az_orient="270.0" beam_tilt="-1.0" beam_tilt_az="270.0" rotate_antenna="false"/>
        </TxAntenna>
       </ReceiverAntenna>
       <Channel lock_status="unlocked" dvcc="1" bcc="1" ncc="1" dcch="1" lci="1" use_freq_hop="false" freq_hop_gain="3.0" gsm_diversity_gain_type="1" gsm_fixed_diversity_gain="3.0" gsm_db_per_freq_gain="3.0" gsm_fh_sequence_no="0" gsm_maio_offset="0" gsm_AMR_on="0" gsm_DTX_on="0" gsm_dtx_intrf_gain="3.0" number_of_assignable_downlink_channels="0" number_of_assignable_uplink_channels="0" sat="5970" dcc="1" band="L">
@@ -2973,7 +3304,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="Granger1"/>
+        <Neighbor sector="Talbot3"/>
+        <Neighbor sector="Talbot1"/>
+        <Neighbor sector="Microwav"/>
+        <Neighbor sector="*BarnetKn"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3035,7 +3372,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="Granger2"/>
+        <Neighbor sector="Tangent3"/>
+        <Neighbor sector="RadioT2"/>
+        <Neighbor sector="Tangent2"/>
+        <Neighbor sector="*BarnetKn"/>
+        <Neighbor sector="Albany32"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3082,7 +3426,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="RadioT2"/>
+        <Neighbor sector="Tangent1"/>
+        <Neighbor sector="WardB1"/>
+        <Neighbor sector="Tangent3"/>
+        <Neighbor sector="WardB3"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3129,7 +3479,13 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="5">
+        <Neighbor sector="Tuisa"/>
+        <Neighbor sector="Tangent1"/>
+        <Neighbor sector="Tangent2"/>
+        <Neighbor sector="*CedarB2"/>
+        <Neighbor sector="*WardB3"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3190,7 +3546,11 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="3">
+        <Neighbor sector="WardB3"/>
+        <Neighbor sector="CedarB2"/>
+        <Neighbor sector="Tangent3"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3251,7 +3611,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="WardB3"/>
+        <Neighbor sector="Tangent2"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="*CedarB2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3298,7 +3663,12 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="4">
+        <Neighbor sector="WardB3"/>
+        <Neighbor sector="*CedarB2"/>
+        <Neighbor sector="*RadioT2"/>
+        <Neighbor sector="*Tangent2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
@@ -3345,7 +3715,14 @@
       </Receiver>
       <OptimizationData cost="0.0"/>
       <Predicted_Neighbor_List>
-       <NeighborList number_entries="0"/>
+       <NeighborList number_entries="6">
+        <Neighbor sector="CedarB2"/>
+        <Neighbor sector="Brownsvi"/>
+        <Neighbor sector="Tuisa"/>
+        <Neighbor sector="WardB2"/>
+        <Neighbor sector="WardB1"/>
+        <Neighbor sector="Tangent2"/>
+       </NeighborList>
       </Predicted_Neighbor_List>
       <Actual_Neighbor_List>
        <NeighborList number_entries="0"/>
