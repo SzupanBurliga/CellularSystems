@@ -1,7 +1,7 @@
 EDX cell sector AFP compatibility matrix
-   58   13.00    0.10    1.76    1.00
+   58   13.00    0.50    1.76    1.00
 Albany11     3.96   441.07    12.94    3    3    0    2
-   49   72  106
+   10   15   24
      Albany11   0.0
      Albany12  10.4
      Albany13  13.1
@@ -61,7 +61,7 @@ Albany11     3.96   441.07    12.94    3    3    0    2
      WardB2     0.3
      WardB3     0.0
 Albany12     3.88   510.00    14.96    4    4    0    0
-   10   32   58   69
+   21   32   82   92
      Albany11  18.0
      Albany12   0.0
      Albany13  10.8
@@ -120,8 +120,8 @@ Albany12     3.88   510.00    14.96    4    4    0    0
      WardB1     8.8
      WardB2     9.3
      WardB3     0.0
-Albany13     2.26   270.61     7.94    2    2    0    2
-   69  101
+Albany13     2.26   270.61     7.94    2    2    0    0
+   77  116
      Albany11  15.9
      Albany12  18.6
      Albany13   0.0
@@ -181,7 +181,7 @@ Albany13     2.26   270.61     7.94    2    2    0    2
      WardB2     0.0
      WardB3     0.0
 Albany21     7.37    41.32     1.21    1    1    0    2
-    8
+   25
      Albany11  42.6
      Albany12   0.0
      Albany13   0.0
@@ -240,8 +240,8 @@ Albany21     7.37    41.32     1.21    1    1    0    2
      WardB1    11.3
      WardB2     6.0
      WardB3     0.0
-Albany22     8.09   117.41     3.44    2    2    0    2
-   15   56
+Albany22     8.09   117.41     3.44    1    2    0    0
+   49   63
      Albany11   2.5
      Albany12  21.3
      Albany13   0.0
@@ -300,8 +300,8 @@ Albany22     8.09   117.41     3.44    2    2    0    2
      WardB1     8.5
      WardB2    13.1
      WardB3     0.0
-Albany23     4.23   330.92     9.71    3    3    0    1
-   45   93  111
+Albany23     4.23   330.92     9.71    3    3    0    2
+   73   80  120
      Albany11  66.0
      Albany12   8.5
      Albany13   3.3
@@ -360,8 +360,8 @@ Albany23     4.23   330.92     9.71    3    3    0    1
      WardB1     5.4
      WardB2     0.2
      WardB3     0.0
-Albany31     4.42   233.49     6.85    2    2    0    0
-  117  121
+Albany31     4.42   233.49     6.85    2    2    0    2
+   48   87
      Albany11   4.5
      Albany12  76.5
      Albany13   0.0
@@ -420,8 +420,8 @@ Albany31     4.42   233.49     6.85    2    2    0    0
      WardB1    13.3
      WardB2     8.6
      WardB3     0.0
-Albany32     4.83   292.60     8.58    3    3    0    1
-   15   48   77
+Albany32     4.83   292.60     8.58    2    3    0    1
+   10   25   56
      Albany11   0.0
      Albany12  40.6
      Albany13  13.5
@@ -480,8 +480,8 @@ Albany32     4.83   292.60     8.58    3    3    0    1
      WardB1    40.8
      WardB2     4.1
      WardB3     0.0
-Albany41     4.75   254.25     7.46    2    2    0    2
-   25   39
+Albany41     4.75   254.25     7.46    2    2    0    1
+   72  111
      Albany11  42.9
      Albany12   0.0
      Albany13   8.0
@@ -540,8 +540,8 @@ Albany41     4.75   254.25     7.46    2    2    0    2
      WardB1    15.8
      WardB2     1.9
      WardB3     0.0
-Albany42     3.26   192.38     5.64    2    2    0    0
-   21  106
+Albany42     3.26   192.38     5.64    2    2    0    1
+   34   49
      Albany11   1.2
      Albany12   1.8
      Albany13  51.8
@@ -600,8 +600,8 @@ Albany42     3.26   192.38     5.64    2    2    0    0
      WardB1    24.2
      WardB2     3.4
      WardB3     1.2
-Albany51     3.96   160.67     4.71    2    2    0    2
-   53   82
+Albany51     3.96   160.67     4.71    2    2    0    1
+   20   97
      Albany11   2.8
      Albany12  15.4
      Albany13  54.3
@@ -660,8 +660,8 @@ Albany51     3.96   160.67     4.71    2    2    0    2
      WardB1     9.6
      WardB2     3.0
      WardB3     0.0
-Albany61    49.29    81.10     2.38    1    1    0    1
-   44
+Albany61    49.29    81.10     2.38    1    1    0    0
+   20
      Albany11   0.3
      Albany12   0.0
      Albany13   0.0
@@ -720,8 +720,8 @@ Albany61    49.29    81.10     2.38    1    1    0    1
      WardB1     1.4
      WardB2     0.8
      WardB3     0.0
-Albany62   136.71   798.38    23.42    5    5    0    2
-   20   29   92  104  116
+Albany62   136.71   798.38    23.42    5    5    0    0
+   24   29   45  104  106
      Albany11   2.2
      Albany12  11.3
      Albany13   7.0
@@ -780,8 +780,8 @@ Albany62   136.71   798.38    23.42    5    5    0    2
      WardB1    24.2
      WardB2    23.4
      WardB3     0.7
-BaldPete    17.97    29.15     0.86    1    1    0    0
-   77
+BaldPete    17.97    29.15     0.86    1    1    0    2
+  106
      Albany11   0.0
      Albany12   1.3
      Albany13   0.0
@@ -841,7 +841,7 @@ BaldPete    17.97    29.15     0.86    1    1    0    0
      WardB2     4.9
      WardB3     1.0
 BarnetKn    53.20   201.38     5.91    2    2    0    2
-   34   77
+   39   82
      Albany11   1.4
      Albany12   0.5
      Albany13   0.1
@@ -900,8 +900,8 @@ BarnetKn    53.20   201.38     5.91    2    2    0    2
      WardB1     1.5
      WardB2     5.7
      WardB3     0.1
-Brownsvi    18.24    83.76     2.46    1    1    0    2
-   15
+Brownsvi    18.24    83.76     2.46    1    1    0    0
+   10
      Albany11   0.0
      Albany12   0.1
      Albany13   0.0
@@ -961,7 +961,7 @@ Brownsvi    18.24    83.76     2.46    1    1    0    2
      WardB2     0.1
      WardB3    47.1
 CedarB1     86.48   267.51     7.85    2    2    0    0
-   92  111
+   73  116
      Albany11   0.0
      Albany12   1.1
      Albany13   0.0
@@ -1021,7 +1021,7 @@ CedarB1     86.48   267.51     7.85    2    2    0    0
      WardB2    12.3
      WardB3     2.7
 CedarB2     25.68    13.09     0.38    1    1    0    2
-  106
+   58
      Albany11   0.0
      Albany12   0.1
      Albany13   0.2
@@ -1080,8 +1080,8 @@ CedarB2     25.68    13.09     0.38    1    1    0    2
      WardB1     2.6
      WardB2     7.6
      WardB3    14.5
-FernRidg    70.32   141.61     4.15    2    2    0    1
-   82   97
+FernRidg    70.32   141.61     4.15    2    2    0    2
+   32   34
      Albany11   0.0
      Albany12   0.2
      Albany13   0.0
@@ -1140,8 +1140,8 @@ FernRidg    70.32   141.61     4.15    2    2    0    1
      WardB1     0.0
      WardB2     1.2
      WardB3     0.0
-GravelP1    46.52   113.83     3.34    2    2    0    1
-   15   53
+GravelP1    46.52   113.83     3.34    1    2    0    2
+   49   80
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -1200,8 +1200,8 @@ GravelP1    46.52   113.83     3.34    2    2    0    1
      WardB1     0.2
      WardB2     4.4
      WardB3     0.0
-GravelP2    50.21   186.31     5.47    2    2    0    2
-   45   87
+GravelP2    50.21   186.31     5.47    2    2    0    1
+   34   72
      Albany11   0.1
      Albany12   0.8
      Albany13   0.1
@@ -1261,7 +1261,7 @@ GravelP2    50.21   186.31     5.47    2    2    0    2
      WardB2    14.8
      WardB3     0.2
 GravelP3    46.31    60.95     1.79    1    1    0    0
-  121
+   39
      Albany11   0.0
      Albany12   0.1
      Albany13   0.0
@@ -1320,8 +1320,8 @@ GravelP3    46.31    60.95     1.79    1    1    0    0
      WardB1     0.0
      WardB2     3.4
      WardB3     0.0
-Greenhor    50.97   112.81     3.31    2    2    0    1
-   80   97
+Greenhor    50.97   112.81     3.31    1    2    0    0
+   58   63
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -1380,8 +1380,8 @@ Greenhor    50.97   112.81     3.31    2    2    0    1
      WardB1     0.0
      WardB2     0.3
      WardB3     0.1
-Hatch1      43.13   328.88     9.65    3    3    0    0
-   44   92  101
+Hatch1      43.13   328.88     9.65    3    3    0    1
+   21   25   56
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -1440,8 +1440,8 @@ Hatch1      43.13   328.88     9.65    3    3    0    0
      WardB1     0.0
      WardB2     1.3
      WardB3     0.0
-Hatch2      53.65   105.85     3.11    2    2    0    1
-   87  106
+Hatch2      53.65   105.85     3.11    1    2    0    2
+   44   92
      Albany11   0.0
      Albany12   0.1
      Albany13   0.0
@@ -1501,7 +1501,7 @@ Hatch2      53.65   105.85     3.11    2    2    0    1
      WardB2     1.0
      WardB3     0.0
 IndianLa    22.97    25.88     0.76    1    1    0    2
-    8
+   48
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -1560,8 +1560,8 @@ IndianLa    22.97    25.88     0.76    1    1    0    2
      WardB1     0.0
      WardB2     1.2
      WardB3     0.0
-JohnsonH    15.42    15.95     0.47    1    1    0    1
-  121
+JohnsonH    15.42    15.95     0.47    1    1    0    0
+   97
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -1621,7 +1621,7 @@ JohnsonH    15.42    15.95     0.47    1    1    0    1
      WardB2     0.0
      WardB3     0.0
 KeelMTN     78.27    66.99     1.97    1    1    0    0
-  117
+    8
      Albany11   0.0
      Albany12   0.4
      Albany13   0.1
@@ -1680,8 +1680,8 @@ KeelMTN     78.27    66.99     1.97    1    1    0    0
      WardB1     0.7
      WardB2     9.7
      WardB3     0.5
-Leban11     33.81   273.75     8.03    2    2    0    2
-   58  111
+Leban11     33.81   273.75     8.03    2    2    0    1
+   34  117
      Albany11   0.2
      Albany12   1.6
      Albany13   0.0
@@ -1741,7 +1741,7 @@ Leban11     33.81   273.75     8.03    2    2    0    2
      WardB2    20.7
      WardB3     0.0
 Leban12     23.26   566.15    16.61    4    4    0    1
-    8   15   25   29
+    5   10   25   56
      Albany11   0.0
      Albany12   0.9
      Albany13   0.0
@@ -1800,8 +1800,8 @@ Leban12     23.26   566.15    16.61    4    4    0    1
      WardB1     0.3
      WardB2    18.0
      WardB3     1.0
-Leban21     10.38   616.53    18.08    4    4    0    2
-   49   63   82   87
+Leban21     10.38   616.53    18.08    4    4    0    1
+   15   49   80  116
      Albany11   0.0
      Albany12   3.9
      Albany13   0.0
@@ -1860,8 +1860,8 @@ Leban21     10.38   616.53    18.08    4    4    0    2
      WardB1     0.0
      WardB2     3.7
      WardB3     0.1
-Leban31     24.84    80.18     2.35    1    1    0    0
-   97
+Leban31     24.84    80.18     2.35    1    1    0    1
+   72
      Albany11   0.0
      Albany12   2.3
      Albany13   0.0
@@ -1920,8 +1920,8 @@ Leban31     24.84    80.18     2.35    1    1    0    0
      WardB1     0.2
      WardB2    22.4
      WardB3     0.6
-Microwav    77.57   184.50     5.41    2    2    0    1
-   39   80
+Microwav    77.57   184.50     5.41    2    2    0    0
+   10   68
      Albany11   0.8
      Albany12   0.2
      Albany13   0.1
@@ -1980,8 +1980,8 @@ Microwav    77.57   184.50     5.41    2    2    0    1
      WardB1     2.1
      WardB2     1.4
      WardB3     0.2
-Neal        81.74    71.59     2.10    1    1    0    2
-   93
+Neal        81.74    71.59     2.10    1    1    0    0
+    5
      Albany11   0.2
      Albany12   0.0
      Albany13   0.0
@@ -2040,8 +2040,8 @@ Neal        81.74    71.59     2.10    1    1    0    2
      WardB1     0.4
      WardB2     0.5
      WardB3     0.0
-RadioTow    43.12    79.47     2.33    1    1    0    0
-    5
+RadioTow    43.12    79.47     2.33    1    1    0    2
+   97
      Albany11   0.7
      Albany12   2.2
      Albany13   0.0
@@ -2100,8 +2100,8 @@ RadioTow    43.12    79.47     2.33    1    1    0    0
      WardB1     2.3
      WardB2    29.6
      WardB3     0.0
-Rodgers1   100.33   346.06    10.15    3    3    0    0
-   73   96  117
+Rodgers1   100.33   346.06    10.15    3    3    0    1
+   87   93  104
      Albany11   0.2
      Albany12   0.3
      Albany13   0.0
@@ -2160,8 +2160,8 @@ Rodgers1   100.33   346.06    10.15    3    3    0    0
      WardB1     0.4
      WardB2     1.6
      WardB3     0.0
-RogersM1   133.17   298.81     8.77    3    3    0    1
-   25   72   80
+RogersM1   133.17   298.81     8.77    2    3    0    2
+   21   56   73
      Albany11   0.0
      Albany12   0.6
      Albany13   0.0
@@ -2220,8 +2220,8 @@ RogersM1   133.17   298.81     8.77    3    3    0    1
      WardB1     0.2
      WardB2    19.7
      WardB3     0.3
-RogersM2    43.48    57.89     1.70    1    1    0    2
-   21
+RogersM2    43.48    57.89     1.70    1    1    0    1
+   45
      Albany11   0.9
      Albany12   0.3
      Albany13   0.2
@@ -2280,8 +2280,8 @@ RogersM2    43.48    57.89     1.70    1    1    0    2
      WardB1     0.8
      WardB2    10.7
      WardB3     0.0
-RoundMT1    78.24    15.44     0.45    1    1    0    0
-   48
+RoundMT1    78.24    15.44     0.45    1    1    0    2
+   29
      Albany11   0.0
      Albany12   0.9
      Albany13   0.0
@@ -2340,7 +2340,7 @@ RoundMT1    78.24    15.44     0.45    1    1    0    0
      WardB1     0.1
      WardB2     9.3
      WardB3     0.0
-RoundMT2    24.60    15.44     0.45    0    0    0    2
+RoundMT2    24.60    15.44     0.45    0    0    0    0
 
      Albany11   0.0
      Albany12   0.2
@@ -2400,8 +2400,8 @@ RoundMT2    24.60    15.44     0.45    0    0    0    2
      WardB1     0.0
      WardB2     1.9
      WardB3     0.2
-RoundMT3   110.01   201.14     5.90    2    2    0    1
-   10   63
+RoundMT3   110.01   201.14     5.90    2    2    0    2
+   69   93
      Albany11   0.1
      Albany12   0.7
      Albany13   0.0
@@ -2461,7 +2461,7 @@ RoundMT3   110.01   201.14     5.90    2    2    0    1
      WardB2     6.3
      WardB3     0.3
 SnakeHil    11.79    17.39     0.51    1    1    0    0
-   58
+   69
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -2520,8 +2520,8 @@ SnakeHil    11.79    17.39     0.51    1    1    0    0
      WardB1     0.0
      WardB2     0.2
      WardB3     0.7
-StatePar    50.05   204.55     6.00    2    2    0    0
-   20   25
+StatePar    50.05   204.55     6.00    2    2    0    1
+   24   73
      Albany11   0.1
      Albany12   0.1
      Albany13   0.1
@@ -2580,8 +2580,8 @@ StatePar    50.05   204.55     6.00    2    2    0    0
      WardB1     0.1
      WardB2     1.6
      WardB3     0.0
-Stayton1     3.31   140.42     4.12    2    2    0    0
-   29  111
+Stayton1     3.31   140.42     4.12    2    2    0    2
+   69  106
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -2640,8 +2640,8 @@ Stayton1     3.31   140.42     4.12    2    2    0    0
      WardB1     0.0
      WardB2     0.6
      WardB3     0.0
-Stayton2     4.53   110.76     3.25    2    2    0    0
-   93  116
+Stayton2     4.53   110.76     3.25    1    2    0    2
+   20   96
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -2700,8 +2700,8 @@ Stayton2     4.53   110.76     3.25    2    2    0    0
      WardB1     0.0
      WardB2     0.0
      WardB3     0.0
-Stayton3     2.33   124.26     3.64    2    2    0    1
-   58  104
+Stayton3     2.33   124.26     3.64    2    2    0    2
+   77   80
      Albany11   0.0
      Albany12   0.0
      Albany13   0.0
@@ -2760,8 +2760,8 @@ Stayton3     2.33   124.26     3.64    2    2    0    1
      WardB1     0.0
      WardB2     0.4
      WardB3     0.0
-SweetHom    60.04   620.56    18.20    4    4    0    1
-   20   34   44  101
+SweetHom    60.04   620.56    18.20    4    4    0    0
+   21   44   49   56
      Albany11   0.0
      Albany12   0.2
      Albany13   0.0
@@ -2820,8 +2820,8 @@ SweetHom    60.04   620.56    18.20    4    4    0    1
      WardB1     0.0
      WardB2     7.8
      WardB3     1.6
-Talbot1     31.96    77.93     2.29    1    1    0    2
-   32
+Talbot1     31.96    77.93     2.29    1    1    0    0
+   63
      Albany11   2.3
      Albany12   0.0
      Albany13   0.0
@@ -2881,7 +2881,7 @@ Talbot1     31.96    77.93     2.29    1    1    0    2
      WardB2     2.0
      WardB3     0.0
 Talbot2     41.33   203.59     5.97    2    2    0    1
-   63  116
+   48   69
      Albany11   0.1
      Albany12   1.1
      Albany13   0.0
@@ -2940,8 +2940,8 @@ Talbot2     41.33   203.59     5.97    2    2    0    1
      WardB1     0.4
      WardB2     4.7
      WardB3     0.0
-Talbot3     38.97   250.67     7.35    2    2    0    2
-   73   93
+Talbot3     38.97   250.67     7.35    2    2    0    0
+    8   53
      Albany11   6.7
      Albany12   0.8
      Albany13   0.2
@@ -3000,8 +3000,8 @@ Talbot3     38.97   250.67     7.35    2    2    0    2
      WardB1     4.4
      WardB2     2.2
      WardB3     0.8
-Talbot4     26.14    11.66     0.34    1    1    0    0
-  104
+Talbot4     26.14    11.66     0.34    1    1    0    1
+   24
      Albany11   0.1
      Albany12   0.0
      Albany13   0.0
@@ -3060,8 +3060,8 @@ Talbot4     26.14    11.66     0.34    1    1    0    0
      WardB1     0.9
      WardB2     0.2
      WardB3     0.0
-Tangent1    51.23   203.93     5.98    2    2    0    1
-   24   32
+Tangent1    51.23   203.93     5.98    2    2    0    2
+    5   72
      Albany11   1.4
      Albany12   0.7
      Albany13   8.9
@@ -3120,8 +3120,8 @@ Tangent1    51.23   203.93     5.98    2    2    0    1
      WardB1    73.3
      WardB2     1.4
      WardB3     0.0
-Tangent2    48.03    47.66     1.40    1    1    0    0
-   45
+Tangent2    48.03    47.66     1.40    1    1    0    1
+   44
      Albany11   0.0
      Albany12   1.9
      Albany13   0.1
@@ -3180,8 +3180,8 @@ Tangent2    48.03    47.66     1.40    1    1    0    0
      WardB1    63.5
      WardB2    26.0
      WardB3     8.1
-Tangent3    31.84    44.28     1.30    1    1    0    0
-    8
+Tangent3    31.84    44.28     1.30    1    1    0    1
+   77
      Albany11   0.0
      Albany12   0.0
      Albany13   0.3
@@ -3241,7 +3241,7 @@ Tangent3    31.84    44.28     1.30    1    1    0    0
      WardB2     0.0
      WardB3     9.6
 Tuisa       74.74    56.66     1.66    1    1    0    2
-   97
+   68
      Albany11   0.1
      Albany12   0.2
      Albany13   0.0
@@ -3301,7 +3301,7 @@ Tuisa       74.74    56.66     1.66    1    1    0    2
      WardB2     3.2
      WardB3    49.9
 WardB1      90.21    84.27     2.47    1    1    0    1
-   68
+    8
      Albany11   0.2
      Albany12   0.4
      Albany13   0.8
@@ -3360,8 +3360,8 @@ WardB1      90.21    84.27     2.47    1    1    0    1
      WardB1     0.0
      WardB2    23.6
      WardB3    51.5
-WardB2     111.82   146.11     4.29    2    2    0    1
-   73  120
+WardB2     111.82   146.11     4.29    2    2    0    0
+   53  111
      Albany11   0.0
      Albany12   1.0
      Albany13   0.0
@@ -3421,7 +3421,7 @@ WardB2     111.82   146.11     4.29    2    2    0    1
      WardB2     0.0
      WardB3    24.2
 WardB3      63.98    42.14     1.24    1    1    0    1
-   93
+   45
      Albany11   0.0
      Albany12   0.1
      Albany13   0.0

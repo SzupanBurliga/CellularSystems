@@ -1,116 +1,116 @@
-Albany11       3   0
-    15    87    21
-Albany12       4   0
-    24    48    93    44
-Albany13       2   0
-    32    68
-Albany21       1   0
-    58
-Albany22       2   2
-    10    87
-Albany23       3   2
-    20   111    24
-Albany31       2   1
-    32    63
-Albany32       3   1
-   111    82    29
-Albany41       2   0
-   116    96
-Albany42       2   1
-    10    56
-Albany51       2   0
-    49    72
-Albany61       1   0
-    72
-Albany62       5   1
-     5    53   117    77   104
-BaldPete       1   0
-   106
-BarnetKn       2   0
-    49    21
-Brownsvi       1   0
-    77
-CedarB1        2   0
-    25   120
-CedarB2        1   2
-    68
-FernRidg       2   1
-     8    48
-GravelP1       2   0
-     8    92
-GravelP2       2   0
+Albany11       3   2
+   106    58    25
+Albany12       4   2
+    48    73    69    32
+Albany13       2   1
+    97   117
+Albany21       1   2
+    93
+Albany22       1   1
+    10
+Albany23       3   0
+   116    72    87
+Albany31       2   0
     97    45
-GravelP3       1   2
-    68
-Greenhor       2   1
-    53    58
-Hatch1         3   0
-   117   101    15
-Hatch2         2   1
-    21   121
-IndianLa       1   2
-    53
-JohnsonH       1   0
-    48
-KeelMTN        1   0
+Albany32       2   0
+    20    15
+Albany41       2   0
+    80    32
+Albany42       2   1
+    56    58
+Albany51       2   0
+    82   121
+Albany61       1   1
+    10
+Albany62       5   0
+    44    21   104    39    77
+BaldPete       1   2
+    45
+BarnetKn       2   0
+    53   106
+Brownsvi       1   0
     80
-Leban11        2   1
-    49    34
-Leban12        4   2
-     8    73   106    97
-Leban21        4   0
-   121   101    72    20
-Leban31        1   2
-   111
-Microwav       2   0
-    10    20
-Neal           1   0
+CedarB1        2   2
+    15   120
+CedarB2        1   1
+    45
+FernRidg       2   0
+    82    93
+GravelP1       1   1
+    21
+GravelP2       2   2
+    92     5
+GravelP3       1   0
+    97
+Greenhor       1   0
+    20
+Hatch1         3   0
+   101   106    87
+Hatch2         1   2
      5
-RadioTow       1   1
-    73
-Rodgers1       3   2
-    63    20    82
-RogersM1       3   0
-    56    69    32
-RogersM2       1   2
-    24
-RoundMT1       1   1
-    92
-RoundMT2       0   2
+IndianLa       1   1
+   104
+JohnsonH       1   0
+     8
+KeelMTN        1   0
+    63
+Leban11        2   2
+    56    72
+Leban12        4   1
+    58    93    49    25
+Leban21        4   0
+    48    69    97   117
+Leban31        1   1
+    68
+Microwav       2   1
+    29    21
+Neal           1   1
+    53
+RadioTow       1   0
+    34
+Rodgers1       3   1
+    69    80    49
+RogersM1       2   2
+   121    73
+RogersM2       1   0
+   117
+RoundMT1       1   0
+    15
+RoundMT2       0   0
 
 RoundMT3       2   1
-    96    15
-SnakeHil       1   2
-    69
-StatePar       2   1
-    72    87
-Stayton1       2   0
-    58   106
-Stayton2       2   2
-     5    73
-Stayton3       2   1
-   104    44
-SweetHom       4   0
-   111   117    93    82
-Talbot1        1   0
-    29
-Talbot2        2   2
-    34   101
-Talbot3        2   1
-   121    45
-Talbot4        1   1
-    68
-Tangent1       2   1
-    69     8
-Tangent2       1   0
-    63
-Tangent3       1   0
-    32
-Tuisa          1   0
-    29
-WardB1         1   1
-    80
-WardB2         2   2
-    44    58
-WardB3         1   2
+    80    96
+SnakeHil       1   0
+    97
+StatePar       2   0
+    32   116
+Stayton1       2   2
+    39    21
+Stayton2       1   1
+     8
+Stayton3       2   2
+    48    63
+SweetHom       4   2
+    25    82    73   116
+Talbot1        1   1
     92
+Talbot2        2   1
+    56    25
+Talbot3        2   1
+    68    73
+Talbot4        1   1
+    63
+Tangent1       2   0
+    49   120
+Tangent2       1   1
+     5
+Tangent3       1   0
+    15
+Tuisa          1   2
+    97
+WardB1         1   0
+   121
+WardB2         2   0
+    24     8
+WardB3         1   0
+    34

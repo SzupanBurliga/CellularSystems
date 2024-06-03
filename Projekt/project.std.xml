@@ -406,7 +406,7 @@
  <GraphicObjectList number="1">
   <GraphicObject graphic_type="7">
    <RectangleObject is_rounded="false">
-    <GraphicalObject Id="" IndexForLabel="1659551904" width="0.0">
+    <GraphicalObject Id="" IndexForLabel="1660765616" width="0.0">
      <Color r="0" g="0" b="0"/>
      <LatLongTypeList number="2">
       <LatLongPair latitude="44.84118458667511" longitude="-123.2155908922376"/>
@@ -2220,7 +2220,7 @@
   </SystemTypeList>
  </ThirdGenSystem>
  <LayoutDesign nominal_cell_radius="10.0" show_hexagon_grid="true" tx_template_index="0" system="0"/>
- <FrequencyPlanning CI_ratio_objective="13.0" percent_traffic_for_planning="100.0" use_intrf_file="0" channel_type_to_assign="2" percent_interf_acceptance="0.1" blocking_probability="0.0" average_call_duration="0.0" traffic_data_or_voice="predicted voice traffic on sectors" number_of_bcch_traffic_channels="1" uniform_traffic_calls_per_hour="0" demo_traffic_calls_per_hour="0" auto_plan_level="level 2" group_id="Master group" remote_unit_ID="0">
+ <FrequencyPlanning CI_ratio_objective="13.0" percent_traffic_for_planning="100.0" use_intrf_file="0" channel_type_to_assign="2" percent_interf_acceptance="0.5" blocking_probability="0.0" average_call_duration="0.0" traffic_data_or_voice="predicted voice traffic on sectors" number_of_bcch_traffic_channels="2" uniform_traffic_calls_per_hour="0" demo_traffic_calls_per_hour="0" auto_plan_level="level 2" group_id="Master group" remote_unit_ID="0">
   <SimulatedAnneal cool_level="30" iterations="100" temp_mult="0.85" co_ch_weight="1.0" adj_ch_weight="0.01" weight_interf="1.0" weight_demand="1.0"/>
   <AFPConstraints deny_co_channel_="true" deny_adj_channel="true" assign_fixed_number_channels="false" min_channel_seperation="2" fixed_number_of_channels="0"/>
  </FrequencyPlanning>
