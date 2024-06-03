@@ -3,232 +3,292 @@
  Downlink required service C/(I+N) threshold:   13.00000    
   
   
- SECTOR ABAA0004
+ SECTOR Albany11
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0001
+ SECTOR Albany12
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0002
+ SECTOR Albany13
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0003
+ SECTOR Albany21
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0001
+ SECTOR Albany22
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0002
+ SECTOR Albany23
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0003
+ SECTOR Albany31
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0001
+ SECTOR Albany32
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0003
+ SECTOR Albany41
   
          0.0 sq km in service area
   
   
- SECTOR ABAE0001
+ SECTOR Albany42
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0002
+ SECTOR Albany51
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0003
+ SECTOR Albany61
   
          0.0 sq km in service area
   
   
- SECTOR ABAG0003
+ SECTOR Albany62
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0001
+ SECTOR BaldPete
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0002
+ SECTOR BarnetKn
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0002
+ SECTOR Brownsvi
   
          0.0 sq km in service area
   
   
- SECTOR ABAK0002
+ SECTOR CedarB1 
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0001
+ SECTOR CedarB2 
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0002
+ SECTOR FernRidg
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0003
+ SECTOR GravelP1
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0001
+ SECTOR GravelP2
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0002
+ SECTOR GravelP3
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0003
+ SECTOR Greenhor
   
          0.0 sq km in service area
   
   
- SECTOR ABAN0001
+ SECTOR Hatch1  
   
          0.0 sq km in service area
   
   
- SECTOR ABAO0001
+ SECTOR Hatch2  
   
          0.0 sq km in service area
   
   
- SECTOR ABAP0001
+ SECTOR IndianLa
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0001
+ SECTOR JohnsonH
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0002
+ SECTOR KeelMTN 
   
          0.0 sq km in service area
   
   
- SECTOR ABAR0001
+ SECTOR Leban11 
   
          0.0 sq km in service area
   
   
- SECTOR ABAS0001
+ SECTOR Leban12 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0001
+ SECTOR Leban21 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0002
+ SECTOR Leban31 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0003
+ SECTOR Microwav
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0004
+ SECTOR Neal    
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0001
+ SECTOR RadioTow
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0002
+ SECTOR Rodgers1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0001
+ SECTOR RogersM1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0002
+ SECTOR RogersM2
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0003
+ SECTOR RoundMT1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0004
+ SECTOR RoundMT2
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0001
+ SECTOR RoundMT3
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0002
+ SECTOR SnakeHil
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0003
+ SECTOR StatePar
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0004
+ SECTOR Stayton1
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0001
+ SECTOR Stayton2
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0003
+ SECTOR Stayton3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
   
          0.0 sq km in service area
   
@@ -238,237 +298,292 @@
  Downlink required service C/(I+N) threshold:   13.00000    
   
   
- SECTOR ABAA0004
+ SECTOR Albany11
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0001
+ SECTOR Albany12
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0002
+ SECTOR Albany13
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0003
+ SECTOR Albany21
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0001
+ SECTOR Albany22
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0002
+ SECTOR Albany23
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0003
+ SECTOR Albany31
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0001
+ SECTOR Albany32
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0003
+ SECTOR Albany41
   
          0.0 sq km in service area
   
   
- SECTOR ABAE0001
+ SECTOR Albany42
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0002
+ SECTOR Albany51
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0003
+ SECTOR Albany61
   
          0.0 sq km in service area
   
   
- SECTOR ABAG0003
+ SECTOR Albany62
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0001
+ SECTOR BaldPete
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0002
+ SECTOR BarnetKn
   
          0.0 sq km in service area
   
   
- SECTOR ABAI0001
+ SECTOR Brownsvi
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0002
+ SECTOR CedarB1 
   
          0.0 sq km in service area
   
   
- SECTOR ABAK0002
+ SECTOR CedarB2 
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0001
+ SECTOR FernRidg
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0002
+ SECTOR GravelP1
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0003
+ SECTOR GravelP2
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0001
+ SECTOR GravelP3
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0002
+ SECTOR Greenhor
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0003
+ SECTOR Hatch1  
   
          0.0 sq km in service area
   
   
- SECTOR ABAN0001
+ SECTOR Hatch2  
   
          0.0 sq km in service area
   
   
- SECTOR ABAO0001
+ SECTOR IndianLa
   
          0.0 sq km in service area
   
   
- SECTOR ABAP0001
+ SECTOR JohnsonH
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0001
+ SECTOR KeelMTN 
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0002
+ SECTOR Leban11 
   
          0.0 sq km in service area
   
   
- SECTOR ABAR0001
+ SECTOR Leban12 
   
          0.0 sq km in service area
   
   
- SECTOR ABAS0001
+ SECTOR Leban21 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0001
+ SECTOR Leban31 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0002
+ SECTOR Microwav
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0003
+ SECTOR Neal    
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0004
+ SECTOR RadioTow
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0001
+ SECTOR Rodgers1
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0002
+ SECTOR RogersM1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0001
+ SECTOR RogersM2
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0002
+ SECTOR RoundMT1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0003
+ SECTOR RoundMT2
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0004
+ SECTOR RoundMT3
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0001
+ SECTOR SnakeHil
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0002
+ SECTOR StatePar
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0003
+ SECTOR Stayton1
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0004
+ SECTOR Stayton2
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0001
+ SECTOR Stayton3
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0003
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
   
          0.0 sq km in service area
   
@@ -478,237 +593,292 @@
  Downlink required service C/(I+N) threshold:   13.00000    
   
   
- SECTOR ABAA0004
+ SECTOR Albany11
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0001
+ SECTOR Albany12
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0002
+ SECTOR Albany13
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0003
+ SECTOR Albany21
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0001
+ SECTOR Albany22
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0002
+ SECTOR Albany23
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0003
+ SECTOR Albany31
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0001
+ SECTOR Albany32
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0003
+ SECTOR Albany41
   
          0.0 sq km in service area
   
   
- SECTOR ABAE0001
+ SECTOR Albany42
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0002
+ SECTOR Albany51
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0003
+ SECTOR Albany61
   
          0.0 sq km in service area
   
   
- SECTOR ABAG0003
+ SECTOR Albany62
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0001
+ SECTOR BaldPete
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0002
+ SECTOR BarnetKn
   
          0.0 sq km in service area
   
   
- SECTOR ABAI0001
+ SECTOR Brownsvi
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0002
+ SECTOR CedarB1 
   
          0.0 sq km in service area
   
   
- SECTOR ABAK0002
+ SECTOR CedarB2 
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0001
+ SECTOR FernRidg
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0002
+ SECTOR GravelP1
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0003
+ SECTOR GravelP2
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0001
+ SECTOR GravelP3
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0002
+ SECTOR Greenhor
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0003
+ SECTOR Hatch1  
   
          0.0 sq km in service area
   
   
- SECTOR ABAN0001
+ SECTOR Hatch2  
   
          0.0 sq km in service area
   
   
- SECTOR ABAO0001
+ SECTOR IndianLa
   
          0.0 sq km in service area
   
   
- SECTOR ABAP0001
+ SECTOR JohnsonH
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0001
+ SECTOR KeelMTN 
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0002
+ SECTOR Leban11 
   
          0.0 sq km in service area
   
   
- SECTOR ABAR0001
+ SECTOR Leban12 
   
          0.0 sq km in service area
   
   
- SECTOR ABAS0001
+ SECTOR Leban21 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0001
+ SECTOR Leban31 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0002
+ SECTOR Microwav
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0003
+ SECTOR Neal    
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0004
+ SECTOR RadioTow
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0001
+ SECTOR Rodgers1
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0002
+ SECTOR RogersM1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0001
+ SECTOR RogersM2
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0002
+ SECTOR RoundMT1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0003
+ SECTOR RoundMT2
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0004
+ SECTOR RoundMT3
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0001
+ SECTOR SnakeHil
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0002
+ SECTOR StatePar
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0003
+ SECTOR Stayton1
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0004
+ SECTOR Stayton2
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0001
+ SECTOR Stayton3
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0003
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
   
          0.0 sq km in service area
   
@@ -718,237 +888,2002 @@
  Downlink required service C/(I+N) threshold:   13.00000    
   
   
- SECTOR ABAA0004
+ SECTOR Albany11
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0001
+ SECTOR Albany12
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0002
+ SECTOR Albany13
   
          0.0 sq km in service area
   
   
- SECTOR ABAB0003
+ SECTOR Albany21
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0001
+ SECTOR Albany22
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0002
+ SECTOR Albany23
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0003
+ SECTOR Albany31
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0001
+ SECTOR Albany32
   
          0.0 sq km in service area
   
   
- SECTOR ABAD0003
+ SECTOR Albany41
   
          0.0 sq km in service area
   
   
- SECTOR ABAE0001
+ SECTOR Albany42
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0002
+ SECTOR Albany51
   
          0.0 sq km in service area
   
   
- SECTOR ABAF0003
+ SECTOR Albany61
   
          0.0 sq km in service area
   
   
- SECTOR ABAG0003
+ SECTOR Albany62
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0001
+ SECTOR BaldPete
   
          0.0 sq km in service area
   
   
- SECTOR ABAH0002
+ SECTOR BarnetKn
   
          0.0 sq km in service area
   
   
- SECTOR ABAI0001
+ SECTOR Brownsvi
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0002
+ SECTOR CedarB1 
   
          0.0 sq km in service area
   
   
- SECTOR ABAK0002
+ SECTOR CedarB2 
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0001
+ SECTOR FernRidg
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0002
+ SECTOR GravelP1
   
          0.0 sq km in service area
   
   
- SECTOR ABAL0003
+ SECTOR GravelP2
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0001
+ SECTOR GravelP3
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0002
+ SECTOR Greenhor
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0003
+ SECTOR Hatch1  
   
          0.0 sq km in service area
   
   
- SECTOR ABAN0001
+ SECTOR Hatch2  
   
          0.0 sq km in service area
   
   
- SECTOR ABAO0001
+ SECTOR IndianLa
   
          0.0 sq km in service area
   
   
- SECTOR ABAP0001
+ SECTOR JohnsonH
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0001
+ SECTOR KeelMTN 
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0002
+ SECTOR Leban11 
   
          0.0 sq km in service area
   
   
- SECTOR ABAR0001
+ SECTOR Leban12 
   
          0.0 sq km in service area
   
   
- SECTOR ABAS0001
+ SECTOR Leban21 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0001
+ SECTOR Leban31 
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0002
+ SECTOR Microwav
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0003
+ SECTOR Neal    
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0004
+ SECTOR RadioTow
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0001
+ SECTOR Rodgers1
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0002
+ SECTOR RoundMT1
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0001
+ SECTOR RoundMT2
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0002
+ SECTOR RoundMT3
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0003
+ SECTOR SnakeHil
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0004
+ SECTOR StatePar
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0001
+ SECTOR Stayton1
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0002
+ SECTOR Stayton2
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0003
+ SECTOR Stayton3
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0004
+ SECTOR SweetHom
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0001
+ SECTOR Talbot1 
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0003
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR Albany11
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany12
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany13
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany21
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany22
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany23
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany31
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany32
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany41
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany42
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany51
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany61
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany62
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BaldPete
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BarnetKn
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Brownsvi
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR FernRidg
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Greenhor
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR IndianLa
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR JohnsonH
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR KeelMTN 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban11 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban12 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban21 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban31 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Microwav
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Neal    
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RadioTow
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Rodgers1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SnakeHil
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR StatePar
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR Albany11
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany12
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany13
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany21
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany22
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany23
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany31
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany32
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany41
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany42
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany51
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany61
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany62
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BaldPete
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BarnetKn
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Brownsvi
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR FernRidg
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Greenhor
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR IndianLa
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR JohnsonH
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR KeelMTN 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban11 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban12 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban21 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban31 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Microwav
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Neal    
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RadioTow
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Rodgers1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SnakeHil
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR StatePar
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR Albany11
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany12
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany13
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany21
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany22
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany23
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany31
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany32
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany41
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany42
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany51
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany61
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany62
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BaldPete
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BarnetKn
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Brownsvi
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR FernRidg
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Greenhor
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR IndianLa
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR JohnsonH
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR KeelMTN 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban11 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban12 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban21 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban31 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Microwav
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Neal    
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RadioTow
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Rodgers1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SnakeHil
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR StatePar
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR Albany11
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany12
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany13
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany21
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany22
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany23
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany31
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany32
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany41
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany42
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany51
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany61
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany62
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BaldPete
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BarnetKn
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Brownsvi
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR FernRidg
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Greenhor
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR IndianLa
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR JohnsonH
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR KeelMTN 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban11 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban12 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban21 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban31 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Microwav
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Neal    
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RadioTow
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Rodgers1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SnakeHil
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR StatePar
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR Albany11
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany12
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany13
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany21
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany22
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany23
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany31
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany32
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany41
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany42
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany51
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany61
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany62
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BaldPete
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BarnetKn
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Brownsvi
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR FernRidg
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Greenhor
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR IndianLa
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR JohnsonH
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR KeelMTN 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban11 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban12 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban21 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban31 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Microwav
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Neal    
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RadioTow
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Rodgers1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SnakeHil
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR StatePar
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR Albany11
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany12
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany13
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany21
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany22
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany23
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany31
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany32
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany41
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany42
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany51
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany61
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Albany62
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BaldPete
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR BarnetKn
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Brownsvi
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR CedarB2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR FernRidg
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR GravelP3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Greenhor
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Hatch2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR IndianLa
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR JohnsonH
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR KeelMTN 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban11 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban12 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban21 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Leban31 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Microwav
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Neal    
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RadioTow
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Rodgers1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RogersM1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RogersM2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR RoundMT3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SnakeHil
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR StatePar
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Stayton3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR SweetHom
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot1 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot2 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot3 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Talbot4 
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent1
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent2
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tangent3
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR Tuisa   
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB1  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB2  
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR WardB3  
   
          0.0 sq km in service area
   

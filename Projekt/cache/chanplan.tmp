@@ -1,116 +1,116 @@
-ABAA0004       2   2
-    93    69
-ABAB0002       1   1
-    44
-ABAB0003       1   0
-    68
-ABAC0001       1   1
-     8
-ABAC0002       0   2
-
-ABAC0003       2   1
-    21   120
-ABAD0001       2   2
-    20    82
-ABAD0003       3   2
-    58    29    93
-ABAE0001       4   1
-    97    80     5   116
-ABAF0002       2   1
-   111    63
-ABAF0003       2   1
-    68     5
-ABAG0003       1   2
-    53
-ABAH0001       2   1
-    49    56
-ABAH0002       2   0
-    20    77
-ABAI0001       1   0
-    24
-ABAJ0002       3   0
-    97   106    39
-ABAK0002       3   0
-   104    80    39
-ABAL0001       1   1
-    21
-ABAL0002       2   0
-    58    45
-ABAL0003       3   1
-    68    10    48
-ABAM0001       3   2
-    44    25     8
-ABAM0002       4   1
-   116    34   111    29
-ABAM0003       3   2
-    49    69   120
-ABAN0001       2   0
-    92    80
-ABAO0001       3   1
-    73   101    15
-ABAP0001       1   2
-     8
-ABAQ0001       2   0
-    87    77
-ABAQ0002       2   1
-    39     5
-ABAR0001       1   1
-    69
-ABAS0001       3   2
-   111   120   106
-ABAT0001       2   0
-    44    73
-ABAT0002       1   0
-    49
-ABAT0003       1   2
-   116
-ABAU0001       2   0
-    21    34
-ABAV0001       1   0
-    63
-ABAV0002       2   1
-    82    39
-ABAV0003       3   2
-    96    87    80
-ABAV0004       1   1
-    53
-ABAW0001       1   2
-    39
-ABAW0002       3   0
-    21    49    92
-ABAX0001       2   0
-   117     5
-ABAX0003       6   2
-    97   104    72    10    32    24
-ABAY0001       2   0
-   101    56
-ABAZ0001       2   1
-   117   106
-ABAZ0002       1   0
+Albany11       3   1
+    56   120    77
+Albany12       4   0
+    73    48   111    45
+Albany13       2   0
+    34   104
+Albany21       1   2
    121
-ABAZ0003       1   1
-    20
-ABBA0001       3   2
-     8   116    45
-ABBB0001       1   2
+Albany22       2   2
+    56    96
+Albany23       3   1
+    32    63    48
+Albany31       2   2
+    97    25
+Albany32       3   2
+    82    80    20
+Albany41       2   2
+    15    44
+Albany42       2   1
+   117    77
+Albany51       2   0
+   101    96
+Albany61       1   1
+    15
+Albany62       5   2
+    21   116    69     5    24
+BaldPete       1   2
+    58
+BarnetKn       2   2
+   104    97
+Brownsvi       1   0
+    34
+CedarB1        2   1
+    87    73
+CedarB2        1   0
+    68
+FernRidg       2   1
+    53    10
+GravelP1       2   0
+    39    53
+GravelP2       2   0
+    29    93
+GravelP3       1   2
+    15
+Greenhor       2   2
+    53    97
+Hatch1         3   0
+    63    77     8
+Hatch2         2   2
+    49    34
+IndianLa       1   0
+   117
+JohnsonH       1   1
     44
-ABBB0002       3   2
-    48   101    29
-ABBB0003       3   0
-    97   117    69
-ABBC0001       5   2
-    58    15   117    93    45
-ABBD0001       5   0
-   104    56     8    63    25
-ABBE0001       1   1
-    45
-ABBF0001       1   1
-    97
-ABBG0001       5   0
-    58    25    87    97    45
-ABBH0001       3   0
-    53    45    25
-ABBH0002       4   0
-    93    32    68    73
-ABBH0003       3   1
-   116    34    20
+KeelMTN        1   2
+   120
+Leban11        2   2
+     8   111
+Leban12        4   0
+    32    93    82    39
+Leban21        4   1
+    80    25    68    92
+Leban31        1   1
+    63
+Microwav       2   0
+    53    77
+Neal           1   2
+   120
+RadioTow       1   0
+    49
+Rodgers1       3   0
+   111    92    21
+RogersM1       3   1
+    10    93    34
+RogersM2       1   1
+    69
+RoundMT1       1   0
+    56
+RoundMT2       0   1
+
+RoundMT3       2   1
+    29    15
+SnakeHil       1   0
+    21
+StatePar       2   1
+    45    56
+Stayton1       2   2
+    29   106
+Stayton2       2   0
+    44    72
+Stayton3       2   1
+    68    48
+SweetHom       4   0
+    20    63   104    49
+Talbot1        1   2
+   101
+Talbot2        2   0
+    82    24
+Talbot3        2   1
+    87    58
+Talbot4        1   1
+   106
+Tangent1       2   0
+     8    97
+Tangent2       1   1
+    20
+Tangent3       1   1
+    80
+Tuisa          1   0
+    77
+WardB1         1   1
+    73
+WardB2         2   0
+    97   106
+WardB3         1   2
+    44
