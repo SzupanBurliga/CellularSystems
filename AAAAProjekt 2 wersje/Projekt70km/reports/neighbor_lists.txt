@@ -1,0 +1,571 @@
+Threshold % of grid points:  4
+ 2nd 3rd server neighbors included                
+Server - # of neighbors - # of grid points
+------------------------------------------
+Albany11   10      360
+   Albany23        160                      
+   Granger2        141  ** not reciprocated 
+   Albany31         89                      
+   Albany41         81                      
+   BarnetKn         53  ** not reciprocated 
+   Albany13         47                      
+   Albany12         29                      
+   Albany21         24                      
+   Tangent1         23  ** not reciprocated 
+   RadioT2          18  ** not reciprocated 
+Albany12    9      200
+   Albany31        144                      
+   RadioT2          64  ** not reciprocated 
+   Albany11         36                      
+   Albany51         33  ** not reciprocated 
+   Albany13         25                      
+   Albany32         25                      
+   BarnetKn         11  ** not reciprocated 
+   Tangent1          9  ** not reciprocated 
+   Granger2          8  ** not reciprocated 
+Albany13   11      213
+   Albany51        102                      
+   Granger2         56  ** not reciprocated 
+   Tangent1         53  ** not reciprocated 
+   Albany42         52                      
+   Albany12         28                      
+   Albany11         26  ** not reciprocated 
+   RadioT2          25  ** not reciprocated 
+   Albany32         23                      
+   RogersM2         10  ** not reciprocated 
+   Albany23          9                      
+   BarnetKn          9  ** not reciprocated 
+Albany21   15      660
+   BarnetKn        209  ** not reciprocated 
+   RadioT2         154  ** not reciprocated 
+   RadioT1         137  ** not reciprocated 
+   Albany11        119                      
+   Granger2         95  ** not reciprocated 
+   Albany41         78                      
+   Albany31         76                      
+   Albany23         73                      
+   Albany22         71                      
+   Granger1         51  ** not reciprocated 
+   Tangent1         46  ** not reciprocated 
+   Microwav         41  ** not reciprocated 
+   RogersM2         37  ** not reciprocated 
+   Gravel1          37  ** not reciprocated 
+   Talbot3          33  ** not reciprocated 
+Albany22    9      247
+   RadioT2         201                      
+   BarnetKn         60  ** not reciprocated 
+   Albany31         52                      
+   Albany21         45                      
+   Albany23         26                      
+   RogersM2         17  ** not reciprocated 
+   Microwav         12  ** not reciprocated 
+   RoundMT3         12  ** not reciprocated 
+   Tangent1         11  ** not reciprocated 
+Albany23    9      290
+   Albany11        137                      
+   RadioT2         109  ** not reciprocated 
+   BarnetKn         67  ** not reciprocated 
+   Albany31         57                      
+   Albany41         47                      
+   Albany21         46                      
+   Albany22         40                      
+   Microwav         15  ** not reciprocated 
+   Granger2         12  ** not reciprocated 
+Albany31   11      492
+   RadioT2         323  ** not reciprocated 
+   Albany12        238                      
+   Albany32         87                      
+   BarnetKn         40  ** not reciprocated 
+   Tangent1         39  ** not reciprocated 
+   RogersM2         32  ** not reciprocated 
+   Albany22         26  ** not reciprocated 
+   Albany11         24                      
+   Albany23         23                      
+   Granger2         23  ** not reciprocated 
+   Albany51         20                      
+Albany32    9      632
+   RadioT2         393  ** not reciprocated 
+   Tangent1        220                      
+   Granger2        111  ** not reciprocated 
+   Albany51        103                      
+   BarnetKn         94  ** not reciprocated 
+   Albany31         78                      
+   Albany12         62                      
+   Albany13         40                      
+   KeelMTN          28  ** not reciprocated 
+Albany41   12      585
+   Granger2        188  ** not reciprocated 
+   Albany11        167  ** not reciprocated 
+   Tangent1        130  ** not reciprocated 
+   BarnetKn        121  ** not reciprocated 
+   Albany23         84                      
+   Albany42         82                      
+   RadioT2          61  ** not reciprocated 
+   KeelMTN          41  ** not reciprocated 
+   Neal             35  ** not reciprocated 
+   GravelP2         33  ** not reciprocated 
+   Granger1         30  ** not reciprocated 
+   Albany31         29                      
+Albany42    9      433
+   Granger2        270                      
+   Albany13        166                      
+   Tangent1        110  ** not reciprocated 
+   Albany41         63  ** not reciprocated 
+   Albany51         52                      
+   BarnetKn         42  ** not reciprocated 
+   RadioT2          37  ** not reciprocated 
+   Albany32         23                      
+   RoundMT3         20  ** not reciprocated 
+Albany51   10      267
+   Albany13        141                      
+   Albany42         91                      
+   Granger2         70  ** not reciprocated 
+   Tangent1         55  ** not reciprocated 
+   Albany32         49                      
+   RadioT2          25  ** not reciprocated 
+   RogersM2         18  ** not reciprocated 
+   BarnetKn         17  ** not reciprocated 
+   RoundMT3         11  ** not reciprocated 
+   Microwav         10  ** not reciprocated 
+BaldPete    7     1601
+   KeelMTN         684                      
+   RoundMT3        391                      
+   CedarB1         367                      
+   SweetHom        334                      
+   Greenhor        118                      
+   RadioT1          76  ** not reciprocated 
+   BarnetKn         65  ** not reciprocated 
+BarnetKn   14     8511
+   Gravel1        2068                      
+   RadioT1        2045                      
+   Talbot2        1727                      
+   Microwav        896                      
+   RogersM2        886                      
+   Rodgers1        831                      
+   GravelP1        791                      
+   Talbot3         710                      
+   Granger1        549                      
+   Talbot1         525                      
+   RadioT2         493                      
+   RogersM1        454                      
+   Talbot4         440                      
+   Granger2        351                      
+Brownsvi    5     2047
+   WardB3         1162                      
+   CedarB2         809                      
+   Tuisa           465                      
+   SnakeHil        256                      
+   RadioT2         143  ** not reciprocated 
+CedarB1     8     7785
+   CedarB2        2734                      
+   SweetHom       1845                      
+   KeelMTN        1363                      
+   RoundMT3       1119                      
+   BaldPete        831                      
+   Greenhor        745                      
+   RogersM1        424  ** not reciprocated 
+   Leban31         376                      
+CedarB2     9     3476
+   CedarB1        1519                      
+   WardB3          910                      
+   Tuisa           618                      
+   Brownsvi        405                      
+   KeelMTN         222  ** not reciprocated 
+   SnakeHil        189                      
+   Tangent2        180                      
+   RoundMT3        174  ** not reciprocated 
+   RadioT2         143  ** not reciprocated 
+FernRidg    9     7326
+   StatePar       1901                      
+   Hatch2         1609                      
+   Rodgers1       1444                      
+   IndianLa       1046                      
+   Neal            726                      
+   Stayton2        473                      
+   GravelP3        446                      
+   RoundMT1        361  ** not reciprocated 
+   Gravel1         351  ** not reciprocated 
+Granger1    8     5583
+   Talbot4        2211                      
+   Microwav       2138                      
+   Granger2       1588                      
+   BarnetKn       1465                      
+   JohnsonH       1022                      
+   Tangent1        516  ** not reciprocated 
+   RogersM2        384  ** not reciprocated 
+   Talbot1         277                      
+Granger2    8     4748
+   Granger1       2814                      
+   Tangent1       2077                      
+   BarnetKn        853                      
+   RadioT2         386                      
+   Albany42        338                      
+   RogersM2        314  ** not reciprocated 
+   RoundMT3        272  ** not reciprocated 
+   KeelMTN         228  ** not reciprocated 
+Gravel1     7     4179
+   BarnetKn       2325                      
+   RadioT1        2253                      
+   Talbot2         935                      
+   RogersM2        512                      
+   GravelP1        320                      
+   Rodgers1        290  ** not reciprocated 
+   Granger1        283  ** not reciprocated 
+GravelP1   10     4082
+   RogersM2       2853                      
+   GravelP2       1676                      
+   Rodgers1        939                      
+   BarnetKn        754                      
+   RadioT1         428  ** not reciprocated 
+   Gravel1         322                      
+   Hatch1          286                      
+   GravelP3        271                      
+   Neal            174  ** not reciprocated 
+   IndianLa        174  ** not reciprocated 
+GravelP2    6     3216
+   GravelP1       1708                      
+   RogersM2       1141                      
+   RadioT1        1093                      
+   GravelP3        911                      
+   BarnetKn        742  ** not reciprocated 
+   Rodgers1        156  ** not reciprocated 
+GravelP3   14     3835
+   RogersM2       1713                      
+   GravelP2       1087                      
+   Hatch2          630                      
+   GravelP1        600                      
+   Rodgers1        434  ** not reciprocated 
+   Neal            404                      
+   BarnetKn        398                      
+   RoundMT1        396                      
+   RogersM1        366                      
+   RadioT1         360  ** not reciprocated 
+   Talbot2         259                      
+   Gravel1         246  ** not reciprocated 
+   FernRidg        201                      
+   IndianLa        199                      
+Greenhor    3     4778
+   CedarB1        1556                      
+   SweetHom       1546                      
+   BaldPete        317                      
+Hatch1      6     3945
+   Rodgers1       2728                      
+   RogersM2       1511  ** not reciprocated 
+   Hatch2         1024                      
+   Stayton1        924                      
+   GravelP1        746                      
+   Stayton3        272                      
+Hatch2     11     4836
+   Rodgers1       1926                      
+   Hatch1         1732                      
+   FernRidg       1443                      
+   GravelP3       1179                      
+   RogersM2        497  ** not reciprocated 
+   Stayton2        396                      
+   Gravel1         394  ** not reciprocated 
+   BarnetKn        379  ** not reciprocated 
+   IndianLa        343                      
+   RadioT1         279  ** not reciprocated 
+   Stayton3        201                      
+IndianLa   11     2970
+   Neal           1544                      
+   FernRidg        619                      
+   GravelP3        275                      
+   Hatch2          273                      
+   RoundMT1        240  ** not reciprocated 
+   RadioT1         226  ** not reciprocated 
+   Rodgers1        216                      
+   RogersM2        206                      
+   Talbot2         166  ** not reciprocated 
+   Gravel1         134  ** not reciprocated 
+   RogersM1        124  ** not reciprocated 
+JohnsonH    5     1759
+   Microwav       1005                      
+   Granger1        963                      
+   BarnetKn        288  ** not reciprocated 
+   Talbot4         278                      
+   RogersM2        128  ** not reciprocated 
+KeelMTN     8     9739
+   RoundMT3       5976                      
+   BaldPete       1845                      
+   CedarB1        1439                      
+   RoundMT2       1367                      
+   RogersM1       1122                      
+   SweetHom        580                      
+   Leban31         427                      
+   BarnetKn        402  ** not reciprocated 
+Leban11     9     3253
+   RogersM1       1561                      
+   RadioT2         814                      
+   RoundMT3        770  ** not reciprocated 
+   Leban21         579                      
+   RadioT1         552                      
+   BarnetKn        378  ** not reciprocated 
+   KeelMTN         313  ** not reciprocated 
+   Leban31         301                      
+   Leban12         216                      
+Leban12     9      748
+   Leban31         306                      
+   KeelMTN         293  ** not reciprocated 
+   RoundMT3        197  ** not reciprocated 
+   Leban21         148                      
+   Leban11         141                      
+   RadioT2         120  ** not reciprocated 
+   BarnetKn         64  ** not reciprocated 
+   CedarB2          59  ** not reciprocated 
+   RogersM1         49  ** not reciprocated 
+Leban21     9      922
+   Leban11         558                      
+   Leban31         322                      
+   RadioT2         248  ** not reciprocated 
+   RogersM1        185  ** not reciprocated 
+   Leban12         116                      
+   RoundMT3         68  ** not reciprocated 
+   KeelMTN          65  ** not reciprocated 
+   BarnetKn         52  ** not reciprocated 
+   CedarB2          40  ** not reciprocated 
+Leban31    10     1754
+   RadioT2         675  ** not reciprocated 
+   RogersM1        513  ** not reciprocated 
+   Leban12         440                      
+   KeelMTN         410                      
+   RoundMT3        255  ** not reciprocated 
+   Leban21         246                      
+   Leban11         176                      
+   CedarB1          93                      
+   CedarB2          91  ** not reciprocated 
+   BarnetKn         78  ** not reciprocated 
+Microwav    7     6190
+   Talbot1        2882                      
+   BarnetKn       2519                      
+   JohnsonH       2495                      
+   Granger1       1003                      
+   Talbot4         919                      
+   RogersM2        538  ** not reciprocated 
+   Gravel1         499  ** not reciprocated 
+Neal        7     6886
+   IndianLa       3536                      
+   FernRidg       1282                      
+   RoundMT1        813  ** not reciprocated 
+   GravelP3        694                      
+   StatePar        581  ** not reciprocated 
+   RogersM2        400                      
+   Gravel1         327  ** not reciprocated 
+RadioT1     9    12726
+   BarnetKn       5118                      
+   RadioT2        3802                      
+   GravelP2       2789                      
+   Gravel1        2736                      
+   RogersM1       2137                      
+   RogersM2       2089                      
+   RoundMT1        715                      
+   Leban11         597                      
+   Granger2        535  ** not reciprocated 
+RadioT2    11    13278
+   RadioT1        4824                      
+   BarnetKn       3946                      
+   RogersM1       3443                      
+   GravelP2       2104  ** not reciprocated 
+   Tangent2       1824                      
+   RoundMT3       1393  ** not reciprocated 
+   KeelMTN        1367  ** not reciprocated 
+   Granger2       1304                      
+   Leban11        1212                      
+   Tangent1       1168                      
+   Albany22        654                      
+Rodgers1    9    10127
+   Hatch1         3421                      
+   RogersM2       3035                      
+   GravelP1       2982                      
+   BarnetKn       1598                      
+   IndianLa       1030                      
+   FernRidg        797                      
+   Neal            759  ** not reciprocated 
+   Hatch2          636                      
+   Stayton1        600                      
+RogersM1   10    13202
+   RadioT1        4490                      
+   RoundMT3       3792                      
+   RoundMT1       3698                      
+   RogersM2       3454                      
+   KeelMTN        1821                      
+   Leban11        1725                      
+   BarnetKn       1350                      
+   GravelP3       1249                      
+   Rodgers1        662  ** not reciprocated 
+   RadioT2         578                      
+RogersM2   11     3552
+   RogersM1       1535                      
+   GravelP3       1130                      
+   GravelP1        582                      
+   Neal            582                      
+   RoundMT1        453  ** not reciprocated 
+   RadioT1         445                      
+   GravelP2        383                      
+   BarnetKn        361                      
+   IndianLa        345                      
+   Rodgers1        253                      
+   Gravel1         178                      
+RoundMT1    6     8339
+   RoundMT3       4051                      
+   RoundMT2       2309                      
+   RogersM1       1691                      
+   RadioT1        1453                      
+   KeelMTN         679  ** not reciprocated 
+   GravelP3        367                      
+RoundMT2    6     2504
+   RoundMT1       1360                      
+   KeelMTN        1283                      
+   RoundMT3        920                      
+   RogersM1        371  ** not reciprocated 
+   Rodgers1        113  ** not reciprocated 
+   RadioT1         103  ** not reciprocated 
+RoundMT3    7    10160
+   KeelMTN        6143                      
+   RoundMT1       2996                      
+   RoundMT2       2129                      
+   RogersM1       2043                      
+   CedarB1        1019                      
+   BaldPete        642                      
+   RadioT1         588  ** not reciprocated 
+SnakeHil    3     1195
+   CedarB2         412                      
+   Brownsvi        268                      
+   Tuisa            73  ** not reciprocated 
+StatePar    6     2658
+   FernRidg        759                      
+   Rodgers1        243  ** not reciprocated 
+   IndianLa        170  ** not reciprocated 
+   Hatch2          158  ** not reciprocated 
+   RadioT1         151  ** not reciprocated 
+   GravelP3        122  ** not reciprocated 
+Stayton1   12     1647
+   Hatch1         1010                      
+   Rodgers1        556                      
+   Hatch2          513  ** not reciprocated 
+   FernRidg        232  ** not reciprocated 
+   IndianLa        199  ** not reciprocated 
+   Stayton3        115                      
+   Stayton2        115                      
+   Neal            105  ** not reciprocated 
+   RoundMT1         98  ** not reciprocated 
+   RogersM2         87  ** not reciprocated 
+   Gravel1          72  ** not reciprocated 
+   GravelP3         66  ** not reciprocated 
+Stayton2    7      445
+   Stayton1        312                      
+   Hatch2          152                      
+   FernRidg        147                      
+   Rodgers1        113  ** not reciprocated 
+   StatePar         35  ** not reciprocated 
+   IndianLa         24  ** not reciprocated 
+   Stayton3         23                      
+Stayton3    9      217
+   Stayton1        121                      
+   Hatch2          112                      
+   Hatch1           58                      
+   Stayton2         37                      
+   FernRidg         29  ** not reciprocated 
+   IndianLa         17  ** not reciprocated 
+   Rodgers1         16  ** not reciprocated 
+   RogersM2         13  ** not reciprocated 
+   Neal             10  ** not reciprocated 
+SweetHom    6     6590
+   CedarB1        3566                      
+   Greenhor       1804                      
+   KeelMTN        1247                      
+   BaldPete       1023                      
+   RoundMT3        648  ** not reciprocated 
+   CedarB2         559  ** not reciprocated 
+Talbot1     6     3389
+   Talbot2        1573                      
+   Microwav       1354                      
+   Talbot4        1078                      
+   BarnetKn       1014                      
+   Granger1        701                      
+   Gravel1         546  ** not reciprocated 
+Talbot2     9     3391
+   BarnetKn       1933                      
+   Talbot1        1164                      
+   Gravel1         868                      
+   Talbot3         742                      
+   RadioT1         344  ** not reciprocated 
+   Rodgers1        235  ** not reciprocated 
+   Granger1        212  ** not reciprocated 
+   RogersM1        161  ** not reciprocated 
+   GravelP3        155                      
+Talbot3     6      836
+   BarnetKn        515                      
+   Talbot2         471                      
+   Talbot4         415                      
+   Granger1         63  ** not reciprocated 
+   RadioT1          43  ** not reciprocated 
+   Tangent1         38  ** not reciprocated 
+Talbot4     8     3789
+   BarnetKn       1543                      
+   Granger1       1513                      
+   Microwav       1403                      
+   Talbot3        1137                      
+   Talbot1        1076                      
+   Talbot2         247  ** not reciprocated 
+   JohnsonH        184                      
+   RogersM2        153  ** not reciprocated 
+Tangent1    8     6744
+   Granger2       2941                      
+   Tangent3       2341                      
+   BarnetKn       1774  ** not reciprocated 
+   RadioT2        1758                      
+   Tangent2       1215                      
+   Albany32        687                      
+   RoundMT3        353  ** not reciprocated 
+   KeelMTN         294  ** not reciprocated 
+Tangent2   11     4576
+   RadioT2        1995                      
+   Tangent1       1604                      
+   WardB1         1194                      
+   Tangent3        994                      
+   WardB3          817                      
+   Tuisa           445  ** not reciprocated 
+   CedarB2         432                      
+   KeelMTN         265  ** not reciprocated 
+   RoundMT3        221  ** not reciprocated 
+   BarnetKn        193  ** not reciprocated 
+   Granger2        186  ** not reciprocated 
+Tangent3    9     4998
+   Tuisa          1965                      
+   Tangent1       1690                      
+   CedarB2        1689  ** not reciprocated 
+   Tangent2       1346                      
+   WardB3         1016                      
+   BarnetKn        560  ** not reciprocated 
+   RadioT2         372  ** not reciprocated 
+   RoundMT3        338  ** not reciprocated 
+   KeelMTN         323  ** not reciprocated 
+Tuisa       4     5864
+   WardB3         3995                      
+   CedarB2        3960                      
+   Tangent3       1833                      
+   Brownsvi        340                      
+WardB1      5     1040
+   WardB3          711                      
+   Tangent2        618                      
+   RadioT2         365  ** not reciprocated 
+   CedarB2         238  ** not reciprocated 
+   WardB2           56                      
+WardB2      6     1681
+   WardB3         1236                      
+   CedarB2        1019  ** not reciprocated 
+   Tangent2        323  ** not reciprocated 
+   RadioT2         318  ** not reciprocated 
+   Tuisa           141  ** not reciprocated 
+   WardB1           86                      
+WardB3      9    11651
+   CedarB2        5148                      
+   Brownsvi       4684                      
+   Tuisa          3367                      
+   Tangent2       2246                      
+   WardB2         2020                      
+   WardB1         1731                      
+   RadioT2        1404  ** not reciprocated 
+   RoundMT3        534  ** not reciprocated 
+   Tangent3        483                      

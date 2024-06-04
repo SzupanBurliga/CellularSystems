@@ -1,0 +1,567 @@
+Albany11   10
+    Albany23       160
+   *Granger2       141
+    Albany31        89
+    Albany41        81
+   *BarnetKn        53
+    Albany13        47
+    Albany12        29
+    Albany21        24
+   *Tangent1        23
+   *RadioT2         18
+Albany12    9
+    Albany31       144
+   *RadioT2         64
+    Albany11        36
+   *Albany51        33
+    Albany13        25
+    Albany32        25
+   *BarnetKn        11
+   *Tangent1         9
+   *Granger2         8
+Albany13   11
+    Albany51       102
+   *Granger2        56
+   *Tangent1        53
+    Albany42        52
+    Albany12        28
+   *Albany11        26
+   *RadioT2         25
+    Albany32        23
+   *RogersM2        10
+    Albany23         9
+   *BarnetKn         9
+Albany21   15
+   *BarnetKn       209
+   *RadioT2        154
+   *RadioT1        137
+    Albany11       119
+   *Granger2        95
+    Albany41        78
+    Albany31        76
+    Albany23        73
+    Albany22        71
+   *Granger1        51
+   *Tangent1        46
+   *Microwav        41
+   *RogersM2        37
+   *Gravel1         37
+   *Talbot3         33
+Albany22    9
+    RadioT2        201
+   *BarnetKn        60
+    Albany31        52
+    Albany21        45
+    Albany23        26
+   *RogersM2        17
+   *Microwav        12
+   *RoundMT3        12
+   *Tangent1        11
+Albany23    9
+    Albany11       137
+   *RadioT2        109
+   *BarnetKn        67
+    Albany31        57
+    Albany41        47
+    Albany21        46
+    Albany22        40
+   *Microwav        15
+   *Granger2        12
+Albany31   11
+   *RadioT2        323
+    Albany12       238
+    Albany32        87
+   *BarnetKn        40
+   *Tangent1        39
+   *RogersM2        32
+   *Albany22        26
+    Albany11        24
+    Albany23        23
+   *Granger2        23
+    Albany51        20
+Albany32    9
+   *RadioT2        393
+    Tangent1       220
+   *Granger2       111
+    Albany51       103
+   *BarnetKn        94
+    Albany31        78
+    Albany12        62
+    Albany13        40
+   *KeelMTN         28
+Albany41   12
+   *Granger2       188
+   *Albany11       167
+   *Tangent1       130
+   *BarnetKn       121
+    Albany23        84
+    Albany42        82
+   *RadioT2         61
+   *KeelMTN         41
+   *Neal            35
+   *GravelP2        33
+   *Granger1        30
+    Albany31        29
+Albany42    9
+    Granger2       270
+    Albany13       166
+   *Tangent1       110
+   *Albany41        63
+    Albany51        52
+   *BarnetKn        42
+   *RadioT2         37
+    Albany32        23
+   *RoundMT3        20
+Albany51   10
+    Albany13       141
+    Albany42        91
+   *Granger2        70
+   *Tangent1        55
+    Albany32        49
+   *RadioT2         25
+   *RogersM2        18
+   *BarnetKn        17
+   *RoundMT3        11
+   *Microwav        10
+BaldPete    7
+    KeelMTN        684
+    RoundMT3       391
+    CedarB1        367
+    SweetHom       334
+    Greenhor       118
+   *RadioT1         76
+   *BarnetKn        65
+BarnetKn   14
+    Gravel1       2068
+    RadioT1       2045
+    Talbot2       1727
+    Microwav       896
+    RogersM2       886
+    Rodgers1       831
+    GravelP1       791
+    Talbot3        710
+    Granger1       549
+    Talbot1        525
+    RadioT2        493
+    RogersM1       454
+    Talbot4        440
+    Granger2       351
+Brownsvi    5
+    WardB3        1162
+    CedarB2        809
+    Tuisa          465
+    SnakeHil       256
+   *RadioT2        143
+CedarB1     8
+    CedarB2       2734
+    SweetHom      1845
+    KeelMTN       1363
+    RoundMT3      1119
+    BaldPete       831
+    Greenhor       745
+   *RogersM1       424
+    Leban31        376
+CedarB2     9
+    CedarB1       1519
+    WardB3         910
+    Tuisa          618
+    Brownsvi       405
+   *KeelMTN        222
+    SnakeHil       189
+    Tangent2       180
+   *RoundMT3       174
+   *RadioT2        143
+FernRidg    9
+    StatePar      1901
+    Hatch2        1609
+    Rodgers1      1444
+    IndianLa      1046
+    Neal           726
+    Stayton2       473
+    GravelP3       446
+   *RoundMT1       361
+   *Gravel1        351
+Granger1    8
+    Talbot4       2211
+    Microwav      2138
+    Granger2      1588
+    BarnetKn      1465
+    JohnsonH      1022
+   *Tangent1       516
+   *RogersM2       384
+    Talbot1        277
+Granger2    8
+    Granger1      2814
+    Tangent1      2077
+    BarnetKn       853
+    RadioT2        386
+    Albany42       338
+   *RogersM2       314
+   *RoundMT3       272
+   *KeelMTN        228
+Gravel1     7
+    BarnetKn      2325
+    RadioT1       2253
+    Talbot2        935
+    RogersM2       512
+    GravelP1       320
+   *Rodgers1       290
+   *Granger1       283
+GravelP1   10
+    RogersM2      2853
+    GravelP2      1676
+    Rodgers1       939
+    BarnetKn       754
+   *RadioT1        428
+    Gravel1        322
+    Hatch1         286
+    GravelP3       271
+   *Neal           174
+   *IndianLa       174
+GravelP2    6
+    GravelP1      1708
+    RogersM2      1141
+    RadioT1       1093
+    GravelP3       911
+   *BarnetKn       742
+   *Rodgers1       156
+GravelP3   14
+    RogersM2      1713
+    GravelP2      1087
+    Hatch2         630
+    GravelP1       600
+   *Rodgers1       434
+    Neal           404
+    BarnetKn       398
+    RoundMT1       396
+    RogersM1       366
+   *RadioT1        360
+    Talbot2        259
+   *Gravel1        246
+    FernRidg       201
+    IndianLa       199
+Greenhor    3
+    CedarB1       1556
+    SweetHom      1546
+    BaldPete       317
+Hatch1      6
+    Rodgers1      2728
+   *RogersM2      1511
+    Hatch2        1024
+    Stayton1       924
+    GravelP1       746
+    Stayton3       272
+Hatch2     11
+    Rodgers1      1926
+    Hatch1        1732
+    FernRidg      1443
+    GravelP3      1179
+   *RogersM2       497
+    Stayton2       396
+   *Gravel1        394
+   *BarnetKn       379
+    IndianLa       343
+   *RadioT1        279
+    Stayton3       201
+IndianLa   11
+    Neal          1544
+    FernRidg       619
+    GravelP3       275
+    Hatch2         273
+   *RoundMT1       240
+   *RadioT1        226
+    Rodgers1       216
+    RogersM2       206
+   *Talbot2        166
+   *Gravel1        134
+   *RogersM1       124
+JohnsonH    5
+    Microwav      1005
+    Granger1       963
+   *BarnetKn       288
+    Talbot4        278
+   *RogersM2       128
+KeelMTN     8
+    RoundMT3      5976
+    BaldPete      1845
+    CedarB1       1439
+    RoundMT2      1367
+    RogersM1      1122
+    SweetHom       580
+    Leban31        427
+   *BarnetKn       402
+Leban11     9
+    RogersM1      1561
+    RadioT2        814
+   *RoundMT3       770
+    Leban21        579
+    RadioT1        552
+   *BarnetKn       378
+   *KeelMTN        313
+    Leban31        301
+    Leban12        216
+Leban12     9
+    Leban31        306
+   *KeelMTN        293
+   *RoundMT3       197
+    Leban21        148
+    Leban11        141
+   *RadioT2        120
+   *BarnetKn        64
+   *CedarB2         59
+   *RogersM1        49
+Leban21     9
+    Leban11        558
+    Leban31        322
+   *RadioT2        248
+   *RogersM1       185
+    Leban12        116
+   *RoundMT3        68
+   *KeelMTN         65
+   *BarnetKn        52
+   *CedarB2         40
+Leban31    10
+   *RadioT2        675
+   *RogersM1       513
+    Leban12        440
+    KeelMTN        410
+   *RoundMT3       255
+    Leban21        246
+    Leban11        176
+    CedarB1         93
+   *CedarB2         91
+   *BarnetKn        78
+Microwav    7
+    Talbot1       2882
+    BarnetKn      2519
+    JohnsonH      2495
+    Granger1      1003
+    Talbot4        919
+   *RogersM2       538
+   *Gravel1        499
+Neal        7
+    IndianLa      3536
+    FernRidg      1282
+   *RoundMT1       813
+    GravelP3       694
+   *StatePar       581
+    RogersM2       400
+   *Gravel1        327
+RadioT1     9
+    BarnetKn      5118
+    RadioT2       3802
+    GravelP2      2789
+    Gravel1       2736
+    RogersM1      2137
+    RogersM2      2089
+    RoundMT1       715
+    Leban11        597
+   *Granger2       535
+RadioT2    11
+    RadioT1       4824
+    BarnetKn      3946
+    RogersM1      3443
+   *GravelP2      2104
+    Tangent2      1824
+   *RoundMT3      1393
+   *KeelMTN       1367
+    Granger2      1304
+    Leban11       1212
+    Tangent1      1168
+    Albany22       654
+Rodgers1    9
+    Hatch1        3421
+    RogersM2      3035
+    GravelP1      2982
+    BarnetKn      1598
+    IndianLa      1030
+    FernRidg       797
+   *Neal           759
+    Hatch2         636
+    Stayton1       600
+RogersM1   10
+    RadioT1       4490
+    RoundMT3      3792
+    RoundMT1      3698
+    RogersM2      3454
+    KeelMTN       1821
+    Leban11       1725
+    BarnetKn      1350
+    GravelP3      1249
+   *Rodgers1       662
+    RadioT2        578
+RogersM2   11
+    RogersM1      1535
+    GravelP3      1130
+    GravelP1       582
+    Neal           582
+   *RoundMT1       453
+    RadioT1        445
+    GravelP2       383
+    BarnetKn       361
+    IndianLa       345
+    Rodgers1       253
+    Gravel1        178
+RoundMT1    6
+    RoundMT3      4051
+    RoundMT2      2309
+    RogersM1      1691
+    RadioT1       1453
+   *KeelMTN        679
+    GravelP3       367
+RoundMT2    6
+    RoundMT1      1360
+    KeelMTN       1283
+    RoundMT3       920
+   *RogersM1       371
+   *Rodgers1       113
+   *RadioT1        103
+RoundMT3    7
+    KeelMTN       6143
+    RoundMT1      2996
+    RoundMT2      2129
+    RogersM1      2043
+    CedarB1       1019
+    BaldPete       642
+   *RadioT1        588
+SnakeHil    3
+    CedarB2        412
+    Brownsvi       268
+   *Tuisa           73
+StatePar    6
+    FernRidg       759
+   *Rodgers1       243
+   *IndianLa       170
+   *Hatch2         158
+   *RadioT1        151
+   *GravelP3       122
+Stayton1   12
+    Hatch1        1010
+    Rodgers1       556
+   *Hatch2         513
+   *FernRidg       232
+   *IndianLa       199
+    Stayton3       115
+    Stayton2       115
+   *Neal           105
+   *RoundMT1        98
+   *RogersM2        87
+   *Gravel1         72
+   *GravelP3        66
+Stayton2    7
+    Stayton1       312
+    Hatch2         152
+    FernRidg       147
+   *Rodgers1       113
+   *StatePar        35
+   *IndianLa        24
+    Stayton3        23
+Stayton3    9
+    Stayton1       121
+    Hatch2         112
+    Hatch1          58
+    Stayton2        37
+   *FernRidg        29
+   *IndianLa        17
+   *Rodgers1        16
+   *RogersM2        13
+   *Neal            10
+SweetHom    6
+    CedarB1       3566
+    Greenhor      1804
+    KeelMTN       1247
+    BaldPete      1023
+   *RoundMT3       648
+   *CedarB2        559
+Talbot1     6
+    Talbot2       1573
+    Microwav      1354
+    Talbot4       1078
+    BarnetKn      1014
+    Granger1       701
+   *Gravel1        546
+Talbot2     9
+    BarnetKn      1933
+    Talbot1       1164
+    Gravel1        868
+    Talbot3        742
+   *RadioT1        344
+   *Rodgers1       235
+   *Granger1       212
+   *RogersM1       161
+    GravelP3       155
+Talbot3     6
+    BarnetKn       515
+    Talbot2        471
+    Talbot4        415
+   *Granger1        63
+   *RadioT1         43
+   *Tangent1        38
+Talbot4     8
+    BarnetKn      1543
+    Granger1      1513
+    Microwav      1403
+    Talbot3       1137
+    Talbot1       1076
+   *Talbot2        247
+    JohnsonH       184
+   *RogersM2       153
+Tangent1    8
+    Granger2      2941
+    Tangent3      2341
+   *BarnetKn      1774
+    RadioT2       1758
+    Tangent2      1215
+    Albany32       687
+   *RoundMT3       353
+   *KeelMTN        294
+Tangent2   11
+    RadioT2       1995
+    Tangent1      1604
+    WardB1        1194
+    Tangent3       994
+    WardB3         817
+   *Tuisa          445
+    CedarB2        432
+   *KeelMTN        265
+   *RoundMT3       221
+   *BarnetKn       193
+   *Granger2       186
+Tangent3    9
+    Tuisa         1965
+    Tangent1      1690
+   *CedarB2       1689
+    Tangent2      1346
+    WardB3        1016
+   *BarnetKn       560
+   *RadioT2        372
+   *RoundMT3       338
+   *KeelMTN        323
+Tuisa       4
+    WardB3        3995
+    CedarB2       3960
+    Tangent3      1833
+    Brownsvi       340
+WardB1      5
+    WardB3         711
+    Tangent2       618
+   *RadioT2        365
+   *CedarB2        238
+    WardB2          56
+WardB2      6
+    WardB3        1236
+   *CedarB2       1019
+   *Tangent2       323
+   *RadioT2        318
+   *Tuisa          141
+    WardB1          86
+WardB3      9
+    CedarB2       5148
+    Brownsvi      4684
+    Tuisa         3367
+    Tangent2      2246
+    WardB2        2020
+    WardB1        1731
+   *RadioT2       1404
+   *RoundMT3       534
+    Tangent3       483

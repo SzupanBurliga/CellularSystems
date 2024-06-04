@@ -1,0 +1,33 @@
+List of CPEs assigned per hub
+
+
+Hub ID: ABAA0002   Number of Assigned CPEs: 0
+Hub ID: ABAA0003   Number of Assigned CPEs: 0
+Hub ID: ABAA0004   Number of Assigned CPEs: 0
+Hub ID: ABAB0001   Number of Assigned CPEs: 0
+Hub ID: ABAB0002   Number of Assigned CPEs: 0
+Hub ID: ABAB0003   Number of Assigned CPEs: 0
+Hub ID: ABAC0001   Number of Assigned CPEs: 0
+Hub ID: ABAC0002   Number of Assigned CPEs: 0
+Hub ID: ABAC0003   Number of Assigned CPEs: 0
+Hub ID: ABAD0001   Number of Assigned CPEs: 0
+Hub ID: ABAD0003   Number of Assigned CPEs: 0
+Hub ID: ABAE0001   Number of Assigned CPEs: 0
+Hub ID: ABAF0001   Number of Assigned CPEs: 0
+Hub ID: ABAF0002   Number of Assigned CPEs: 0
+Hub ID: ABAF0003   Number of Assigned CPEs: 0
+Hub ID: ABAG0003   Number of Assigned CPEs: 0
+Hub ID: ABAH0001   Number of Assigned CPEs: 0
+Hub ID: ABAH0002   Number of Assigned CPEs: 0
+Hub ID: ABAH0003   Number of Assigned CPEs: 0
+Hub ID: ABAI0002   Number of Assigned CPEs: 0
+Hub ID: ABAI0003   Number of Assigned CPEs: 0
+Hub ID: ABAJ0002   Number of Assigned CPEs: 0
+Hub ID: ABAK0002   Number of Assigned CPEs: 0
+Hub ID: ABAL0001   Number of Assigned CPEs: 0
+Hub ID: ABAL0002   Number of Assigned CPEs: 0
+Hub ID: ABAL0003   Number of Assigned CPEs: 0
+Hub ID: ABAM0001   Number of Assigned CPEs: 0
+Hub ID: ABAM0002   Number of Assigned CPEs: 0
+Hub ID: ABAM0003   Number of Assigned CPEs: 0
+Hub ID: ABAN0001   Number of Assigned CPEs: 0

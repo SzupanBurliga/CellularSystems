@@ -1,0 +1,77 @@
+Traffic Loading Report
+----------------------
+
+Traffic source: Traffic from traffic database                     
+
+Circuit-switched blocking probability:   1.00%
+
+Circuit-switched average call duration:   1.76 minutes
+
+Percent of total traffic carried by group: 100.00 %
+
+          Circuit Traffic  Circuit Traffic   Number of    Channel  Current Blocking Packet Traffic
+Sector ID   (mErlangs)    Required Channels Channels Set Shortfall Probability (%)  (average mbps)
+--------- --------------- ----------------- ------------ --------- ---------------- --------------
+Albany11     13435.94             24             24           0          0.64         13.4359
+Albany12     11432.59             21             24          -3          0.08         11.4326
+Albany13      8015.74             16             16           0          0.92          8.0157
+Albany21      1568.92              6              8          -2          0.02          1.5689
+Albany22      2039.80              7              8          -1          0.13          2.0398
+Albany23      7907.19             16             16           0          0.81          7.9072
+Albany31     11378.51             21             24          -3          0.08         11.3785
+Albany32     10961.53             20             24          -4          0.05         10.9615
+Albany41      6749.38             15             16          -1          0.18          6.7494
+Albany42      6521.46             14             16          -2          0.13          6.5215
+Albany51      2210.92              7              8          -1          0.21          2.2109
+BaldPete       794.97              4              8          -4          0.00          0.7950
+BarnetKn     13376.25             24             24           0          0.61         13.3763
+Brownsvi      2456.69              8              8           0          0.41          2.4567
+CedarB1       6659.45             14             16          -2          0.16          6.6595
+CedarB2       1088.86              5              8          -3          0.00          1.0889
+FernRidg      4778.47             12             16          -4          0.00          4.7785
+Frank1         818.92              5              8          -3          0.00          0.8189
+Frank2         707.91              4              8          -4          0.00          0.7079
+Granger1      5447.57             13             16          -3          0.02          5.4476
+Granger2      7844.46             16             16           0          0.76          7.8445
+Gravel1      10490.31             20             24          -4          0.03         10.4903
+GravelP1      2801.67              8              8           0          0.88          2.8017
+GravelP2      5432.46             13             16          -3          0.02          5.4325
+GravelP3      1952.81              7              8          -1          0.10          1.9528
+Greenhor      2144.77              7              8          -1          0.18          2.1448
+Hatch1        5138.36             12             16          -4          0.01          5.1384
+Hatch2        2654.71              8              8           0          0.64          2.6547
+HogBack1      1898.85              7              8          -1          0.08          1.8988
+IndianLa       893.88              5              8          -3          0.00          0.8939
+JohnsonH       467.93              4              8          -4          0.00          0.4679
+KeelMTN       5201.53             12             16          -4          0.01          5.2015
+Leban11      10807.99             20             24          -4          0.04         10.8080
+Leban12       6623.72             14             16          -2          0.15          6.6237
+Leban21      15508.61             27             32          -5          0.02         15.5086
+Leban31       2711.65              8              8           0          0.73          2.7116
+Microwav      3959.68             10             16          -6          0.00          3.9597
+Neal          1841.69              7              8          -1          0.07          1.8417
+RadioT1       7013.18             15             16          -1          0.26          7.0132
+RadioT2      10789.57             20             24          -4          0.04         10.7896
+Rodgers1      9929.24             19             24          -5          0.01          9.9292
+RogersM1      9830.10             19             24          -5          0.01          9.8301
+RogersM2      1826.87              7              8          -1          0.06          1.8269
+RoundMT1       425.92              3              8          -5          0.00          0.4259
+RoundMT2         0.00              1              0           1          0.00          0.0000
+RoundMT3      7103.46             15             16          -1          0.30          7.1035
+SnakeHil       509.97              4              8          -4          0.00          0.5100
+StatePar      2564.73              8              8           0          0.53          2.5647
+Stayton1      9635.35             19             24          -5          0.01          9.6353
+Stayton2      1964.69              7              8          -1          0.10          1.9647
+Stayton3      5147.59             12             16          -4          0.01          5.1476
+SweetHom     19771.52             32             32           0          0.77         19.7715
+Talbot1       2297.83              8              8           0          0.27          2.2978
+Talbot2       1139.83              5              8          -3          0.00          1.1398
+Talbot3       1205.87              5              8          -3          0.00          1.2059
+Talbot4       1112.80              5              8          -3          0.00          1.1128
+Tangent1      6515.50             14             16          -2          0.13          6.5155
+Tangent2      1103.82              5              8          -3          0.00          1.1038
+Tangent3      1499.81              6              8          -2          0.02          1.4998
+Tuisa         1541.74              6              8          -2          0.02          1.5417
+WardB1         200.95              3              8          -5          0.00          0.2010
+WardB2         110.91              2              8          -6          0.00          0.1109
+WardB3        2579.52              8              8           0          0.54          2.5795
